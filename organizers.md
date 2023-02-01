@@ -38,6 +38,7 @@ background_position: 0% 44%
 | Late-breaking/Demo  |  
 |:-------------------|
 | Massimiliano Zanoni          | 
+| George Fazekas	|
 
 
 | Music and Tech	   |         
