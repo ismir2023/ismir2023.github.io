@@ -1,0 +1,78 @@
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+
+  {% include head.html %}
+  <!-- <script src="{{ '/assets/js/pixi.min.js' | relative_url }}"></script> -->
+  <body class="site">
+
+    {% if site.google_tag_manager %}
+
+      <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+      height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+
+    {% endif %}
+
+    {% include header.html %}
+
+    <div class="hero__home lazyload" data-bg="{{ site.url }}{{ site.baseurl }}/assets/img/{{ site.hero_img }}">
+      <div class="hero__wrap__home">
+        <h2 class="hero__title">
+          Welcome to the 24<sup>th</sup>
+          <br>
+          <b>International Society
+            <br>for Music Information Retrieval</b>
+            <br>Conference
+        </h2>
+        <p class="hero__meta">5&ndash;9 NOVEMBER 2023
+          <br>MILAN
+          <br>ITALY
+          <!-- <br>VIRTUAL CONFERENCE -->
+        </p>
+      </div>
+
+    </div>
+
+    <main class="site__content">
+      <section class="blog">
+        <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+          <div class="dates-container">
+            {% include dates.html %}
+          </div>
+          <div class="cards-container">
+            <p>
+              <img id="ismir-logo" src="{{ site.baseurl }}/assets/img/logos/MILAN_complete_logo.png">
+            </p>
+            <p style="text-align: justify;">
+              The 24th conference of the International Society for Music Information Retrieval (ISMIR) will be held in Milan, Italy, from November 5-9, 2023. ISMIR is the largest research venue for scholars, researchers, practitioners, and industries in the field of Music Information Retrieval (MIR), an interdisciplinary research area for the processing, analysis, indexing, organizing and accessing music-related data. ISMIR 2023 will be held in a hybrid format. The program will include submitted research papers and keynote talks by scholars in MIR and related areas. Special sessions will be organized to share thoughts and ideas on open problems in MIR. Satellite events will take place in the days following the conference, to promote discussion and collaboration between researchers working on MIR and related areas.
+            </p>  
+            <p>
+              More details to come.
+            </p>
+
+            <!--{% include city.html %} -->
+            <!-- {% include wimirgrants.html %} -->
+            <!-- <div class="small-cards">
+              {% assign cards = site.cards | sort: 'order' %}
+              {% for card in cards %}
+                {% include card.html %}
+              {% endfor %}
+            </div> -->
+            <!-- {% include sponsors.html %} -->
+          </div>
+          <!-- {% include card.html title="The Event" %} -->
+
+          <!-- {% include pagination.html %} -->
+        </div>
+      </section>
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
