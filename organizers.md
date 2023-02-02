@@ -41,10 +41,16 @@ background_position: 0% 44%
 | George Fazekas	|
 
 
+| Jam Session	   |         
+|:--------------------|
+| Francois Pachet     |
+| Mark D’Inverno      |
+
+
 | Music and Tech	   |         
 |:--------------------|
 | Matthew Yee King     |
-| Francois Pachet      |
+| Cristina Rottondi      |
 
 
 
@@ -67,6 +73,7 @@ background_position: 0% 44%
 |:--------------------|
 | Riccardo Giampiccolo  |
 | Francesca Ronchini  | 
+
 
 | Social program & Local Organization       |                                                                                                
 |:----------------|
