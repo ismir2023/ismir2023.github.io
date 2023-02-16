@@ -2,7 +2,7 @@
 layout: page
 title: Call for Tutorials
 background_position: 0% 70%
-permalink: /cfp/
+permalink: /cft/
 summary: The Call for Tutorials of the 24th International Society for Music Information Retrieval Conference
 ---
 
