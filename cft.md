@@ -46,9 +46,9 @@ Acceptance/rejection decisions will be made by the ISMIR 2023 Tutorial Chairs, a
 - Usage of open-source and free software tools/data, reproducible research
 
 You may refer to the tutorials offered in previous years for recently covered topics:
-- ISMIR 2022 (https://ismir2022.ismir.net/program/tutorials) 
-- ISMIR 2021 (https://ismir2021.ismir.net/tutorials/)
-- ISMIR 2020 (https://program.ismir2020.net/tutorials.html)
+- [ISMIR 2022](https://ismir2022.ismir.net/program/tutorials) 
+- [ISMIR 2021](https://ismir2021.ismir.net/tutorials/)
+- [ISMIR 2020](https://program.ismir2020.net/tutorials.html)
 
 
 
