@@ -20,8 +20,9 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   # - {name: 'Home', link: '/'}
+  
   - name: "Calls"
-  subitems:
+    subitems:
     - {name: 'Call for Papers', link: '/cfp'}
     - {name: 'Call for Tutorials', link: '/cft'}
   - {name: 'Dates', link: '/dates'}
