@@ -28,11 +28,15 @@
     {% include critical.css %}
 
   </style>
+  
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+  <!--{% assign cacheBust = site.time | date:'?v=%s' %}-->
+  
   <link rel="preload" href="{{ '/assets/css/main.css' | relative_url }}" as="style" onload="this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}"></noscript>
   <link rel="stylesheet" href="{{ '/assets/css/tablesaw.css' | relative_url }}">
   <script src="{{ '/assets/js/tablesaw.js' | relative_url }}"></script>
-  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
   <script src="{{ '/assets/js/tablesaw-init.js' | relative_url }}"></script>
   <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
   <script type="text/javascript">
