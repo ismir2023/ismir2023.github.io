@@ -28,7 +28,9 @@ navigation: # Navigation links
   - {name: 'Attend', link: '/milano'}
   - {name: 'Organizing committee', link: '/organizers'}
   - {name: 'Contact', link: '/contact'}
-  - {name: 'Mentoring', link: '/diversity/mentoring'}
+  - name: "Diversity & Inclusion"
+    subitems:
+    - {name: 'Mentoring', link: '/diversity/mentoring'}
 
 tagline: >
   Milan, Italy
