@@ -18,10 +18,12 @@ social:
   #  - https://keybase.io/benbalter
 
 # THEME SETTINGS
+# - {name: 'Home', link: '/'}
 navigation: # Navigation links
-  # - {name: 'Home', link: '/'}
-  - {name: 'Call for Papers', link: '/cfp'}
-  - {name: 'Call for Tutorials', link: '/cft'}
+  - name: "Calls"
+    subitems:
+     - {name: 'Call for Papers', link: '/cfp'}
+     - {name: 'Call for Tutorials', link: '/cft'}
   - {name: 'Dates', link: '/dates'}
   - {name: 'Attend', link: '/milano'}
   - {name: 'Organizing committee', link: '/organizers'}
