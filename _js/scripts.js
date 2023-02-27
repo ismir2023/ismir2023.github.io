@@ -11,12 +11,6 @@ require( "lazysizes/plugins/unveilhooks/ls.unveilhooks.js" );
 //     document.getElementById('montreal-video').controls = true;
 // } );
 
-
-// Close modal if ESC is pressed
-$( document ).keyup( function( e ) {
-    e.keyCode === 27 ? removeModal() : null;
-} );
-
 $( window ).resize( function() {
     $( ".header" ).removeClass( "hide-nav" ); // Ensure nav will be shown on resize
     $( ".header__toggle" ).removeClass( "--open" ); // luca
@@ -24,6 +18,13 @@ $( window ).resize( function() {
     $( ".header__links" ).removeAttr( "style" ); // If mobile nav was collapsed, make sure it's show on DESK
     $( ".header__overlay" ).remove(); // Remove mobile navigation overlay in case it was opened
 } );
+
+
+// Close modal if ESC is pressed
+$( document ).keyup( function( e ) {
+    e.keyCode === 27 ? removeModal() : null;
+} );
+
 
 /*-------------------------------------------------------------------------*/
 /* MOBILE NAVIGATION */
