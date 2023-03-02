@@ -52,7 +52,14 @@ background_position: 0% 44%
 | Matthew Yee King     |
 | Cristina Rottondi      |
 
+| Sponsorship/Industry |         
+|:--------------------|
+| Ilaria Manco |
+|  Luca Andrea Ludovico     |
 
+| Satellite Events Chair |         
+|:--------------------|
+| Federico Avanzini |
 
 | Women in MIR / Diversity and inclusion| 
 |:--------------------|
