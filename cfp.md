@@ -27,7 +27,7 @@ Beyond the topics of interest listed above, a special focus will be placed on th
 Full paper review: Each paper will be reviewed by at least three reviewers and a program committee member (meta-reviewer) who will oversee the process and write a meta-review with a recommendation. The Scientific Program Chairs will make the final decision based on that recommendation.
 Double blind review: ISMIR follows a double-blind review process. Authors should not know the names of the reviewers of their papers, and reviewers should not know the name(s) of the author(s).
 
-Evaluation criteria: Evaluation criteria include scholarly/scientific quality, novelty of the paper, reusable insights, novelty, readability and paper organization, potential to generate discourse, and relevance of the topic to ISMIR. Papers which propose brave new ideas are valued. It is helpful to read the [reviewer guidelines](https://ismir.net/reviewer-guidelines before paper submission).
+Evaluation criteria: Evaluation criteria include scholarly/scientific quality, novelty of the paper, reusable insights, novelty, readability and paper organization, potential to generate discourse, and relevance of the topic to ISMIR. Papers which propose brave new ideas are valued. It is helpful to read the [reviewer guidelines](https://ismir.net/reviewer-guidelines) before paper submission.
 
 
 
