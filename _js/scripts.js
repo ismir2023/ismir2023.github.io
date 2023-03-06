@@ -11,6 +11,14 @@ require( "lazysizes/plugins/unveilhooks/ls.unveilhooks.js" );
 //     document.getElementById('montreal-video').controls = true;
 // } );
 
+// Jquery & Velocity JS included in GULP LUCA
+$( document ).ready( function() {
+    toggleMobileNav();
+    ShowHideNav();
+    formCheck();
+
+} );
+
 $( window ).resize( function() {
     $( ".header" ).removeClass( "hide-nav" ); // Ensure nav will be shown on resize
     $( ".header__toggle" ).removeClass( "--open" ); // luca
