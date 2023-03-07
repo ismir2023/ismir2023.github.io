@@ -1,26 +1,23 @@
 <header aria-label="Main navigation" class="header" itemscope itemtype="http://schema.org/SiteNavigationElement">
-   <div class="container" >
-      
+   <div class="container">
            <nav class="navbar navbar-light navbar-expand-lg bg-color py-0">
            <a class="navbar-brand header__logo" href="{{ '/' | relative_url }}">
-                    <div class="header__logo--container">
-                        <img alt="" height="30" src="{{ site.url }}{{ site.baseurl }}/assets/img/logos/MILAN_logotype.png
-" width="30">
-                    </div>
+              <div class="header__logo--container">
+                  <img alt="" height="30" src="{{ site.url }}{{ site.baseurl }}/assets/img/logos/MILAN_logotype.png" width="30">
+              </div>
             </a>
-               
-   <!--
-        <div class="container header-container" style="height: 80px;">
-    <div class="header__inner">
-      <a class="header__logo" href="{{ '/' | relative_url }}">
-          <img src="{{ site.url }}{{ site.baseurl }}/assets/img/logos/MILAN_logotype.png"/>
-      </a>
-      --> 
-
+               <!--
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+               -->
+              <button aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler"
+                        data-target="#navbarNavDropdown" data-toggle="collapse" type="button">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+              
+                <!--<div class="collapse navbar-collapse justify-content-end" id="navbarNav"> -->
+                <div class="collapse navbar-collapse justify-content-end" id="navbarNavDropdown">
                     <ul class="navbar-nav">
                         {% for item in site.navigation %}
                         {% if item.subitems %}
@@ -46,11 +43,5 @@
                     </ul>
                 </div>
             </nav>
-           <!--  <div class="header__toggle">
-               <span></span>
-               <span></span>
-               <span></span>-->
             </div>
-        </div>
-<!--    </div>-->
 </header>
