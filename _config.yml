@@ -24,6 +24,7 @@ navigation: # Navigation links
     subitems:
      - {name: 'Call for Papers', link: '/cfp'}
      - {name: 'Call for Tutorials', link: '/cft'}
+     - {name: 'Call for Volunteers', link: '/cfv'}
   - {name: 'Dates', link: '/dates'}
   - {name: 'Attend', link: '/milano'}
   - {name: 'Organizing committee', link: '/organizers'}
