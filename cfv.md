@@ -14,7 +14,7 @@ The volunteers will help to support the 24-hour schedule over the 5 days of the 
 If you are interested in volunteering for ISMIR 2023, please be patient. We will open the submission form in mid May 2023.\
 In the meantime, if you would like have more information, please do not hesitate to contact us.\
 We look forward to hearing from you and working together to make a positive impact in our community.\
-Thank you in advance for your contributions and interest to ISMIR 2023!\
+Thank you in advance for your contributions and interest to ISMIR 2023!
 
 # Important dates
 
