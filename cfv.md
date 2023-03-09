@@ -2,7 +2,7 @@
 layout: page
 title: Call for Volunteers
 background_position: 0% 70%
-permalink: /cfp/
+permalink: /cfv/
 summary: The Call for Volunteers of the 24th International Society for Music Information Retrieval Conference
 ---
 
