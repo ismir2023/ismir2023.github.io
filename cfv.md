@@ -26,4 +26,4 @@ Time zone : [Anywhere On Earth (AOE)](https://www.timeanddate.com/time/zones/aoe
 Riccardo Giampiccolo\
 Francesca Ronchini\
 ISMIR 2023 Volunteer Chairs\
-[ismir2023-volunteers@ismir.net](ismir2023-volunteers@ismir.net)\
+[ismir2023-volunteers@ismir.net](ismir2023-volunteers@ismir.net)
