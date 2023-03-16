@@ -52,6 +52,11 @@ background_position: 0% 44%
 | Matthew Yee King     |
 | Cristina Rottondi      |
 
+| Sponsorship/Industry |         
+|:--------------------|
+| Ilaria Manco |
+|  Luca Andrea Ludovico     |
+
 
 | Sponsorship/Industry |         
 |:--------------------|

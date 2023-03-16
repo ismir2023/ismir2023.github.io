@@ -11,16 +11,28 @@ require( "lazysizes/plugins/unveilhooks/ls.unveilhooks.js" );
 //     document.getElementById('montreal-video').controls = true;
 // } );
 
+// Jquery & Velocity JS included in GULP LUCA
+$( document ).ready( function() {
+    toggleMobileNav();
+    ShowHideNav();
+    formCheck();
+
+} );
+
+$( window ).resize( function() {
+    $( ".header" ).removeClass( "hide-nav" ); // Ensure nav will be shown on resize
+    $( ".header__toggle" ).removeClass( "--open" ); // luca
+    $( ".header__links" ).removeClass( "js--open" ); //luca
+    $( ".header__links" ).removeAttr( "style" ); // If mobile nav was collapsed, make sure it's show on DESK
+    $( ".header__overlay" ).remove(); // Remove mobile navigation overlay in case it was opened
+} );
+
+
 // Close modal if ESC is pressed
 $( document ).keyup( function( e ) {
     e.keyCode === 27 ? removeModal() : null;
 } );
 
-$( window ).resize( function() {
-    $( ".header" ).removeClass( "hide-nav" ); // Ensure nav will be shown on resize
-    $( ".header__links" ).removeAttr( "style" ); // If mobile nav was collapsed, make sure it's show on DESK
-    $( ".header__overlay" ).remove(); // Remove mobile navigation overlay in case it was opened
-} );
 
 /*-------------------------------------------------------------------------*/
 /* MOBILE NAVIGATION */
@@ -155,7 +167,35 @@ function ShowHideNav() {
 /*-------------------------------------------------------------------------*/
 /* HANDLE MODAL */
 /* -----------------------------------------------------------------------*/
+// Luca
+function openModal() {
+    $( "body" ).css( "overflow", "hidden" );
+    $( ".modal, .modal__overlay" ).show().css( "display", "flex" );
+    $( ".modal__inner" ).velocity( { translateY: 0, opacity: 1 } );
+    $( ".modal__overlay" ).velocity( { opacity: 1 }, 100 );
+}
 
+function removeModal() {
+    $( "body" ).css( { "overflow": "visible" } );
+    $( ".modal, .modal__overlay, .modal__inner" ).velocity( { opacity: 0 }, function() {
+        $( ".modal" ).css( { opacity: 1 } );
+        $( ".modal__inner" ).css( {
+            "-webkit-transform": "translateY(200px)",
+            "-ms-transform": "translateY(200px)",
+            transform: "translateY(200px)"
+        } );
+        $( ".modal, .modal__overlay" ).hide();
+        $( ".modal__body" ).empty();
+    } );
+}
+
+$( ".js-modal-close" ).click( function() {
+    removeModal();
+} );
+
+$( ".modal__overlay" ).click( function() {
+    removeModal();
+} );
 // function openModal() {
 //     $( "body" ).css( "overflow", "hidden" );
 //     $( ".modal, .modal__overlay" ).show().css( "display", "flex" );
