@@ -71,7 +71,6 @@ background_position: 0% 44%
 
 | Women in MIR / Diversity and inclusion| 
 |:--------------------|
-| Helene Camille Crayencour          |
 | Giorgia Cantisani          | 
 
 
@@ -81,6 +80,7 @@ background_position: 0% 44%
 | Marco Olivieri                        | 
 | Luca Comanducci                        |
 | Mirco Pezzoli                        | 
+| Clara Borrelli                        |
 
 
 
