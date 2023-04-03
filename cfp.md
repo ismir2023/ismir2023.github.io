@@ -30,7 +30,7 @@ Double blind review: ISMIR follows a double-blind review process. Authors should
 
 Evaluation criteria: Evaluation criteria include scholarly/scientific quality, novelty of the paper, reusable insights, novelty, readability and paper organization, potential to generate discourse, and relevance of the topic to ISMIR. Papers which propose brave new ideas are valued. It is helpful to read the [reviewer guidelines](https://ismir.net/reviewer-guidelines) before paper submission.
 
-# Submsission procedure
+# Submission procedure
 Submission site: [link](https://cmt3.research.microsoft.com/ISMIR2023/)
 
 Abstract submission: The paper title, author names, contact details, and abstract must be submitted by the abstract submission deadline. The title and abstract, together with the selected subject area, are the primary sources for assigning papers to reviewers. So, make sure that they form a concise and complete summary of your paper with sufficient information to let someone who has not read the full paper know what it is about.
