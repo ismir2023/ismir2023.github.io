@@ -57,12 +57,6 @@ background_position: 0% 44%
 | Ilaria Manco |
 |  Luca Andrea Ludovico     |
 
-
-| Sponsorship/Industry |         
-|:--------------------|
-| Ilaria Manco |
-|  Luca Andrea Ludovico     |
-
 | Satellite Events Chair |         
 |:--------------------|
 | Federico Avanzini |
