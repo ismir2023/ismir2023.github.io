@@ -23,21 +23,41 @@ Please find the benefits for Conference Sponsorship and WiMIR  Sponsorship below
 | Logo and company name on website, proceedings,  video broadcasts  |  Large | Medium  |  Small | 
 | Complementary full conference registrations  |5| 3  |  1 |  
 | Sponsorship acknowledgment on social media  |  :white_check_mark: | :white_check_mark:  |  :white_check_mark: | 
-| Physical booth | :white_check_mark:  |  :x:^* |  :x:^*  | 
-| Virtual Booth” in the conference platform |   |   |   | 
-| Dedicated “communication channel” during the conference  |   |   |   | 
-| Session in the industry meetup in the conference program |   |   |   | 
-| Post jobs and internships on the careers page of ISMIR 2023 website |   |   |   | 
-| Promo items / social event   |   |   |   | 
+| Physical booth | :white_check_mark:  |  :x:<sup>*</sup> |  :x:<sup>*</sup>  | 
+| Virtual Booth” in the conference platform | Large  | Medium  | Small<sup>*1</sup>  | 
+| Dedicated “communication channel” during the conference  | :white_check_mark:   | :white_check_mark:   |  :white_check_mark:<sup>*1</sup>  | 
+| Session in the industry meetup in the conference program | Dedicated full session  |  Short session | Short session:<sup>*1</sup>  | 
+| Post jobs and internships on the careers page of ISMIR 2023 website | :white_check_mark:   |:white_check_mark:    |  :white_check_mark:  | 
+| Promo items / social event   |  2  | 1 |  1 | 
 | prize<sup>*2</sup> |   |   |   | 
-| Sponsorship acknowledgment on social media  |   |   |   | 
-| Sponsorship acknowledgment on social media  |   |   |   | 
-| Sponsorship acknowledgment on social media  |   |   |   | 
+| Access to opt-in attendee “CV pool”  |  :white_check_mark:   |   :white_check_mark:  |   :x:| 
+| Submit posts to the “job board”  |   :white_check_mark:  (promoted post) |   :white_check_mark:  |  :x: | 
+| Reserved seat in industry events |  2 events | 1 event  |  :x: | 
+| 1 sponsored talk| :white_check_mark:  | :x:  | :x:   | 
+| Sponsorship of awards|  :white_check_mark: |:x:   | :x:  | 
+| Logo on conference bag| :white_check_mark:  |  :x: | :x:  | 
+
+
+<sup>*</sup>physical booths not included for Gold and Silver sponsors, but available upon request  at an additional cost
+
+
+<sup>*1</sup>only one of these 3 benefits, as chosen by the sponsor
+
+<sup>*2</sup>  promotional items are to be provided and delivered to the conference at the expense of the sponsor
+
+
+## WiMIR Sponsorship Packages
+
+|   |Patron(€ 5000)| Contributor (€2500) | Supporter (€500)  |  
+|---|---|---|---|
+|Social media acknowledgment through WiMIR’s Twitter account |   :white_check_mark: |  :white_check_mark:  |   :white_check_mark: | 
+| Acknowledgement in dedicated WiMIR program elements | :white_check_mark:|  :white_check_mark:  |   :white_check_mark: |  
+|Logo (WiMIR website, official WiMIR @ ISMIR 2023 presentations)  | Large | Medium  |  Small | 
 
 
 
 
-#Contact 
+### Contact 
 If you are interested in sponsoring ISMIR 2023 or have any other queries related to sponsorships, please contact us at ismir2023-sponsorship@ismir.net.
 
 Ilaria Manco, Luca A. Ludovico
