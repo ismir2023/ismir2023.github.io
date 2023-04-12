@@ -22,8 +22,8 @@ Please find the benefits for Conference Sponsorship and WiMIR  Sponsorship below
 |---|---|---|---|
 | Logo and company name on website, proceedings,  video broadcasts  |  Large | Medium  |  Small | 
 | Complementary full conference registrations  |5| 3  |  1 |  
-| Sponsorship acknowledgment on social media  |  :white_check_mark: | :white_check_mark:  |  :white_check_mark: | 
-| Physical booth | :white_check_mark:  |  :x:<sup>*</sup> |  :x:<sup>*</sup>  | 
+| Sponsorship acknowledgment on social media  |  ✅| :white_check_mark:  |  :white_check_mark: | 
+| Physical booth | :white_check_mark:  |  :x:<sup>*</sup> |  ❌<sup>*</sup>  | 
 | Virtual Booth” in the conference platform | Large  | Medium  | Small<sup>*1</sup>  | 
 | Dedicated “communication channel” during the conference  | :white_check_mark:   | :white_check_mark:   |  :white_check_mark:<sup>*1</sup>  | 
 | Session in the industry meetup in the conference program | Dedicated full session  |  Short session | Short session:<sup>*1</sup>  | 
