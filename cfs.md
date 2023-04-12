@@ -18,7 +18,7 @@ Please find the benefits for Conference Sponsorship and WiMIR  Sponsorship below
 
 ## ISMIR 2023 Sponsorship Packages
 
-|   |Platinum(€ 10000)| Gold(€ 10000)  | Silver (€ 2500)  |  
+|   |Platinum(€ 10000)| Gold(€ 5000)  | Silver (€ 2500)  |  
 |---|---|---|---|
 | Logo and company name on website, proceedings,  video broadcasts  |  Large | Medium  |  Small | 
 | Complementary full conference registrations  |5| 3  |  1 |  
