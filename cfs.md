@@ -33,7 +33,7 @@ Please find the benefits for Conference Sponsorship and WiMIR  Sponsorship below
 | Access to opt-in attendee “CV pool”  | ✅  |  ✅  |  ❌| 
 | Submit posts to the “job board”  |   ✅ (promoted post) |  ✅ |  ❌ | 
 | Reserved seat in industry events |  2 events | 1 event  |  ❌| 
-| 1 sponsored talk| :white_check_mark:  | ❌| ❌  | 
+| 1 sponsored talk| ✅  | ❌| ❌  | 
 | Sponsorship of awards| ✅ |❌  | ❌  | 
 | Logo on conference bag| ✅ |  ❌| ❌ | 
 
