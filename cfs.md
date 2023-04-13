@@ -47,7 +47,7 @@ Please find the benefits for Conference Sponsorship and WiMIR  Sponsorship below
 
 ## WiMIR Sponsorship Packages
 
-|   |Patron(€ 5000)| Contributor (€2500) | Supporter (€500)  |  
+|   |Patron (€5000)| Contributor (€2500) | Supporter (€500)  |  
 |---|---|---|---|
 |Social media acknowledgment through WiMIR’s Twitter account |  ✅|  ✅  |   ✅ | 
 | Acknowledgement in dedicated WiMIR program elements | ✅| ✅  |   ✅ |  
