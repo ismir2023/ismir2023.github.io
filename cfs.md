@@ -10,26 +10,25 @@ It is our great pleasure to announce the Call for Sponsors for the 24th Internat
 
 ISMIR is the largest research venue for scholars, researchers and practitioners in the field of Music Information Retrieval (MIR), an interdisciplinary research area that aims to develop computational tools for processing, analysis, indexing, organizing and accessing music-related data. 
 
-ISMIR 2023 offers sponsorship opportunities at the Platinum, Gold, and Silver levels, as described below. By taking this opportunity to become a proud sponsor of the conference, you can showcase your company’s latest products to an international community of MIR researchers and practitioners, recruit top technical talent, and learn about state-of-the-art research and technologies in MIR.
+ISMIR 2023 offers sponsorship opportunities at the Platinum, Gold, and Silver levels, as described below. By taking this opportunity to become a proud sponsor of the conference, you can ***showcase your company’s latest products*** to an international community of MIR researchers and practitioners, ***recruit top technical talent***, and ***learn about state-of-the-art research*** and technologies in MIR.
 
-In addition to the main conference sponsorship, we offer the opportunity to support WiMIR (Women in Music Information Retrieval) initiatives and we also welcome sponsorship contributions for specific initiatives, including student travel awards, best paper and presentation awards, and social events.
+In addition to the main conference sponsorship, we offer the opportunity to ***support WiMIR*** (Women in Music Information Retrieval) initiatives and we also welcome ***sponsorship contributions for specific initiatives***, including student travel awards, best paper and presentation awards, and social events.
 
 Please find the benefits for Conference Sponsorship and WiMIR  Sponsorship below.
 
 ## ISMIR 2023 Sponsorship Packages
 
-|   |Platinum(€ 10000)| Gold(€ 5000)  | Silver (€ 2500)  |  
+|   |Platinum (€10000)| Gold (€5000)  | Silver (€2500)  |  
 |---|---|---|---|
 | Logo and company name on website, proceedings,  video broadcasts  |  Large | Medium  |  Small | 
 | Complementary full conference registrations  |5| 3  |  1 |  
 | Sponsorship acknowledgment on social media  |  ✅| ✅ |  ✅| 
 | Physical booth | ✅ | ❌<sup>*</sup> |  ❌<sup>*</sup>  | 
-| Virtual Booth” in the conference platform | Large  | Medium  | Small<sup>*1</sup>  | 
+| Virtual booth in the conference platform | Large  | Medium  | Small<sup>*1</sup>  | 
 | Dedicated “communication channel” during the conference  | ✅   | ✅   |  ✅<sup>*1</sup>  | 
 | Session in the industry meetup in the conference program | Dedicated full session  |  Short session | Short session:<sup>*1</sup>  | 
 | Post jobs and internships on the careers page of ISMIR 2023 website | ✅  |✅  |  ✅ | 
-| Promo items / social event   |  2  | 1 |  1 | 
-| prize<sup>*2</sup> |   |   |   | 
+| Promo items / social event prize<sup>*2</sup>  |  2  | 1 |  1 | 
 | Access to opt-in attendee “CV pool”  | ✅  |  ✅  |  ❌| 
 | Submit posts to the “job board”  |   ✅ (promoted post) |  ✅ |  ❌ | 
 | Reserved seat in industry events |  2 events | 1 event  |  ❌| 
