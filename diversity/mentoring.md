@@ -36,7 +36,7 @@ The proposed authors of the papers submitted to the mentoring program must satis
   * [March 20] Mentors and mentees are matched and introduced to each other
   * [April 1-6] (Optional) Further discussions/review iterations
   * [April 6] ISMIR 2023 abstract submission deadline
-  * [April 13] ISMIR 2023 paper submission deadline
+  * [April 14] ISMIR 2023 paper submission deadline
     
 ## Topics
 
