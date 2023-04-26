@@ -65,7 +65,9 @@ background_position: 0% 44%
 
 | Women in MIR / Diversity and inclusion| 
 |:--------------------|
-| Giorgia Cantisani          | 
+| Claire Arthur  |
+| Xiao Hu  |
+| Francesca Ronchini |
 
 
 
