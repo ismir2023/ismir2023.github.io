@@ -28,7 +28,7 @@ navigation: # Navigation links
      - {name: 'Call for Sponsors', link: '/cfs'}
   - name: "Program"
     subitems:
-     - {name: 'Satellite Evenetss', link: '/satellites'}
+     - {name: 'Satellite Evenets', link: '/satellites'}
   - {name: 'Dates', link: '/dates'}
   - {name: 'Attend', link: '/milano'}
   - {name: 'Organizing committee', link: '/organizers'}
