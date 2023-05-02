@@ -12,7 +12,7 @@ ISMIR 2023 will be accompanied by several satellite events around the conference
 # Workshop on Human-Centric Music Information Research (HCMIR)
 ## November 5th-9th, 2023
 
-The Call for Papers is out: https://sites.google.com/view/hcmir23/call-for-papers
+The Call for Papers is out: [https://sites.google.com/view/hcmir23/call-for-papers](https://sites.google.com/view/hcmir23/call-for-papers)
 
 We invite the submission of papers – from both academia and industry -- on topics such as: 
 -Algorithmic and dataset biases in MIR
