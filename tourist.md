@@ -24,7 +24,7 @@ Milan is known worldwide for its fashion, design, and finance, but it also offer
 
 - **The Last Supper**: a famous mural painting by Leonardo da Vinci located in the refectory of the convent of Santa Maria delle Grazie. It's one of the most iconic artworks in the world, and you can book a guided tour to see it up close.
 
-![The Last Supper](https://commons.wikimedia.org/wiki/File:%C3%9Altima_Cena_-_Da_Vinci_5.jpg#/media/File:%C3%9Altima_Cena_-_Da_Vinci_5.jpg)
+![The Last Supper](/assets/img/ultima_cena.jpg)
 
 - **Sforza Castle**: a historic fortress that now houses several museums, including the Museum of Ancient Art, the Museum of Musical Instruments, and the Egyptian Museum.
 
