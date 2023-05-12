@@ -6,7 +6,7 @@ permalink: /venue/
 summary: Venue Info of the 24th International Society for Music Information Retrieval Conference
 ---
 
-![](_img/polimi.jpeg)
+![](assets/img/polimi.jpg)
 *Politecnico di Milano*
 
 We are honoured and proud to hold the 2023 edition of the 24th International Society for Music Information Retrieval Conference at the premises of the Politecnico di Milano, Leonardo Campus, Milan, Itay.
