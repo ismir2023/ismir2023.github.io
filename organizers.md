@@ -44,7 +44,7 @@ background_position: 0% 44%
 | Jam Session	   |         
 |:--------------------|
 | Francois Pachet     |
-| Mark D’Inverno      |
+| Mark d’Inverno      |
 
 
 | Music and Tech	   |         
