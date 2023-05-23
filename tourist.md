@@ -16,7 +16,7 @@ Milan is known worldwide for its fashion, design, and finance, but it also offer
 
 - **The Duomo**: Milan's iconic Gothic cathedral that took nearly six centuries to complete. You can climb to the top of the Duomo and enjoy a stunning view of the city. 
 
-![Duomo](https://commons.wikimedia.org/wiki/File:Gothic_Milan_Cathedral.jpg#/media/File:Gothic_Milan_Cathedral.jpg)
+![Duomo](https://commons.m.wikimedia.org/wiki/File:Il_Duomo,_Milano.jpg)
 
 - **Galleria Vittorio Emanuele II**: a historic shopping arcade that opened in the late 19th century. It features high-end stores, restaurants, and cafes, and it's a great place to take a break from sightseeing and enjoy a coffee or an aperitivo.
 
