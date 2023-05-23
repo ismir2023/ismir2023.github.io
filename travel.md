@@ -10,7 +10,7 @@ summary: Travel Info of the 24th International Society for Music Information Ret
 
 If you're planning on attending an event or visiting Politecnico di Milano, here are some travel options to consider.
 
-#Travel Options
+## Travel Options
 ## Train
 Taking the train to Milan is a great way to travel. Milan has excellent rail connections with the rest of Europe, and there are several high-speed trains that operate to and from Milan. From the main train station in Milan, Milano Centrale, you can take the subway (Line 2, green line) to reach Politecnico di Milano.
 Apart from booking specific trains from A to B, you can also consider the option of a Interrail/Eurail pass. This gives great flexibility: you can use almost any train in Europe and most do not even need booking in advance.
