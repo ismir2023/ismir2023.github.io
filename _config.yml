@@ -30,13 +30,12 @@ navigation: # Navigation links
     subitems:
      - {name: 'Satellite Events', link: '/satellites'}
   - {name: 'Dates', link: '/dates'}
-  #- {name: 'Attend', link: '/milano'}
   - name: "Attend"
     subitems:
-    - {name: 'Venue', link: '/venue'}
-    - {name: 'Travel', link: '/travel'}
-    - {name: 'Registration', link: '/registration'}
-    - {name: 'Tourist Information', link: '/tourist'}
+     - {name: 'Venue', link: '/venue'}
+     - {name: 'Travel', link: '/travel'}
+     - {name: 'Registration', link: '/registration'}
+     - {name: 'Tourist Information', link: '/tourist'}
   - {name: 'Organizing committee', link: '/organizers'}
   - {name: 'Contact', link: '/contact'}
   - name: "Diversity & Inclusion"
