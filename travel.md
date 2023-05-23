@@ -38,7 +38,7 @@ Once you arrive in Milan, consider using public transportation such as buses, tr
 - [ATM](https://www.atm.it/en/Pages/default.aspx)
 
 ## Airplane
-Milan is served by two main airports, Milano Malpensa (MPX), and Milano Linate (LIN); and by the nearby airport of Bergamo Orio al Serio (50km east of Milano). Malpensa is an intercontinental hub, while Linate mostly connects to European airports. Bergamo Orio al Serio mainly serves low-cost airlines to and from Europe and other continental destinations. Non-stop trains (2 rides per hour lasting 40-50 minutes) connect Malpensa with two main train stations in the City (Milano Centrale and Milano Cadorna). Linate is currently connected to the city center through an express bus, but by the end of 2022, a new metro line will be inaugurated, connecting the airport to the city center in 10 minutes.
+Milan is served by two main airports, Milano Malpensa (MPX), and Milano Linate (LIN); and by the nearby airport of Bergamo Orio al Serio (50km east of Milano). Malpensa is an intercontinental hub, while Linate mostly connects to European airports. Bergamo Orio al Serio mainly serves low-cost airlines to and from Europe and other continental destinations. Non-stop trains (2 rides per hour lasting 40-50 minutes) connect Malpensa with two main train stations in the City (Milano Centrale and Milano Cadorna). Linate is currently connected to the city center both by an express bus and by the recently inagurated M4 metro line. 
 
 ## Car
 Driving to Milan is not recommended due to traffic congestion and limited parking options. However, if you must drive, you can find parking options near Politecnico di Milano or use a car-sharing service.
