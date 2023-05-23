@@ -33,10 +33,10 @@ navigation: # Navigation links
   #- {name: 'Attend', link: '/milano'}
   - name: "Attend"
     subitems:
-    #- {name: 'Venue', link: '/venue'}
-    #- {name: 'Travel', link: '/travel'}
+    - {name: 'Venue', link: '/venue'}
+    - {name: 'Travel', link: '/travel'}
     - {name: 'Registration', link: '/registration'}
-    #- {name: 'Tourist Information', link: '/tourist'}
+    - {name: 'Tourist Information', link: '/tourist'}
   - {name: 'Organizing committee', link: '/organizers'}
   - {name: 'Contact', link: '/contact'}
   - name: "Diversity & Inclusion"
