@@ -48,7 +48,7 @@ Driving to Milan is not recommended due to traffic congestion and limited parkin
 ## By Subway
 Politecnico di Milano has two main campuses: the Leonardo campus and the Bovisa campus. Both campuses are easily accessible by subway.
 
-To reach the Leonardo campus, take Line 2 (green line) and get off at the Piola stop. From there, it's a 10-minute walk to the campus.
+To reach the Leonardo campus, take Line 2 (green line) and get off at the Piola stop. From there, it's a 5-minute walk to the campus.
 
 ## By Taxi
 You can take a taxi from the airport or train station to reach Politecnico di Milano. Taxis are available at all major transportation hubs in Milan, but keep in mind that they can be an expensive option.
