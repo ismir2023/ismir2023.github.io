@@ -16,5 +16,4 @@ It is worth mentioning that, among its many didactic programs, PoliMI offers a M
 
 The ISMIR 2023 conference will be located in the Trifoglio building, located in Via Edoardo Bonati 9, 20133, Milano, Italy
 
-<iframe src="https://goo.gl/maps/SqU7e5izG57dWFQh8" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2797.4938796725073!2d9.22559807625793!3d45.479998471074204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c6f13e309441%3A0x7b80ebeb99531e2d!2sEdificio%2013%20(Trifoglio)%2C%20Politecnico%20di%20Milano!5e0!3m2!1sit!2sit!4v1684914744862!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
