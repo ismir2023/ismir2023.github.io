@@ -38,12 +38,13 @@ Once you arrive in Milan, consider using public transportation such as buses, tr
 - [ATM](https://www.atm.it/en/Pages/default.aspx)
 
 ## Airplane
-Milan is served by two main airports, Milano Malpensa (MPX), and Milano Linate (LIN); and by the nearby airport of Bergamo Orio al Serio (50km east of Milano). Malpensa is an intercontinental hub, while Linate mostly connects to European airports. Bergamo Orio al Serio mainly serves low-cost airlines to and from Europe and other continental destinations. Non-stop trains (2 rides per hour lasting 40-50 minutes) connect Malpensa with two main train stations in the City (Milano Centrale and Milano Cadorna). Linate is currently connected to the city center both by an express bus and by the recently inagurated M4 metro line. 
+Milan is served by three main airports, Milano Malpensa (MPX), Milano Linate (LIN); and by the nearby airport of Bergamo Orio al Serio (50km east of Milano). Malpensa is an intercontinental hub, while Linate mostly connects to European airports. Bergamo Orio al Serio mainly serves low-cost airlines to and from Europe and other continental destinations. Non-stop trains (2 rides per hour lasting 40-50 minutes) connect Malpensa with two main train stations in the City (Milano Centrale and Milano Cadorna). Linate is currently connected to the city center both by an express bus and by the recently inagurated M4 metro line. Several shuttle buses also connect the bergamo-orio al serio airport, with milan central station (50 min approximately).
 
 ## Car
 Driving to Milan is not recommended due to traffic congestion and limited parking options. However, if you must drive, you can find parking options near Politecnico di Milano or use a car-sharing service.
 
-Getting to Politecnico di Milano
+# Getting to Politecnico di Milano
+
 ## By Subway
 Politecnico di Milano has two main campuses: the Leonardo campus and the Bovisa campus. Both campuses are easily accessible by subway.
 
@@ -54,3 +55,12 @@ You can take a taxi from the airport or train station to reach Politecnico di Mi
 
 ## By Bike
 Milan has an extensive network of bike lanes and bike-sharing services. If you're staying in Milan for a few days, consider renting a bike or using a bike-sharing service to get around the city. From the city center, you can take the subway (Line 2, green line) to reach Politecnico di Milano.
+Milan, Italy has several bike sharing services available for residents and visitors. Here's some brief information about two popular bike sharing services in Milan:
+**BikeMi:**
+- Milan's official bike sharing service managed by ATM.
+- Website: [BikeMi](https://www.bikemi.com/)
+
+**Dott:**
+- A popular dockless bike sharing service available in Milan.
+- Website: [Dott](https://www.ridedott.com/it/milan)
+
