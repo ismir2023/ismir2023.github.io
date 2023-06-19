@@ -32,6 +32,7 @@ navigation: # Navigation links
   - {name: 'Dates', link: '/dates'}
   - name: "Attend"
     subitems:
+     - {name: 'Financial Support', link: '/support'}
      - {name: 'Venue', link: '/venue'}
      - {name: 'Travel', link: '/travel'}
      - {name: 'Registration', link: '/registration'}
