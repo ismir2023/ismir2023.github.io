@@ -2,7 +2,7 @@
 layout: page
 title: Financial Support
 background_position: 0% 70%
-permalink: /Support/
+permalink: /support/
 summary: Financial Support options for the 24th International Society for Music Information Retrieval Conference
 ---
 
@@ -63,11 +63,11 @@ Grants are awarded on the basis of financial need, student and Diversity & Inclu
 
 - Minorities in MIR: Applicants identifying as Black, African, African-American, or an ethnic/racial minority (of the applicant’s region) 
 
-- Low- or middle-income country: Applicants whose professional affiliation is based in a country listed here: [https://polimi365-my.sharepoint.com/:w:/g/personal/10919569_polimi_it/EfsEjNsMm_FPtFhJ6XQlg_EBIUIJ_RODsXTCBuU7eDXjQg?e=PgaFA7](list)
+- Low- or middle-income country: Applicants whose professional affiliation is based in a country listed here: [list]([list](https://polimi365-my.sharepoint.com/:w:/g/personal/10919569_polimi_it/EfsEjNsMm_FPtFhJ6XQlg_EBIUIJ_RODsXTCBuU7eDXjQg?e=PgaFA7))
 
 - Queer in MIR: Applicants identifying as LGBTQIA 
 
-- Unaffiliated researcher: Applicants who currently have no professional affiliation that will cover the conference registration fee 
+- Unaffiliated researcher: Applicants who currently have no professional ahttps://polimi365-my.sharepoint.com/:w:/g/personal/10919569_polimi_it/EfsEjNsMm_FPtFhJ6XQlg_EBIUIJ_RODsXTCBuU7eDXjQg?e=PgaFA7ffiliation that will cover the conference registration fee 
 
 - Women in MIR: Applicants identifying as a woman or other gender minority 
 
@@ -87,5 +87,6 @@ The link to the form to apply for grants will appear here on June 23.
  You will be considered for all the grants that you qualify for, based on the information you provide in the application. All grant applications shall be processed with utmost confidentiality and any information provided on the application shall only be used for assessment of grant eligibility and not for any other purpose. The information will not be shared beyond the members of the ISMIR 2023 grants committee. 
  
  ## Questions?
+ 
  Email: [ismir2023-diversity@ismir.net](ismir2023-diversity@ismir.net)
 
