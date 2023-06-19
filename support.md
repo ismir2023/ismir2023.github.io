@@ -19,7 +19,7 @@ We would like to thank the generous support of our industry partners, whom we th
 
 - July 7, 2023: Grant notifications  
 
-- July 10, 2023: Early bird registrations for ISMIR 2023 close
+- July 10, 2023: Early bird registrations for ISMIR 2023 opens
   
 All the deadlines above are the end of the calendar day (23:59), in AoE time zone (UTC-12:00) 
 
