@@ -58,7 +58,7 @@ Time zone : [Anywhere On Earth (AOE)](https://www.timeanddate.com/time/zones/aoe
 - **Paper submission deadline:** April 14, 2023 (abstract due April 6, 2023)
 - **Paper acceptance:** June 23, 2023
 - **Camera ready paper submission:** July 10, 2023
-- **Early-bird and author registration:** July 10, 2023
+- **Early-bird and author registration:** July 10 - 23, 2023
 
 # Online attendance
 
