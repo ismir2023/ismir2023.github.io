@@ -63,11 +63,11 @@ Grants are awarded on the basis of financial need, student and Diversity & Inclu
 
 - Minorities in MIR: Applicants identifying as Black, African, African-American, or an ethnic/racial minority (of the applicant’s region) 
 
-- Low- or middle-income country: Applicants whose professional affiliation is based in a country listed here: [list]([list](https://polimi365-my.sharepoint.com/:w:/g/personal/10919569_polimi_it/EfsEjNsMm_FPtFhJ6XQlg_EBIUIJ_RODsXTCBuU7eDXjQg?e=PgaFA7))
+- Low- or middle-income country: Applicants whose professional affiliation is based in a country listed here: [list](https://polimi365-my.sharepoint.com/:w:/g/personal/10919569_polimi_it/EfsEjNsMm_FPtFhJ6XQlg_EBIUIJ_RODsXTCBuU7eDXjQg?e=PgaFA7)
 
 - Queer in MIR: Applicants identifying as LGBTQIA 
 
-- Unaffiliated researcher: Applicants who currently have no professional ahttps://polimi365-my.sharepoint.com/:w:/g/personal/10919569_polimi_it/EfsEjNsMm_FPtFhJ6XQlg_EBIUIJ_RODsXTCBuU7eDXjQg?e=PgaFA7ffiliation that will cover the conference registration fee 
+- Unaffiliated researcher: Applicants who currently have no professional affiliation that will cover the conference registration fee 
 
 - Women in MIR: Applicants identifying as a woman or other gender minority 
 
