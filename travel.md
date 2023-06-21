@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Venue
+title: Travel Options
 background_position: 0% 70%
 permalink: /travel/
 summary: Travel Info of the 24th International Society for Music Information Retrieval Conference
@@ -32,6 +32,7 @@ This can be a cost-effective and convenient way to travel, especially if you're 
 - [Megabus](https://www.megabus.com/)
 
 From the main bus station in Milan, Lampugnano, you can take the M1 subway until Cadorna station and then switch to the M2 line until Piola.
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d44762.199398319615!2d9.136744413119848!3d45.477106529875115!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e3!4m5!1s0x4786c1b91bb64db3%3A0xfabe2dc4d565bf2b!2sLampugnano%2C%20Milan%2C%20Metropolitan%20City%20of%20Milan!3m2!1d45.4887557!2d9.1260542!4m5!1s0x4786c6f115897193%3A0x928d01f97895ab0a!2sTrifoglio%2C%20Via%20Edoardo%20Bonardi%2C%20Milano%2C%20MI!3m2!1d45.4800235!2d9.2282242!5e0!3m2!1sen!2sit!4v1687345472946!5m2!1sen!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Public Transportation
 Once you arrive in Milan, consider using public transportation such as buses, trams, and metro systems to get around the city. Public transportation is an eco-friendly alternative to driving, and Milan has a comprehensive network of public transportation options that are easy to use and affordable. From the city center, you can take the subway (Line 2, green line) to reach Politecnico di Milano.
