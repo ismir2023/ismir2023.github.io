@@ -76,9 +76,9 @@ Grants are awarded on the basis of financial need, student and Diversity & Inclu
 
 Grant applications for ISMIR 2023 will open on June 23, 2023. 
 
-The deadline for Grant application is June 30, 2023. 
+**The deadline for Grant application is June 30, 2023**. 
 
-Grant notifications will be announced no later than July 7 2023, in time for ISMIR 2023 early bird registration deadline. 
+Grant notifications will be announced no later than July 7, 2023 (in time for the ISMIR 2023 early bird registration deadline). 
 
 In order to apply to the grants, please fill out this [form]( https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope6wn-Z6zNLp5FmI0KhmG6iTJUOEdWS0g5T0pDODRMSFVKVUswSkVZOU1BVy4u)
  
