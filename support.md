@@ -66,7 +66,7 @@ Grants are awarded on the basis of financial need, student and Diversity & Inclu
 
 - Low- or middle-income country: Applicants whose professional affiliation is based in a country listed here: [list](https://polimi365-my.sharepoint.com/:w:/g/personal/10919569_polimi_it/EfsEjNsMm_FPtFhJ6XQlg_EBIUIJ_RODsXTCBuU7eDXjQg?e=PgaFA7)
 
-- Queer in MIR: Applicants identifying as LGBTQIA 
+- Queer in MIR: Applicants identifying as LGBTQIA+
 
 - Unaffiliated researcher: Applicants who currently have no professional affiliation that will cover the conference registration fee 
 
@@ -80,7 +80,7 @@ The deadline for Grant application is June 30, 2023.
 
 Grant notifications will be announced no later than July 7 2023, in time for ISMIR 2023 early bird registration deadline. 
 
-In order to apply to the grants, please fill the form contained at this [link]( https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope6wn-Z6zNLp5FmI0KhmG6iTJUOEdWS0g5T0pDODRMSFVKVUswSkVZOU1BVy4u)
+In order to apply to the grants, please fill out this [form]( https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope6wn-Z6zNLp5FmI0KhmG6iTJUOEdWS0g5T0pDODRMSFVKVUswSkVZOU1BVy4u)
  
  **We request grant applicants to wait until the notification deadline before registering for the conference.**
  
