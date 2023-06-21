@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Venue
+title: Tourist information
 background_position: 0% 70%
 permalink: /tourist/
 summary: Tourist Info of the 24th International Society for Music Information Retrieval Conference
