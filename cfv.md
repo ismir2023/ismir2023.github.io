@@ -20,7 +20,7 @@ We look forward to hearing from you and working together to make a positive impa
 # Important dates
 
 Time zone : [Anywhere On Earth (AOE)](https://www.timeanddate.com/time/zones/aoe)
-- Form submission: 25 August 2023
+- **Form submission deadline: August 25, 2023**
 
 # Contacts
 
