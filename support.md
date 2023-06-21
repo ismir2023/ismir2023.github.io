@@ -81,6 +81,7 @@ The deadline for Grant application is June 30, 2023.
 Grant notifications will be announced no later than July 7 2023, in time for ISMIR 2023 early bird registration deadline. 
 
 In order to apply to the grants, please fill the form contained at this [link]( https://forms.office.com/Pages/ResponsePage.aspx?id=K3EXCvNtXUKAjjCd8ope6wn-Z6zNLp5FmI0KhmG6iTJUOEdWS0g5T0pDODRMSFVKVUswSkVZOU1BVy4u)
+ 
  **We request grant applicants to wait until the notification deadline before registering for the conference.**
  
  
