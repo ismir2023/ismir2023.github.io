@@ -26,6 +26,8 @@ navigation: # Navigation links
      - {name: 'Call for Tutorials', link: '/cft'}
      - {name: 'Call for Volunteers', link: '/cfv'}
      - {name: 'Call for Sponsors', link: '/cfs'}
+     - {name: 'Call for Music', link: '/cfm'}
+
   - name: "Program"
     subitems:
      - {name: 'Satellite Events', link: '/satellites'}
