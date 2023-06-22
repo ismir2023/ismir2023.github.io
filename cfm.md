@@ -49,7 +49,7 @@ The submission of music works should consist of:
 After notification of acceptance, all participants have a chance to further edit the uploaded material to make a performance-ready submission. The video should be self-explanatory with some post-processed titles and subtitles, since there will be no commenter during the broadcast. Original audio submissions should be converted to video format with a meaningful visual component.
 Only one submission per participant will be accepted. Pieces have to be shorter than 10 minutes. The submission is not anonymous. The proposals and video performances will be submitted through the CMT system for a light review. There is no guarantee that all submissions will be accepted for the program. Please note the submission proposal is for informative purposes for the selection and will not be included in the conference proceedings. The artist must hold the copyright of submitted materials to be used in ISMIR 2023.
 
-Submission site: https://cmt3.research.microsoft.com/ISMIR2023/Submission/Index
+**Submission site:** https://cmt3.research.microsoft.com/ISMIR2023/Submission/Index
 
 Each accepted music submission needs to be covered by an in-person registration (student or full, as appropriate) by the early bird deadline (Sept. 15, 2023). If the authors of the music submission are already ISMIR paper authors and have registered for the conference, their music submission can be covered with the same registration. Kindly indicate in the submission form if the first author of a submission is a student author.
 
