@@ -2,7 +2,7 @@
 layout: page
 title: Call for Music
 background_position: 0% 70%
-permalink: /cfs/
+permalink: /cfm/
 summary: The Call for Music of the 24th International Society for Music Information Retrieval Conference
 ---
 
