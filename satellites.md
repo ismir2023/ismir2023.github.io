@@ -9,7 +9,7 @@ summary: Satellite Events of the 24th International Society for Music Informatio
 ISMIR 2023 will be accompanied by several satellite events around the conference.
 
 # Workshop on Reading Music Systems (WoRMS)
-## November 5th, 2023
+## November 4th, 2023
 
 The Workshop on Reading Music Systems (WoRMS) is an event that tries to connect researchers who develop systems for reading music, such as in the field of Optical Music Recognition, with other researchers and practitioners that could benefit from such systems, like librarians or musicologists. WoRMS provides an excellent opportunity to share ideas, discuss current developments and shape the future of Optical Music Recognition. The workshop is open for everything that is related to music, that has been written. The relevant topics of interest for the workshop include, but are not limited to:
 
