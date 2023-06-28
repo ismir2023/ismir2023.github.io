@@ -88,3 +88,35 @@ IMPORTANT DATES (AoE)
 
 More Information: [info](https://dlfm.web.ox.ac.uk/)
 
+
+
+# Workshop on Reading Music Systems (WoRMS) 
+## November, 4th, 2023
+
+The Workshop on Reading Music Systems (WoRMS) is an event that tries to connect researchers who develop systems for reading music, such as in the field of Optical Music Recognition, with other researchers and practitioners that could benefit from such systems, like librarians or musicologists. WoRMS provides an excellent opportunity to share ideas, discuss current developments and shape the future of Optical Music Recognition. The workshop is open for everything that is related to music, that has been written. The relevant topics of interest for the workshop include, but are not limited to:
+
+- Music reading systems
+- Optical music recognition
+- Datasets and performance evaluation
+- Image processing on music scores
+- Writer identification
+- Authoring, editing, storing and presentation systems for music scores
+- Multi-modal systems
+- Novel input-methods to produce written music
+- Web-based Music Information Retrieval services
+- Applications and projects
+- Use-cases related to written music
+
+IMPORTANT DATES
+
+- Deadline for submission: 22nd September 2023
+- Notification of acceptance: 20th October 2023
+- Camera-ready: 27th October 2023
+- Workshop: 4th November 2023
+
+- More Information: [info](https://sites.google.com/view/worms2023) 
+  
+
+
+
+
