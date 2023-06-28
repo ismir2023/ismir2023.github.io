@@ -44,7 +44,7 @@ Student Author Grants are available for first or supporting authors of an accept
 
 ### Women in MIR (WiMIR) Diversity & Inclusion Grants 
 
-WiMIR Grants (100% or 50%, depending on the availability of funds, registration fee waivers) will be available to women, trans, or non-binary people, as well as people identifying as black, ethnic/racial minorities of the region, queer, unaffiliated researchers, and those from low- and middle-income countries. 
+WiMIR Grants (100% or 50% registration fee waivers, depending on the availability of funds) will be available to women, trans, or non-binary people, as well as people identifying as black, ethnic/racial minorities of the region, queer, unaffiliated researchers, and those from low- and middle-income countries. 
 
 Applicants do NOT need to be students to apply for the WiMIR Grants, though priority will be given to first or supporting authors of accepted papers.  
 
