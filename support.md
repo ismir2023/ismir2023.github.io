@@ -28,9 +28,9 @@ Eligible parties may apply for registration waivers for scientific programs (mai
 
 To maximize the number of grants we can support, we will provide:  
 
-- 100% or 50% waivers to registration fee  
+- 100% or about 50% (pending on availability of funds) waivers to registration fee  
 
-- 100% or 50% reimbursements accommodation costs  
+- 100% or about 50% (pending on availability of funds) reimbursements accommodation costs  
 
 - Travel and Childcare grants are under consideration 
 
@@ -44,7 +44,7 @@ Student Author Grants are available for first or supporting authors of an accept
 
 ### Women in MIR (WiMIR) Diversity & Inclusion Grants 
 
-WiMIR Grants (100% or 50% registration fee waivers) will be available to women, trans, or non-binary people, as well as people identifying as black, ethnic/racial minorities of the region, queer, unaffiliated researchers, and those from low- and middle-income countries. 
+WiMIR Grants (100% or 50%, depending on the availability of funds, registration fee waivers) will be available to women, trans, or non-binary people, as well as people identifying as black, ethnic/racial minorities of the region, queer, unaffiliated researchers, and those from low- and middle-income countries. 
 
 Applicants do NOT need to be students to apply for the WiMIR Grants, though priority will be given to first or supporting authors of accepted papers.  
 
@@ -54,7 +54,7 @@ Travel and childcare grants are under consideration and details will be given so
 
 ### Accommodation Grants 
 
-Accommodation grants include 100% or 50% reimbursements of the accommodation costs to attend ISMIR 2023. Names of Hotels and B&B affiliated with ISMIR 2023 will be indicated when the accommodation grants are awarded. 
+Accommodation grants include 100% or 50% (pending on the availability of funds) reimbursements of the accommodation costs to attend ISMIR 2023. Names of Hotels and B&B affiliated with ISMIR 2023 will be indicated when the accommodation grants are awarded. 
 
 ### Eligibility
 
