@@ -40,11 +40,11 @@ This year, waivers and reimbursements will be offered under the following grant 
 
 ### Student Author Grants 
 
-Student Author Grants are available for first or supporting authors of an accepted paper who were students at the time of paper submission. The grants include 100% or 50% registration fee waivers and are awarded based on the quality of the accepted submission, the degree of financial need, the applicant’s newness to ISMIR, and the applicant’s geographical region. 
+Student Author Grants are available for first or supporting authors of an accepted paper who were students at the time of paper submission. The grants include 100% or about 50% registration fee waivers, pending on availability of funds, and are awarded based on the quality of the accepted submission, the degree of financial need, the applicant’s newness to ISMIR, and the applicant’s geographical region. 
 
 ### Women in MIR (WiMIR) Diversity & Inclusion Grants 
 
-WiMIR Grants (100% or 50% registration fee waivers, depending on the availability of funds) will be available to women, trans, or non-binary people, as well as people identifying as black, ethnic/racial minorities of the region, queer, unaffiliated researchers, and those from low- and middle-income countries. 
+WiMIR Grants (100% or about 50% registration fee waivers, depending on the availability of funds) will be available to women, trans, or non-binary people, as well as people identifying as black, ethnic/racial minorities of the region, queer, unaffiliated researchers, and those from low- and middle-income countries. 
 
 Applicants do NOT need to be students to apply for the WiMIR Grants, though priority will be given to first or supporting authors of accepted papers.  
 
@@ -54,7 +54,7 @@ Travel and childcare grants are under consideration and details will be given so
 
 ### Accommodation Grants 
 
-Accommodation grants include 100% or 50% (pending on the availability of funds) reimbursements of the accommodation costs to attend ISMIR 2023. Names of Hotels and B&B affiliated with ISMIR 2023 will be indicated when the accommodation grants are awarded. 
+Accommodation grants include 100% or about 50% (pending on the availability of funds) reimbursements of the accommodation costs to attend ISMIR 2023. Names of Hotels and B&B affiliated with ISMIR 2023 will be indicated when the accommodation grants are awarded. 
 
 ### Eligibility
 
