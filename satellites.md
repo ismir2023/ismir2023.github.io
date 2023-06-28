@@ -32,7 +32,9 @@ IMPORTANT DATES
 - Camera-ready: 27th October 2023
 - Workshop: 4th November 2023
 
-- More Information: [info](https://sites.google.com/view/worms2023) 
+- More Information: [info](https://sites.google.com/view/worms2023)
+
+WoRMS Organizing Committee: Jorge Calvo-Zaragoza, Alexander Pacha and Elona Shatri.
 
 # Workshop on Human-Centric Music Information Research (HCMIR)
 ## November 5th-9th, 2023
