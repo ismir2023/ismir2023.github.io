@@ -37,7 +37,7 @@ IMPORTANT DATES
 WoRMS Organizing Committee: Jorge Calvo-Zaragoza, Alexander Pacha and Elona Shatri.
 
 # Workshop on Human-Centric Music Information Research (HCMIR)
-## November 5th-9th, 2023
+## November 10th, 2023
 
 The Call for Papers is out: [https://sites.google.com/view/hcmir23/call-for-papers](https://sites.google.com/view/hcmir23/call-for-papers)
 
