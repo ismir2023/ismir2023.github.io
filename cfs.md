@@ -37,10 +37,9 @@ Please find the benefits for Conference Sponsorship and WiMIR  Sponsorship below
 | Logo on conference bag| ✅ |  ❌| ❌ | 
 
 
-Sponsorship fees are VAT excluded
+Sponsorship fees are VAT excluded. No VAT is applied to non Italian companies.
 
 <sup>*</sup>physical booths not included for Gold and Silver sponsors, but available upon request  at an additional cost
-
 
 <sup>*1</sup>only one of these 3 benefits, as chosen by the sponsor
 
