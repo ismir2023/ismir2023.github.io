@@ -13,7 +13,7 @@ As a part of the commitments to foster diversity and inclusion and to support ea
 We would like to thank the generous support of our industry partners, whom we thank in advance for supporting our community. 
 
 ## Important Dates
-- June 23 2023: ISMIR 2023 grant applications open 
+- June 23, 2023: ISMIR 2023 grant applications open 
 
 - June 30, 2023: Application deadline for Grants 
 
