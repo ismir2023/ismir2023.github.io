@@ -37,6 +37,8 @@ Please find the benefits for Conference Sponsorship and WiMIR  Sponsorship below
 | Logo on conference bag| ✅ |  ❌| ❌ | 
 
 
+Sponsorship fees are VAT excluded
+
 <sup>*</sup>physical booths not included for Gold and Silver sponsors, but available upon request  at an additional cost
 
 
