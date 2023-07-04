@@ -34,34 +34,34 @@ With the rise of the attention mechanism and the success of auto-regressive gene
 
 ## Agents for Computer-Assisted Music Performance: Taxonomy, Review and Coding
 
-PRESENTERS
-Christodoulos Benetatos, University of Rochester
-Zhiyao Duan, University of Rochester
-Philippe Pasquier, Simon Fraser University
+### PRESENTERS
+**Christodoulos Benetatos**, University of Rochester
+**Zhiyao Duan**, University of Rochester
+**Philippe Pasquier**, Simon Fraser University
 
-ABSTRACT
+### ABSTRACT
 This tutorial offers a review of interactive music systems, with a specific focus on agents designed for computer-assisted music performance. We will present a taxonomy that categorizes and organizes their functionalities and we will delve into the design principles of many musical agents. Research on this area is interdisciplinary in its nature, combining fields such as Music Information Retrieval (MIR), Artificial Intelligence (AI) and Human-Computer Interaction (HCI) and the participants will gain an understanding of how these fields converge to create innovative and interactive musical experiences. Additionally, we will introduce Euterpe, a prototyping framework for creating interactive music systems on the Web. We will examine the implementation of an existing system built using Euterpe, to get insights into the development process using the framework. Then we will have a hands-on coding session in which we will guide the participants in the process of creating a simple musical agent.
 
 The first part of the tutorial does not require any technical background and is aimed at anyone with an interest in the topic. Those interested in actively participating in the coding part should bring a laptop with Chrome and  Node.js installed, as well as have some coding experience. Familiarity with JavaScript would be helpful, but not necessary. The tutorial is also suitable for online participants.
 
-BIOS
+### BIOS
 Christodoulos Benetatos is a 5th year Ph.D student in the Department of Electrical and Computer Engineering at the University of Rochester. He received his B.S and M.Eng in Electrical Engineering from National Technical University of Athens in 2018. His research interests are focused primarily on automatic music generation as well as the design  and development of computer-assisted music-making systems. During his research internships at Kwai and TikTok, he worked on audio digital signal processing and music generation algorithms. As a classical guitarist, he has won several prizes in international guitar competitions and is a regular performer both as a soloist and as part of ensembles.
 
-Philippe Pasquier is a professor at Simon Fraser University's School of Interactive Arts and Technology, where he directs the Metacreation Lab for Creative AI. He leads a research-creation program around generative systems for creative tasks. As such, he is a scientist specialized in artificial intelligence, a software designer, a multidisciplinary media artist, an educator, and a community builder. Pursuing a multidisciplinary research-creation program, his contributions bridge fundamental research on generative systems, machine learning, affective computing and computer-assisted creativity, applied research in the creative software industry, and artistic practice in interactive and generative art.
+**Philippe Pasquier** is a professor at Simon Fraser University's School of Interactive Arts and Technology, where he directs the Metacreation Lab for Creative AI. He leads a research-creation program around generative systems for creative tasks. As such, he is a scientist specialized in artificial intelligence, a software designer, a multidisciplinary media artist, an educator, and a community builder. Pursuing a multidisciplinary research-creation program, his contributions bridge fundamental research on generative systems, machine learning, affective computing and computer-assisted creativity, applied research in the creative software industry, and artistic practice in interactive and generative art.
 
-Zhiyao Duan is an associate professor in Electrical and Computer Engineering, Computer Science and Data Science at the University of Rochester. He received his B.S. in Automation and M.S. in Control Science and Engineering from Tsinghua University, China, in 2004 and 2008, respectively, and received his Ph.D. in Computer Science from Northwestern University in 2013. His research interest is in computer audition and its connections with computer vision, natural language processing, and augmented and virtual reality. He received a best paper award at the Sound and Music Computing (SMC) conference in 2017, a best paper nomination at the International Society for Music Information Retrieval (ISMIR) conference in 2017, and a CAREER award from the National Science Foundation (NSF). He served as a Scientific Program Co-Chair of ISMIR 2021, and is serving as an associate editor for IEEE Open Journal of Signal Processing, a guest editor for Transactions of the International Society for Music Information Retrieval, and a guest editor for Frontiers in Signal Processing. He is the President-Elect of ISMIR.
+**Zhiyao Duan** is an associate professor in Electrical and Computer Engineering, Computer Science and Data Science at the University of Rochester. He received his B.S. in Automation and M.S. in Control Science and Engineering from Tsinghua University, China, in 2004 and 2008, respectively, and received his Ph.D. in Computer Science from Northwestern University in 2013. His research interest is in computer audition and its connections with computer vision, natural language processing, and augmented and virtual reality. He received a best paper award at the Sound and Music Computing (SMC) conference in 2017, a best paper nomination at the International Society for Music Information Retrieval (ISMIR) conference in 2017, and a CAREER award from the National Science Foundation (NSF). He served as a Scientific Program Co-Chair of ISMIR 2021, and is serving as an associate editor for IEEE Open Journal of Signal Processing, a guest editor for Transactions of the International Society for Music Information Retrieval, and a guest editor for Frontiers in Signal Processing. He is the President-Elect of ISMIR.
 
 
 
 
 ## Analysing Physiological Data Collected During Music Listening: An Introduction
 
-PRESENTERS
-Laura Bishop, University of Oslo
-Geoffray Bonnin, Université de Lorraine
-Jérémy Frey, Ullo
+### PRESENTERS
+**Laura Bishop**, University of Oslo
+**Geoffray Bonnin**, Université de Lorraine
+**Jérémy Frey**, Ullo
 
-ABSTRACT
+### ABSTRACT
 Music has diverse effects on listeners, including inducing emotions, triggering movement or
 dancing, and prompting changes in visual attention. These effects are often associated with
 psychophysiological responses like changes in heart activity, respiratory rate, and pupil size,
@@ -84,45 +84,45 @@ however, possess sufficient knowledge of R and/or Python and standard statistica
 methods to participate in the hands-on parts of the tutorial.
 
  
-BIOS
-Laura Bishop is a researcher at the RITMO Centre for Interdisciplinary Studies in Rhythm, Time and Motion and the Department of Musicology at the University of Oslo. She specialises in pupillometry, eye-tracking, and motion capture using approaches mainly grounded in psychology. She completed her PhD in music psychology at the MARCS Institute, Western Sydney University, Australia, in 2013. She currently co-leads the Austrian Science Fund project “Achieving togetherness in music ensembles” in collaboration with the University for Music and Performing Arts Vienna (mdw), which investigates physiological and body motion coordination in ensemble playing.
+### BIOS
+**Laura Bishop** is a researcher at the RITMO Centre for Interdisciplinary Studies in Rhythm, Time and Motion and the Department of Musicology at the University of Oslo. She specialises in pupillometry, eye-tracking, and motion capture using approaches mainly grounded in psychology. She completed her PhD in music psychology at the MARCS Institute, Western Sydney University, Australia, in 2013. She currently co-leads the Austrian Science Fund project “Achieving togetherness in music ensembles” in collaboration with the University for Music and Performing Arts Vienna (mdw), which investigates physiological and body motion coordination in ensemble playing.
 
-Geoffray Bonnin is an Associate Professor at the Lorraine Research Laboratory in Computer Science and its Applications (Loria), Université de Lorraine. He obtained his Ph.D. in 2010 and joined the Loria lab in 2014 as an Associate Professor. His research topics are related to artificial intelligence for music and for education. He is currently in charge of the Music-Mouv’ project, which is a collaboration with researchers in the domain of psychology that started in October 2021. The project aims at helping individuals with Parkinson’s disease to walk by triggering relevant emotions through physiology-based music recommendations.
+**Geoffray Bonnin is an Associate Professor at the Lorraine Research Laboratory in Computer Science and its Applications (Loria), Université de Lorraine. He obtained his Ph.D. in 2010 and joined the Loria lab in 2014 as an Associate Professor. His research topics are related to artificial intelligence for music and for education. He is currently in charge of the Music-Mouv’ project, which is a collaboration with researchers in the domain of psychology that started in October 2021. The project aims at helping individuals with Parkinson’s disease to walk by triggering relevant emotions through physiology-based music recommendations.
 
-Jérémy Frey is the CTO and co-founder of Ullo. After a master degree in cognitive sciences, he obtained his PhD degree in computer science in 2015 from the University of Bordeaux, France. During his work within the Inria research team Potioc, he had been studying how passive brain-computer interfaces could contribute to the evaluation of user experience, using for example EEG to infer a continuous index of cognitive load. His current research interests revolve around increasing introspection and social presence, by displaying inner states through tangible interfaces or wearables, with applications ranging from well-being to education.
+**Jérémy Frey** is the CTO and co-founder of Ullo. After a master degree in cognitive sciences, he obtained his PhD degree in computer science in 2015 from the University of Bordeaux, France. During his work within the Inria research team Potioc, he had been studying how passive brain-computer interfaces could contribute to the evaluation of user experience, using for example EEG to infer a continuous index of cognitive load. His current research interests revolve around increasing introspection and social presence, by displaying inner states through tangible interfaces or wearables, with applications ranging from well-being to education.
 
 ## Introduction to Differentiable Audio Synthesizer Programming
 
-PRESENTERS
-Ben Hayes, Centre for Digital Music, Queen Mary University of London b.j.hayes@qmul.ac.uk
-Jordie Shier, Centre for Digital Music, Queen Mary University of London  j.m.shier@qmul.ac.uk
-Chin-Yun Yu, Centre for Digital Music, Queen Mary University of London chin-yun.yu@qmul.ac.uk
-David Südholt, Centre for Digital Music, Queen Mary University of London d.sudholt@qmul.ac.uk
-Rodrigo Diaz, Centre for Digital Music, Queen Mary University of London r.diazfernandez@qmul.ac.uk
+### PRESENTERS
+**Ben Hayes**, Centre for Digital Music, Queen Mary University of London b.j.hayes@qmul.ac.uk
+**Jordie Shier**, Centre for Digital Music, Queen Mary University of London  j.m.shier@qmul.ac.uk
+**Chin-Yun Yu**, Centre for Digital Music, Queen Mary University of London chin-yun.yu@qmul.ac.uk
+**David Südholt**, Centre for Digital Music, Queen Mary University of London d.sudholt@qmul.ac.uk
+**Rodrigo Diaz**, Centre for Digital Music, Queen Mary University of London r.diazfernandez@qmul.ac.uk
 
-ABSTRACT
+### ABSTRACT
 Differentiable digital signal processing is a technique in which signal processing algorithms are implemented as differentiable programs used in combination with deep neural networks. The advantages of this methodology include a reduction in model complexity, lower data requirements, and an inherently interpretible intermediate representation. In recent years, differentiable audio synthesizers have been applied to a variety of tasks, including voice and instrument modelling, synthesizer control, pitch estimation, source separation, and parameter estimation. Yet despite the growing popularity of such methods, the implementation of differentiable audio synthesizers remains poorly documented, and the simple formulation of many synthesizers belies their complex optimization behaviour. To address this gap, this tutorial offers an introduction to the fundamentals of differentiable synthesizer programming.
 
 The tutorial will centre around practical demonstrations, which participants can follow using an accompanying suite of Jupyter notebooks. All tutorial content will be documented in an accompanying web book, and all tutorial materials and dependencies will be fully open source and accessible for free online. Prior experience with writing Python 3 code is assumed, and a basic knowledge of PyTorch is beneficial though not strictly required. The tutorial is targeted at music and audio researchers and engineers with a grounding in the basics of digital signal processing and machine learning. Our aim is to equip participants to apply these techniques in their own research, whilst enabling those with prior knowledge to sharpen their skills.
 
-BIOS
-Ben Hayes is a third year PhD student at the Centre for Digital Music’s CDT in Artificial In- telligence and Music, based at Queen Mary University of London, under the supervision of Dr György Fazekas and Dr Charalampos Saitis. His research focuses on expanding the capabilities of differentiable digital signal processing by enabling control over non-convex operations. His work has been accepted to leading conferences in the field, including ISMIR, ICASSP, ICA, and the AES Convention, and published in the Journal of the Audio Engineering Society. He also holds an MSc with Distinction in Sound and Music Computing from QMUL and a first class BMus(Hons) in Electronic Music from the Guildhall School of Music and Drama, where he is now a member of teaching faculty. He is a founding member of the Special Interest Group on Neural Audio Synthesis at C4DM, and is the organizer of the international Neural Audio Synthesis Hackathon. Previously he was a Research intern at ByteDance, music lead at the award-winning generative music startup Jukedeck, and an internationally touring musician signed to R&S Records.
+### BIOS
+**Ben Hayes** is a third year PhD student at the Centre for Digital Music’s CDT in Artificial In- telligence and Music, based at Queen Mary University of London, under the supervision of Dr György Fazekas and Dr Charalampos Saitis. His research focuses on expanding the capabilities of differentiable digital signal processing by enabling control over non-convex operations. His work has been accepted to leading conferences in the field, including ISMIR, ICASSP, ICA, and the AES Convention, and published in the Journal of the Audio Engineering Society. He also holds an MSc with Distinction in Sound and Music Computing from QMUL and a first class BMus(Hons) in Electronic Music from the Guildhall School of Music and Drama, where he is now a member of teaching faculty. He is a founding member of the Special Interest Group on Neural Audio Synthesis at C4DM, and is the organizer of the international Neural Audio Synthesis Hackathon. Previously he was a Research intern at ByteDance, music lead at the award-winning generative music startup Jukedeck, and an internationally touring musician signed to R&S Records.
 
-Jordie Shier is a first year PhD student in the Artificial Intelligence and Music (AIM) programme based at Queen Mary University of London (QMUL), studying under the supervision of Prof. Andrew McPherson and Dr. Charalampos Saitis. His research is focused on the development of novel methods for synthesizing audio and the creation of new interaction paradigms for music synthesizers. His current PhD project is on real-time timbral mapping for synthesized percussive performance and is being conducted in collaboration with Ableton. He was a co-organizer of the 2021 Holistic Evaluation of Audio Representations (HEAR) NeurIPS challenge and his work has been published in PMLR, DAFx, and the JAES. Previously, he completed an MSc in Computer Science and Music under the supervision of Prof. George Tzanetakis and Assoc. Prof. Kirck McNally.
+**Jordie Shier** is a first year PhD student in the Artificial Intelligence and Music (AIM) programme based at Queen Mary University of London (QMUL), studying under the supervision of Prof. Andrew McPherson and Dr. Charalampos Saitis. His research is focused on the development of novel methods for synthesizing audio and the creation of new interaction paradigms for music synthesizers. His current PhD project is on real-time timbral mapping for synthesized percussive performance and is being conducted in collaboration with Ableton. He was a co-organizer of the 2021 Holistic Evaluation of Audio Representations (HEAR) NeurIPS challenge and his work has been published in PMLR, DAFx, and the JAES. Previously, he completed an MSc in Computer Science and Music under the supervision of Prof. George Tzanetakis and Assoc. Prof. Kirck McNally.
 
-Chin-Yun Yu is a first year PhD student in the Artificial Intelligence and Music (AIM) programme based at Queen Mary University of London (QMUL), under the supervision of Dr György Fazekas. His current research theme is on leveraging signal processing and deep generative models for controllable, expressive vocal synthesis. In addition, he is dedicated to open science and reproducible research by developing open-source packages and contributing to public research projects. He received a BSc in Computer Science from National Chiao Tung University in 2018 and was a research assistant at the Institute of Information Science, Academia Sinica, supervised by Prof. Li Su. His recent work has been published at ICASSP.
+**Chin-Yun Yu** is a first year PhD student in the Artificial Intelligence and Music (AIM) programme based at Queen Mary University of London (QMUL), under the supervision of Dr György Fazekas. His current research theme is on leveraging signal processing and deep generative models for controllable, expressive vocal synthesis. In addition, he is dedicated to open science and reproducible research by developing open-source packages and contributing to public research projects. He received a BSc in Computer Science from National Chiao Tung University in 2018 and was a research assistant at the Institute of Information Science, Academia Sinica, supervised by Prof. Li Su. His recent work has been published at ICASSP.
 
-David Südholt is a first year PhD student in the Artificial Intelligence and Music (AIM) programme based at Queen Mary University of London (QMUL). Supervised by Prof. Joshua Reiss, he is researching parameter estimation for physical modelling synthesis, focussing on the synthesis and expressive transformation of the human voice. He received an MSc degree in Sound and Music Computing from Aalborg University Copenhagen in 2022, where he was supervised by Prof. Stefania Serafin and Assoc. Prof. Cumhur Erkut. His work has been published at the SMC conference and in the IEEE/ACM Transactions on Audio, Speech and Language Processing.
+**David Südholt** is a first year PhD student in the Artificial Intelligence and Music (AIM) programme based at Queen Mary University of London (QMUL). Supervised by Prof. Joshua Reiss, he is researching parameter estimation for physical modelling synthesis, focussing on the synthesis and expressive transformation of the human voice. He received an MSc degree in Sound and Music Computing from Aalborg University Copenhagen in 2022, where he was supervised by Prof. Stefania Serafin and Assoc. Prof. Cumhur Erkut. His work has been published at the SMC conference and in the IEEE/ACM Transactions on Audio, Speech and Language Processing.
 
-Rodrigo Diaz is a PhD candidate in Artificial Intelligence and Music at Queen Mary University in London, under the supervision of Prof. Mark Sandler and Dr. Charalampos Saitis. Rodrigo’s work has been published in leading computer vision and audio conferences, including CVPR, ICASSP, IC3D, and the AES Conference on Headphone Technology. Before starting his PhD studies, he worked as a researcher at the Immersive Communications group at the Fraunhofer HHI Institute in Berlin, where he investigated volumetric reconstruction from images using neural networks. His current research focuses on real-time audio synthesis using neural networks for 3D objects and drums. Rodrigo’s interdisciplinary background includes a Master’s degree in Media Arts and Design from Bauhaus University in Weimar and a Bachelor of Music from Texas Christian University.
+**Rodrigo Diaz** is a PhD candidate in Artificial Intelligence and Music at Queen Mary University in London, under the supervision of Prof. Mark Sandler and Dr. Charalampos Saitis. Rodrigo’s work has been published in leading computer vision and audio conferences, including CVPR, ICASSP, IC3D, and the AES Conference on Headphone Technology. Before starting his PhD studies, he worked as a researcher at the Immersive Communications group at the Fraunhofer HHI Institute in Berlin, where he investigated volumetric reconstruction from images using neural networks. His current research focuses on real-time audio synthesis using neural networks for 3D objects and drums. Rodrigo’s interdisciplinary background includes a Master’s degree in Media Arts and Design from Bauhaus University in Weimar and a Bachelor of Music from Texas Christian University.
 
 
 ## Learning with Music Signals: Technology Meets Education
 
-PRESENTERS
-Meinard Müller, International Audio Laboratories Erlangen, Erlangen, Germany
+### PRESENTERS
+**Meinard Müller**, International Audio Laboratories Erlangen, Erlangen, Germany
 
-ABSTRACT
+### ABSTRACT
 Music information retrieval (MIR) is an exciting and challenging research area that aims to develop techniques and tools for organizing, analyzing, retrieving, and presenting music-related data. Being at the intersection of engineering and humanities, MIR relates to different research disciplines, including signal processing, machine learning, information retrieval, musicology, and the digital humanities. In this tutorial, using music as a tangible and concrete application domain, we approach the concept of learning from different angles, addressing technological and educational aspects. In this way, the tutorial serves several purposes: we give a gentle introduction to MIR, highlight avenues for developing explainable machine-learning models, discuss how recent technology can be applied and communicated in interdisciplinary research and education, and introduce a new software package for teaching and learning music processing.
 
 Our primary goal is to give an exciting tutorial that builds a bridge from basic to advanced techniques in MIR while highlighting technological and educational aspects. This tutorial should appeal to a broad audience, including students, educators, non-experts, and researchers new to the field, by covering concrete MIR tasks while providing many illustrative audio examples.
@@ -141,8 +141,8 @@ https://github.com/meinardmueller/libfmp
 PCP Notebooks
 https://www.audiolabs-erlangen.de/PCP
 
-BIO
-Meinard Müller received the Diploma degree (1997) in mathematics and the Ph.D. degree (2001) in computer science from the University of Bonn, Germany. Since 2012, he has held a professorship for Semantic Audio Signal Processing at the International Audio Laboratories Erlangen, a joint institute of the Friedrich-Alexander-Universität and the Fraunhofer Institute for Integrated Circuits IIS. His recent research interests include music processing, music information retrieval, audio signal processing, and motion processing. He was a member of the IEEE Audio and Acoustic Signal Processing Technical Committee from 2010 to 2015, a member of the Senior Editorial Board of the IEEE Signal Processing Magazine (2018-2022), and a member of the Board of Directors of the International Society for Music Information Retrieval (2009-2021, being its president in 2020/2021). In 2020, he was elevated to IEEE Fellow for contributions to music signal processing.
+### BIO
+**Meinard Müller** received the Diploma degree (1997) in mathematics and the Ph.D. degree (2001) in computer science from the University of Bonn, Germany. Since 2012, he has held a professorship for Semantic Audio Signal Processing at the International Audio Laboratories Erlangen, a joint institute of the Friedrich-Alexander-Universität and the Fraunhofer Institute for Integrated Circuits IIS. His recent research interests include music processing, music information retrieval, audio signal processing, and motion processing. He was a member of the IEEE Audio and Acoustic Signal Processing Technical Committee from 2010 to 2015, a member of the Senior Editorial Board of the IEEE Signal Processing Magazine (2018-2022), and a member of the Board of Directors of the International Society for Music Information Retrieval (2009-2021, being its president in 2020/2021). In 2020, he was elevated to IEEE Fellow for contributions to music signal processing.
 
 Besides his scientific research, Meinard Müller has been very active in teaching music and audio processing. He gave numerous tutorials at major conferences, including ISMIR (2007, 2010, 2011, 2014, 2017, 2019), ICASSP (2009, 2011, 2019), Deep Learning IndabaX (2021), GI Jahrestagung (2017), Eurographics (2009, 2023), and ICME (2008). Furthermore, he wrote a monograph titled "Information Retrieval for Music and Motion" (Springer, 2007) as well as a textbook titled "Fundamentals of Music Processing" (Springer, 2015, www.music-processing.de). Recently, he released a comprehensive collection of educational Python notebooks designed for teaching and learning audio signal processing using music as an instructive application domain (https://www.audiolabs-erlangen.de/FMP).
 
@@ -150,12 +150,12 @@ Besides his scientific research, Meinard Müller has been very active in teachin
 
 ## Kymatio: Deep Learning meets Wavelet Theory for Music Signal Processing
 
-PRESENTERS
-Cyrus Vahidi (c.vahidi@qmul.ac.uk) Centre for Digital Music, Queen Mary University of London, United Kingdom
-Christopher Mitcheltree, Centre for Digital Music, Queen Mary University of London, United Kingdom
-Vincent Lostanlen, LS2N, CNRS, Nantes Université, France
+### PRESENTERS
+**Cyrus Vahidi** (c.vahidi@qmul.ac.uk) Centre for Digital Music, Queen Mary University of London, United Kingdom
+**Christopher Mitcheltree**, Centre for Digital Music, Queen Mary University of London, United Kingdom
+**Vincent Lostanlen**, LS2N, CNRS, Nantes Université, France
 
-ABSTRACT
+### ABSTRACT
  
 We present a tutorial on MIR with the open-source Kymatio (Andreux et al., 2020) toolkit for analysis and synthesis of music signals and timbre with differentiable computing. Kymatio is a Python package for applications at the intersection of deep learning and wavelet scattering. Its latest release (v0.4) provides an implementation of the joint time—frequency scattering transform (JTFS), which is an idealisation of a neurophysiological model that is commonly known in musical timbre perception research: the spectrotemporal receptive field (STRF) (Patil et al., 2012). In the MIR research, scattering transforms have demonstrated effectiveness in musical instrument classification (Vahidi et al., 2022), neural audio synthesis (Andreux et al., 2018), playing technique recognition and similarity (Lostanlen et al., 2021), acoustic modelling (Lostanlen et al., 2020), synthesizer parameter estimation and objective audio similarity (Vahidi et al., 2023, Lostanlen et al., 2023).
  
@@ -178,17 +178,17 @@ No prior knowledge of wavelet or scattering transforms is expected.
 
 
 
-BIOS
+### BIOS
 
-Cyrus Vahidi is a PhD researcher at the UKRI CDT in Artificial Intelligence and Music at the Centre for Digital Music, London and computer science graduate from Imperial College London. His research covers computational representations of auditory perception in machine listening and computer music. He is a core contributor to Kymatio, the open-source package for wavelet scattering. Previously, he was a visiting researcher at LS2N (CNRS, France) and worked on MIR/ML in ByteDance’s SAMI group. He is the founder of Sonophase AI and performs experimental electronic music with Max/MSP and modular synthesis.
+**Cyrus Vahidi** is a PhD researcher at the UKRI CDT in Artificial Intelligence and Music at the Centre for Digital Music, London and computer science graduate from Imperial College London. His research covers computational representations of auditory perception in machine listening and computer music. He is a core contributor to Kymatio, the open-source package for wavelet scattering. Previously, he was a visiting researcher at LS2N (CNRS, France) and worked on MIR/ML in ByteDance’s SAMI group. He is the founder of Sonophase AI and performs experimental electronic music with Max/MSP and modular synthesis.
  
-Christopher Mitcheltree is a PhD researcher at the UKRI CDT in Artificial Intelligence and Music at the Centre for Digital Music, London. He researches time-varying modulations of synthesizers / audio effects and is a founding developer of Neutone, an open-source neural audio plugin and SDK. In the past, he has worked on machine learning and art projects at a variety of different companies and institutions including: Google, Airbnb, AI2, Keio University, and Qosmo.
+**Christopher Mitcheltree** is a PhD researcher at the UKRI CDT in Artificial Intelligence and Music at the Centre for Digital Music, London. He researches time-varying modulations of synthesizers / audio effects and is a founding developer of Neutone, an open-source neural audio plugin and SDK. In the past, he has worked on machine learning and art projects at a variety of different companies and institutions including: Google, Airbnb, AI2, Keio University, and Qosmo.
  
-Dr. Vincent Lostanlen obtained his PhD in 2017 from École normale supérieure, under the supervision of Stéphane Mallat. Since then, he is a scientist (chargé de recherche) at CNRS and a visiting scholar at New York University. He is a founding member of the Kymatio consortium.
+**Dr. Vincent Lostanlen** obtained his PhD in 2017 from École normale supérieure, under the supervision of Stéphane Mallat. Since then, he is a scientist (chargé de recherche) at CNRS and a visiting scholar at New York University. He is a founding member of the Kymatio consortium.
 
 
 
-References
+#### References
  
 Andreux, M., Angles, T., Exarchakisgeo, G., Leonardu, R., Rochette, G., Thiry, L., ... & Eickenberg, M. (2020). Kymatio: Scattering transforms in python. The Journal of Machine Learning Research, 21(1), 2256-2261.
  
