@@ -13,6 +13,12 @@ title: Accepted Tutorials at ISMIR 2023
 - [Kymatio: Deep Learning meets Wavelet Theory for Music Signal Processing](#6-kymatio-deep-learning-meets-wavelet-theory-for-music-signal-processing)
 
 
+
+
+
+
+
+
 ## 1 Transformer-based Symbolic Music Generation: Fundamentals to Advanced Concepts, Stylistic Considerations, Conditioning Mechanisms and Large Language Models
 
 ### PRESENTERS
