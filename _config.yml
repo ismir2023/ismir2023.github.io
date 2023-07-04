@@ -31,6 +31,7 @@ navigation: # Navigation links
   - name: "Program"
     subitems:
      - {name: 'Satellite Events', link: '/satellites'}
+     - {name: 'Tutorials', link: '/tutorials'}
   - {name: 'Dates', link: '/dates'}
   - name: "Attend"
     subitems:
