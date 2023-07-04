@@ -6,14 +6,14 @@ title: Accepted Tutorials at ISMIR 2023
 
 # Contents
  - [Transformer-based Symbolic Music Generation: Fundamentals to Advanced Concepts, Stylistic Considerations, Conditioning Mechanisms and Large Language Models](#1-transformer-based-symbolic-music-generation-fundamentals-to-advanced-concepts-stylistic-considerations-conditioning-mechanisms-and-large-language-models)
-- [Agents for Computer-Assisted Music Performance: Taxonomy, Review and Coding](#agents-for-computer-assisted-music-performance-taxonomy-review-and-coding)
-- [Analysing Physiological Data Collected During Music Listening: An Introduction](#analysing-physiological-data-collected-during-music-listening-an-introduction)
-- [Introduction to Differentiable Audio Synthesizer Programming](#introduction-to-differentiable-audio-synthesizer-programming)
-- [Learning with Music Signals: Technology Meets Education](#learning-with-music-signals-technology-meets-education)
-- [Kymatio: Deep Learning meets Wavelet Theory for Music Signal Processing](#kymatio-deep-learning-meets-wavelet-theory-for-music-signal-processing)
+- [Agents for Computer-Assisted Music Performance: Taxonomy, Review and Coding](#2-agents-for-computer-assisted-music-performance-taxonomy-review-and-coding)
+- [Analysing Physiological Data Collected During Music Listening: An Introduction](#3-analysing-physiological-data-collected-during-music-listening-an-introduction)
+- [Introduction to Differentiable Audio Synthesizer Programming](#4-introduction-to-differentiable-audio-synthesizer-programming)
+- [Learning with Music Signals: Technology Meets Education](#5-learning-with-music-signals-technology-meets-education)
+- [Kymatio: Deep Learning meets Wavelet Theory for Music Signal Processing](#6-kymatio-deep-learning-meets-wavelet-theory-for-music-signal-processing)
 
-# 1)
-## Transformer-based Symbolic Music Generation: Fundamentals to Advanced Concepts, Stylistic Considerations, Conditioning Mechanisms and Large Language Models
+
+## 1 Transformer-based Symbolic Music Generation: Fundamentals to Advanced Concepts, Stylistic Considerations, Conditioning Mechanisms and Large Language Models
 
 ### PRESENTERS
 **Berker Banar**, Queen Mary University of London, b.banar@qmul.ac.uk
@@ -35,7 +35,7 @@ With the rise of the attention mechanism and the success of auto-regressive gene
 
 
 
-## Agents for Computer-Assisted Music Performance: Taxonomy, Review and Coding
+## 2 Agents for Computer-Assisted Music Performance: Taxonomy, Review and Coding
 
 ### PRESENTERS
 
@@ -60,7 +60,7 @@ The first part of the tutorial does not require any technical background and is 
 
 
 
-## Analysing Physiological Data Collected During Music Listening: An Introduction
+## 3 Analysing Physiological Data Collected During Music Listening: An Introduction
 
 ### PRESENTERS
 
@@ -100,7 +100,7 @@ methods to participate in the hands-on parts of the tutorial.
 
 **Jérémy Frey** is the CTO and co-founder of Ullo. After a master degree in cognitive sciences, he obtained his PhD degree in computer science in 2015 from the University of Bordeaux, France. During his work within the Inria research team Potioc, he had been studying how passive brain-computer interfaces could contribute to the evaluation of user experience, using for example EEG to infer a continuous index of cognitive load. His current research interests revolve around increasing introspection and social presence, by displaying inner states through tangible interfaces or wearables, with applications ranging from well-being to education.
 
-## Introduction to Differentiable Audio Synthesizer Programming
+## 4 Introduction to Differentiable Audio Synthesizer Programming
 
 ### PRESENTERS
 
@@ -131,7 +131,7 @@ The tutorial will centre around practical demonstrations, which participants can
 **Rodrigo Diaz** is a PhD candidate in Artificial Intelligence and Music at Queen Mary University in London, under the supervision of Prof. Mark Sandler and Dr. Charalampos Saitis. Rodrigo’s work has been published in leading computer vision and audio conferences, including CVPR, ICASSP, IC3D, and the AES Conference on Headphone Technology. Before starting his PhD studies, he worked as a researcher at the Immersive Communications group at the Fraunhofer HHI Institute in Berlin, where he investigated volumetric reconstruction from images using neural networks. His current research focuses on real-time audio synthesis using neural networks for 3D objects and drums. Rodrigo’s interdisciplinary background includes a Master’s degree in Media Arts and Design from Bauhaus University in Weimar and a Bachelor of Music from Texas Christian University.
 
 
-## Learning with Music Signals: Technology Meets Education
+## 5 Learning with Music Signals: Technology Meets Education
 
 ### PRESENTERS
 **Meinard Müller**, International Audio Laboratories Erlangen, Erlangen, Germany
@@ -162,7 +162,7 @@ Besides his scientific research, Meinard Müller has been very active in teachin
 
 
 
-## Kymatio: Deep Learning meets Wavelet Theory for Music Signal Processing
+## 6 Kymatio: Deep Learning meets Wavelet Theory for Music Signal Processing
 
 ### PRESENTERS
 
