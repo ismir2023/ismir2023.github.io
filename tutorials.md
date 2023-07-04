@@ -149,7 +149,7 @@ Our primary goal is to give an exciting tutorial that builds a bridge from basic
 **FMP Notebooks**
 [https://www.audiolabs-erlangen.de/FMP](https://www.audiolabs-erlangen.de/FMP)
 
-**Python package: libfmp
+**Python package: libfmp**
 [https://github.com/meinardmueller/libfmp](https://github.com/meinardmueller/libfmp)
 
 **PCP Notebooks**
