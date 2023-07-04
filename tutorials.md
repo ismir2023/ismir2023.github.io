@@ -5,11 +5,11 @@ title: Accepted Tutorials at ISMIR 2023
 ---
 
 # Contents
- - [Transformer-based Symbolic Music Generation: Fundamentals to Advanced Concepts, Stylistic Considerations, Conditioning Mechanisms and Large Language Models](#1-transformer-based-symbolic-music-generation-fundamentals-to-advanced-concepts-stylistic-considerations-conditioning-mechanisms-and-large-language-models) 
--[Agents for Computer-Assisted Music Performance: Taxonomy, Review and Coding](agents-for-computer-assisted-music-performance-taxonomy-review-and-coding)
--[Analysing Physiological Data Collected During Music Listening: An Introduction](analysing-physiological-data-collected-during-music-listening-an-introduction)
--[Introduction to Differentiable Audio Synthesizer Programming](introduction-to-differentiable-audio-synthesizer-programming)
--[Learning with Music Signals: Technology Meets Education](learning-with-music-signals-technology-meets-education)
+ - [Transformer-based Symbolic Music Generation: Fundamentals to Advanced Concepts, Stylistic Considerations, Conditioning Mechanisms and Large Language Models](#1-transformer-based-symbolic-music-generation-fundamentals-to-advanced-concepts-stylistic-considerations-conditioning-mechanisms-and-large-language-models)
+- [Agents for Computer-Assisted Music Performance: Taxonomy, Review and Coding](agents-for-computer-assisted-music-performance-taxonomy-review-and-coding)
+- [Analysing Physiological Data Collected During Music Listening: An Introduction](analysing-physiological-data-collected-during-music-listening-an-introduction)
+- [Introduction to Differentiable Audio Synthesizer Programming](introduction-to-differentiable-audio-synthesizer-programming)
+- [Learning with Music Signals: Technology Meets Education](learning-with-music-signals-technology-meets-education)
 - [Kymatio: Deep Learning meets Wavelet Theory for Music Signal Processing](#kymatio-deep-learning-meets-wavelet-theory-for-music-signal-processing)
 
 
@@ -141,19 +141,19 @@ Music information retrieval (MIR) is an exciting and challenging research area t
 
 Our primary goal is to give an exciting tutorial that builds a bridge from basic to advanced techniques in MIR while highlighting technological and educational aspects. This tutorial should appeal to a broad audience, including students, educators, non-experts, and researchers new to the field, by covering concrete MIR tasks while providing many illustrative audio examples.
 
-Links:
+#### Links:
 
-Textbook: Fundamentals of Music Processing
-www.music-processing.de
+**Textbook: Fundamentals of Music Processing**
+[www.music-processing.de](www.music-processing.de)
 
-FMP Notebooks
-https://www.audiolabs-erlangen.de/FMP
+**FMP Notebooks**
+[https://www.audiolabs-erlangen.de/FMP](https://www.audiolabs-erlangen.de/FMP)
 
-Python package: libfmp
-https://github.com/meinardmueller/libfmp
+**Python package: libfmp
+[https://github.com/meinardmueller/libfmp](https://github.com/meinardmueller/libfmp)
 
-PCP Notebooks
-https://www.audiolabs-erlangen.de/PCP
+**PCP Notebooks**
+[https://www.audiolabs-erlangen.de/PCP](https://www.audiolabs-erlangen.de/PCP)
 
 ### BIO
 **Meinard Müller** received the Diploma degree (1997) in mathematics and the Ph.D. degree (2001) in computer science from the University of Bonn, Germany. Since 2012, he has held a professorship for Semantic Audio Signal Processing at the International Audio Laboratories Erlangen, a joint institute of the Friedrich-Alexander-Universität and the Fraunhofer Institute for Integrated Circuits IIS. His recent research interests include music processing, music information retrieval, audio signal processing, and motion processing. He was a member of the IEEE Audio and Acoustic Signal Processing Technical Committee from 2010 to 2015, a member of the Senior Editorial Board of the IEEE Signal Processing Magazine (2018-2022), and a member of the Board of Directors of the International Society for Music Information Retrieval (2009-2021, being its president in 2020/2021). In 2020, he was elevated to IEEE Fellow for contributions to music signal processing.
