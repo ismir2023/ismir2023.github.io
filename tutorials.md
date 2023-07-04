@@ -17,13 +17,16 @@ title: Accepted Tutorials at ISMIR 2023
 
 ### PRESENTERS
 **Berker Banar**, Queen Mary University of London, b.banar@qmul.ac.uk
+
 **Pedro Sarmento**, Queen Mary University of London, p.p.sarmento@qmul.ac.uk 
+
 **Sara Adkins**, INFINITE ALBUM, sara@infinitealbum.io
 
 ### ABSTRACT
 With the rise of the attention mechanism and the success of auto-regressive generative modelling and large language models, the Transformer architecture has arguably been the most promising technology for symbolic music generation. While audio-based methods have shown promise, symbolic music generation offers distinct advantages in terms of control, long-term coherence and computational efficiency. This tutorial explores the potential of the Transformer architecture in symbolic music generation and aims to provide (1) a thorough understanding of the vanilla Transformer architecture (emphasising the reasoning behind its design choices) and the utilisation of large language models for symbolic music generation. Additionally, it offers (2) a comprehensive overview of the field, including a taxonomy and a curated list of valuable datasets. The tutorial delves into (3) an in-depth analysis of Transformer variants and large language models specifically tailored for symbolic music generation. Also, it examines (4) examples and advanced considerations such as style, musical conditioning, and real-time performance. Furthermore, the tutorial offers (5) two hands-on exercises using Google Colab Notebooks, enabling participants to apply the concepts covered. Overall, this tutorial equips participants with the theoretical knowledge and practical skills necessary to explore the power of the Transformer architecture in symbolic music generation.
 
 ### BIOS
+
 **Berker Banar** is a PhD Researcher (Comp. Sci.) at the Centre for Doctoral Training in AI and Music (AIM CDT) and the Centre for Digital Music (C4DM) at Queen Mary University of London (QMUL), and also an Enrichment Student at the Alan Turing Institute. His PhD focuses on ‘Composing Contemporary Classical Music using Generative Deep Learning’ under supervision of Simon Colton to enhance human creativity and enable new aesthetics. Berker’s research interests include transformer-based generative modelling, optimisation, self-supervised representation learning for audio and music, explainable AI, quality-diversity analysis of generative model and out-of-distribution generation. He has worked at Sony and Bose as a research intern, and at Northwestern University Metamaterials and Nanophotonic Devices Lab as a nanophotonics researcher. Berker holds a BS in Electrical and Electronics Engineering from Bilkent University, Ankara, Turkey and a BM in Electronic Production and Design from Berklee College of Music, Boston, MA. His awards include Enrichment Community Award (The Alan Turing Institute), Exceptional Great Work Award (Bose), Outstanding Students of 2022 (EvoMUSART), Roland Award Endowed Scholarship (Berklee) and Outstanding Success Scholarship (Turkish Educational Foundation, upon ranking 17th in 1.5 million people in national university entrance exam). As a musician (drums and electronics), Berker has performed at venues such as the Museum of Fine Arts Boston, Harvard University Holden Chapel & Carpenter Center for Visual Arts (an original piece premiered as part of Berklee Interdisciplinary Arts Institute), Berklee Performance Center, Wally’s Jazz Club Boston, Nardis Jazz Club Istanbul and Istanbul Jazz Festival.
 
 **Pedro Sarmento** is a PhD researcher at the Centre for Digital Music (C4DM), Queen Mary University of London (QMUL), working under the supervision of Mathieu Barthet within the UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM). His research focuses on guitar-focused symbolic music generation with deep learning. This concerns the exploration of techniques for the creation of novel music that is represented in a digital tablature format, in which additional information about how to play specific music passages is provided. He holds an Integrated MSc degree in Electrical Engineering from Faculdade de Engenharia da Universidade do Porto (FEUP), a degree in Classical Guitar from the Conversatory of Music of Porto, and a second MSc degree in Multimedia and Interactive Sound from FEUP. He has an ongoing collaboration with Orquestra de Jazz de Matosinhos (OJM) where he leads sessions that foster an approach to STEM via musical concepts for young students. He volunteers for an online music magazine, writing album reviews and conducting interviews with artists from the Metal scene.
@@ -35,8 +38,11 @@ With the rise of the attention mechanism and the success of auto-regressive gene
 ## Agents for Computer-Assisted Music Performance: Taxonomy, Review and Coding
 
 ### PRESENTERS
+
 **Christodoulos Benetatos**, University of Rochester
+
 **Zhiyao Duan**, University of Rochester
+
 **Philippe Pasquier**, Simon Fraser University
 
 ### ABSTRACT
@@ -45,7 +51,7 @@ This tutorial offers a review of interactive music systems, with a specific focu
 The first part of the tutorial does not require any technical background and is aimed at anyone with an interest in the topic. Those interested in actively participating in the coding part should bring a laptop with Chrome and  Node.js installed, as well as have some coding experience. Familiarity with JavaScript would be helpful, but not necessary. The tutorial is also suitable for online participants.
 
 ### BIOS
-Christodoulos Benetatos is a 5th year Ph.D student in the Department of Electrical and Computer Engineering at the University of Rochester. He received his B.S and M.Eng in Electrical Engineering from National Technical University of Athens in 2018. His research interests are focused primarily on automatic music generation as well as the design  and development of computer-assisted music-making systems. During his research internships at Kwai and TikTok, he worked on audio digital signal processing and music generation algorithms. As a classical guitarist, he has won several prizes in international guitar competitions and is a regular performer both as a soloist and as part of ensembles.
+**Christodoulos Benetatos** is a 5th year Ph.D student in the Department of Electrical and Computer Engineering at the University of Rochester. He received his B.S and M.Eng in Electrical Engineering from National Technical University of Athens in 2018. His research interests are focused primarily on automatic music generation as well as the design  and development of computer-assisted music-making systems. During his research internships at Kwai and TikTok, he worked on audio digital signal processing and music generation algorithms. As a classical guitarist, he has won several prizes in international guitar competitions and is a regular performer both as a soloist and as part of ensembles.
 
 **Philippe Pasquier** is a professor at Simon Fraser University's School of Interactive Arts and Technology, where he directs the Metacreation Lab for Creative AI. He leads a research-creation program around generative systems for creative tasks. As such, he is a scientist specialized in artificial intelligence, a software designer, a multidisciplinary media artist, an educator, and a community builder. Pursuing a multidisciplinary research-creation program, his contributions bridge fundamental research on generative systems, machine learning, affective computing and computer-assisted creativity, applied research in the creative software industry, and artistic practice in interactive and generative art.
 
@@ -57,8 +63,11 @@ Christodoulos Benetatos is a 5th year Ph.D student in the Department of Electric
 ## Analysing Physiological Data Collected During Music Listening: An Introduction
 
 ### PRESENTERS
+
 **Laura Bishop**, University of Oslo
+
 **Geoffray Bonnin**, Université de Lorraine
+
 **Jérémy Frey**, Ullo
 
 ### ABSTRACT
@@ -87,17 +96,22 @@ methods to participate in the hands-on parts of the tutorial.
 ### BIOS
 **Laura Bishop** is a researcher at the RITMO Centre for Interdisciplinary Studies in Rhythm, Time and Motion and the Department of Musicology at the University of Oslo. She specialises in pupillometry, eye-tracking, and motion capture using approaches mainly grounded in psychology. She completed her PhD in music psychology at the MARCS Institute, Western Sydney University, Australia, in 2013. She currently co-leads the Austrian Science Fund project “Achieving togetherness in music ensembles” in collaboration with the University for Music and Performing Arts Vienna (mdw), which investigates physiological and body motion coordination in ensemble playing.
 
-**Geoffray Bonnin is an Associate Professor at the Lorraine Research Laboratory in Computer Science and its Applications (Loria), Université de Lorraine. He obtained his Ph.D. in 2010 and joined the Loria lab in 2014 as an Associate Professor. His research topics are related to artificial intelligence for music and for education. He is currently in charge of the Music-Mouv’ project, which is a collaboration with researchers in the domain of psychology that started in October 2021. The project aims at helping individuals with Parkinson’s disease to walk by triggering relevant emotions through physiology-based music recommendations.
+**Geoffray Bonnin** is an Associate Professor at the Lorraine Research Laboratory in Computer Science and its Applications (Loria), Université de Lorraine. He obtained his Ph.D. in 2010 and joined the Loria lab in 2014 as an Associate Professor. His research topics are related to artificial intelligence for music and for education. He is currently in charge of the Music-Mouv’ project, which is a collaboration with researchers in the domain of psychology that started in October 2021. The project aims at helping individuals with Parkinson’s disease to walk by triggering relevant emotions through physiology-based music recommendations.
 
 **Jérémy Frey** is the CTO and co-founder of Ullo. After a master degree in cognitive sciences, he obtained his PhD degree in computer science in 2015 from the University of Bordeaux, France. During his work within the Inria research team Potioc, he had been studying how passive brain-computer interfaces could contribute to the evaluation of user experience, using for example EEG to infer a continuous index of cognitive load. His current research interests revolve around increasing introspection and social presence, by displaying inner states through tangible interfaces or wearables, with applications ranging from well-being to education.
 
 ## Introduction to Differentiable Audio Synthesizer Programming
 
 ### PRESENTERS
+
 **Ben Hayes**, Centre for Digital Music, Queen Mary University of London b.j.hayes@qmul.ac.uk
+
 **Jordie Shier**, Centre for Digital Music, Queen Mary University of London  j.m.shier@qmul.ac.uk
+
 **Chin-Yun Yu**, Centre for Digital Music, Queen Mary University of London chin-yun.yu@qmul.ac.uk
+
 **David Südholt**, Centre for Digital Music, Queen Mary University of London d.sudholt@qmul.ac.uk
+
 **Rodrigo Diaz**, Centre for Digital Music, Queen Mary University of London r.diazfernandez@qmul.ac.uk
 
 ### ABSTRACT
@@ -151,8 +165,11 @@ Besides his scientific research, Meinard Müller has been very active in teachin
 ## Kymatio: Deep Learning meets Wavelet Theory for Music Signal Processing
 
 ### PRESENTERS
+
 **Cyrus Vahidi** (c.vahidi@qmul.ac.uk) Centre for Digital Music, Queen Mary University of London, United Kingdom
+
 **Christopher Mitcheltree**, Centre for Digital Music, Queen Mary University of London, United Kingdom
+
 **Vincent Lostanlen**, LS2N, CNRS, Nantes Université, France
 
 ### ABSTRACT
