@@ -16,7 +16,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 - ISMIR 2023 General Chairs (Augusto Sarti, Fabio Antonacci, Mark Sandler) [ismir2023@ismir.net](ismir2023@ismir.net)
 - ISMIR 2023 Diversity & Inclusion Chairs (Claire Arthur, Xiao Hu, Francesca Ronchini) [ismir2023-diversity@ismir.net](ismir2023-diversity@ismir.net)
-- ISMIR Board (roaster (here)[https://www.ismir.net/about/]) [codeofconduct@ismir.net](codeofconduct@ismir.net) or [board@ismir.net](board@ismir.net )
+- ISMIR Board (roaster [here](https://www.ismir.net/about/)) [codeofconduct@ismir.net](codeofconduct@ismir.net) or [board@ismir.net](board@ismir.net )
 
 
 ### The Quick Version
