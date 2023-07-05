@@ -58,7 +58,7 @@ Each accepted paper needs to be covered by at least a student / full in presence
 
 - Approximately, 1 EUR = 1.10 USD, 1 EUR = 80 INR, 1 EUR = 156 JPY, 1 EUR = 7.9 CNY. Money from your account will get deducted at the prevailing rate of exchange at the time of transaction and your card issuer/bank may charge a currency conversion fee.
 
-- Those who wish to attend the tutorials will have to register for tutorials additionally using add-ons.
+- Those who wish to attend the [tutorials](https://ismir2023.ismir.net/tutorials/) will have to register for tutorials additionally using add-ons.
 
 - If you are registering under the Student category, please upload a copy of your student ID during registration. Please also carry it to the conference if you are attending in-person for verification at the venue while collecting your badge.
 
