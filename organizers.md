@@ -7,7 +7,7 @@ background_position: 0% 44%
 
 | General chairs  |  
 |:------------------|
-| ![Augusto Sarti](images/augusto_sarti.jpeg) Augusto Sarti    |
+| ![Augusto Sarti](assets/img/augusto_sarti.jpeg) Augusto Sarti    |
 | Fabio Antonacci    |
 | Mark Sandler    | 
 
