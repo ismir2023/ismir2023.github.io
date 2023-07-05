@@ -14,9 +14,9 @@ ISMIR 2023 is committed to providing a harassment-free experience for everyone. 
 
 If you are being harassed, notice that someone else is being harassed, or have any other concerns regarding conference conduct, you may report it through any the following channels:
 
-ISMIR 2023 General Chairs (Augusto Sarti, Fabio Antonacci, Mark Sandler) [ismir2023@ismir.net](ismir2023@ismir.net)
-ISMIR 2023 Diversity & Inclusion Chairs (Claire Arthur, Xiao Hu, Francesca Ronchini) [ismir2023-diversity@ismir.net](ismir2023-diversity@ismir.net)
-ISMIR Board (roaster (here)[https://www.ismir.net/about/]) [codeofconduct@ismir.net](codeofconduct@ismir.net) or [board@ismir.net](board@ismir.net )
+- ISMIR 2023 General Chairs (Augusto Sarti, Fabio Antonacci, Mark Sandler) [ismir2023@ismir.net](ismir2023@ismir.net)
+- ISMIR 2023 Diversity & Inclusion Chairs (Claire Arthur, Xiao Hu, Francesca Ronchini) [ismir2023-diversity@ismir.net](ismir2023-diversity@ismir.net)
+- ISMIR Board (roaster (here)[https://www.ismir.net/about/]) [codeofconduct@ismir.net](codeofconduct@ismir.net) or [board@ismir.net](board@ismir.net )
 
 
 ### The Quick Version
@@ -37,7 +37,8 @@ If you are being harassed, notice that someone else is being harassed, or have a
 Conference staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 We expect participants to follow these rules at ISMIR 2023 conference and workshop venues and conference-related social events.
 
-###Privacy Protocols: Screencaptures, Audio and Video recordings
+### Privacy Protocols: Screencaptures, Audio and Video recordings
+
 Given the hybrid nature of the conference, most of the scientific sessions of ISMIR 2023 events will be livestreamed and also recorded. Participants will be alerted in the program and at events. The audio and video recordings of such sessions made available to registered conference participants are only for their viewing and cannot be shared further without the express consent of conference organizers and participants involved in the recordings.
 Providing access to the virtual conference platform or sharing Zoom meeting links with people who have not registered for the conference without the express consent of the conference organizers is prohibited.
 Do not take audio or video recordings of any ISMIR 2023 activities unless explicit permission has been granted by all participants.
@@ -47,11 +48,12 @@ Do not take or distribute pictures of or copy research posters/presentation mate
 Chat logs can be saved for personal use only.
 
 #### Consequences/Enforcement
+
 If a participant engages in harassing or inappropriate behaviour, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference venue and virtual platforms with no refund.
 Participants asked to stop any harassing or inappropriate behaviour are expected to comply immediately.
 Scope
 
-This work, “ISMIR 2023 Code of Conduct”, is a derivative of “Conference Code of Conduct” by Conference Code of Conduct, licensed under a Creative Commons Attribution 3.0 Unported License. We also adapt content from the SPE-Inspiring Plastics Professionals Virtual Meetings Conduct Policy. “ISMIR 2023 Code of Conduct” is licensed under a Creative Commons Attribution 3.0 Unported License by ISMIR 2023.
+This work, “ISMIR 2023 Code of Conduct”, is a derivative of “[Conference Code of Conduct](https://confcodeofconduct.com/)” by [Conference Code of Conduct](https://github.com/confcodeofconduct), licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/deed.en_US). We also adapt content from the [SPE-Inspiring Plastics Professionals Virtual Meetings Conduct Policy](https://www.4spe.org/i4a/pages/index.cfm?pageID=5715). “ISMIR 2023 Code of Conduct” is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/deed.en_US) by ISMIR 2023.
 
 
 
