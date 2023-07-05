@@ -6,7 +6,7 @@ title: Accepted Tutorials at ISMIR 2023
 
 # Contents
  - [Transformer-based Symbolic Music Generation: Fundamentals to Advanced Concepts, Stylistic Considerations, Conditioning Mechanisms and Large Language Models](#1-transformer-based-symbolic-music-generation-fundamentals-to-advanced-concepts-stylistic-considerations-conditioning-mechanisms-and-large-language-models)
-- [Agents for Computer-Assisted Music Performance: Taxonomy, Review and Coding](#2-agents-for-computer-assisted-music-performance-taxonomy-review-and-coding)
+- [Agents for Computer-Assisted Music Performance: Taxonomy, Review and Coding](#2-computer-assisted-music-making-systems-taxonomy-review-and-coding)
 - [Analysing Physiological Data Collected During Music Listening: An Introduction](#3-analysing-physiological-data-collected-during-music-listening-an-introduction)
 - [Introduction to Differentiable Audio Synthesizer Programming](#4-introduction-to-differentiable-audio-synthesizer-programming)
 - [Learning with Music Signals: Technology Meets Education](#5-learning-with-music-signals-technology-meets-education)
@@ -20,9 +20,14 @@ title: Accepted Tutorials at ISMIR 2023
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+
 
 ## 1 Transformer-based Symbolic Music Generation: Fundamentals to Advanced Concepts, Stylistic Considerations, Conditioning Mechanisms and Large Language Models
-
+<br>
+<br>
 ### PRESENTERS
 **Berker Banar**, Queen Mary University of London, b.banar@qmul.ac.uk
 
@@ -43,8 +48,9 @@ With the rise of the attention mechanism and the success of auto-regressive gene
 
 
 
-## 2 Agents for Computer-Assisted Music Performance: Taxonomy, Review and Coding
-
+## 2 Computer-Assisted Music-Making Systems: Taxonomy, Review, and Coding
+<br>
+<br>
 ### PRESENTERS
 
 **Christodoulos Benetatos**, University of Rochester
@@ -54,9 +60,7 @@ With the rise of the attention mechanism and the success of auto-regressive gene
 **Philippe Pasquier**, Simon Fraser University
 
 ### ABSTRACT
-This tutorial offers a review of interactive music systems, with a specific focus on agents designed for computer-assisted music performance. We will present a taxonomy that categorizes and organizes their functionalities and we will delve into the design principles of many musical agents. Research on this area is interdisciplinary in its nature, combining fields such as Music Information Retrieval (MIR), Artificial Intelligence (AI) and Human-Computer Interaction (HCI) and the participants will gain an understanding of how these fields converge to create innovative and interactive musical experiences. Additionally, we will introduce Euterpe, a prototyping framework for creating interactive music systems on the Web. We will examine the implementation of an existing system built using Euterpe, to get insights into the development process using the framework. Then we will have a hands-on coding session in which we will guide the participants in the process of creating a simple musical agent.
-
-The first part of the tutorial does not require any technical background and is aimed at anyone with an interest in the topic. Those interested in actively participating in the coding part should bring a laptop with Chrome and  Node.js installed, as well as have some coding experience. Familiarity with JavaScript would be helpful, but not necessary. The tutorial is also suitable for online participants.
+Computer-Assisted Music-Making (CAMM) systems, are software-based tools designed to assist and augment the musical creativity of composers, performers, and music enthusiasts. CAMM systems encompass a wide range of systems that can be broadly categorized into two main types according to their design purposes: to assist music performance and to assist music composition. This tutorial offers a comprehensive review of the design principles, practical applications, taxonomy, and the state-of-the-art research of CAMM systems, with an emphasis on systems assisting music performance, which are also called “interactive music systems” or “musical agents” in the literature. Research on CAMMs is interdisciplinary in its nature, combining fields such as Music Information Retrieval (MIR), Artificial Intelligence (AI) and Human-Computer Interaction (HCI). Participants will gain an understanding of how these fields converge to create innovative and interactive musical experiences. This tutorial will also feature a coding session for participants to build a real-time musical agent, under the framework of Euterpe, a prototyping framework for creating music interactions on the Web. The tutorial will examine existing systems built using Euterpe, provide insights into the development process, and guide participants through the creation of their own musical agents. Participants in the coding part should bring a laptop with Chrome and Node.js [https://nodejs.org/en/download](https://nodejs.org/en/download) installed, as well as have some coding experience. Familiarity with JavaScript will be helpful, but not necessary.
 
 ### BIOS
 **Christodoulos Benetatos** is a 5th year Ph.D student in the Department of Electrical and Computer Engineering at the University of Rochester. He received his B.S and M.Eng in Electrical Engineering from National Technical University of Athens in 2018. His research interests are focused primarily on automatic music generation as well as the design  and development of computer-assisted music-making systems. During his research internships at Kwai and TikTok, he worked on audio digital signal processing and music generation algorithms. As a classical guitarist, he has won several prizes in international guitar competitions and is a regular performer both as a soloist and as part of ensembles.
@@ -69,7 +73,8 @@ The first part of the tutorial does not require any technical background and is 
 
 
 ## 3 Analysing Physiological Data Collected During Music Listening: An Introduction
-
+<br>
+<br>
 ### PRESENTERS
 
 **Laura Bishop**, University of Oslo
@@ -109,7 +114,8 @@ methods to participate in the hands-on parts of the tutorial.
 **Jérémy Frey** is the CTO and co-founder of Ullo. After a master degree in cognitive sciences, he obtained his PhD degree in computer science in 2015 from the University of Bordeaux, France. During his work within the Inria research team Potioc, he had been studying how passive brain-computer interfaces could contribute to the evaluation of user experience, using for example EEG to infer a continuous index of cognitive load. His current research interests revolve around increasing introspection and social presence, by displaying inner states through tangible interfaces or wearables, with applications ranging from well-being to education.
 
 ## 4 Introduction to Differentiable Audio Synthesizer Programming
-
+<br>
+<br>
 ### PRESENTERS
 
 **Ben Hayes**, Centre for Digital Music, Queen Mary University of London b.j.hayes@qmul.ac.uk
@@ -140,6 +146,8 @@ The tutorial will centre around practical demonstrations, which participants can
 
 
 ## 5 Learning with Music Signals: Technology Meets Education
+<br>
+<br>
 
 ### PRESENTERS
 **Meinard Müller**, International Audio Laboratories Erlangen, Erlangen, Germany
@@ -171,6 +179,8 @@ Besides his scientific research, Meinard Müller has been very active in teachin
 
 
 ## 6 Kymatio: Deep Learning meets Wavelet Theory for Music Signal Processing
+<br>
+<br>
 
 ### PRESENTERS
 
