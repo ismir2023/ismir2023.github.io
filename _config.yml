@@ -40,6 +40,8 @@ navigation: # Navigation links
      - {name: 'Travel', link: '/travel'}
      - {name: 'Registration', link: '/registration'}
      - {name: 'Tourist Information', link: '/tourist'}
+     - {name: 'Code of Conduct', link: '/codeofconduct'}
+
   - {name: 'Organizing committee', link: '/organizers'}
   - {name: 'Contact', link: '/contact'}
   - name: "Diversity & Inclusion"
