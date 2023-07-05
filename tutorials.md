@@ -6,7 +6,7 @@ title: Accepted Tutorials at ISMIR 2023
 
 # Contents
  - [Transformer-based Symbolic Music Generation: Fundamentals to Advanced Concepts, Stylistic Considerations, Conditioning Mechanisms and Large Language Models](#1-transformer-based-symbolic-music-generation-fundamentals-to-advanced-concepts-stylistic-considerations-conditioning-mechanisms-and-large-language-models)
-- [Agents for Computer-Assisted Music Performance: Taxonomy, Review and Coding](#2-computer-assisted-music-making-systems-taxonomy-review-and-coding)
+- [Computer-Assisted Music-Making Systems: Taxonomy, Review, and Coding](#2-computer-assisted-music-making-systems-taxonomy-review-and-coding)
 - [Analysing Physiological Data Collected During Music Listening: An Introduction](#3-analysing-physiological-data-collected-during-music-listening-an-introduction)
 - [Introduction to Differentiable Audio Synthesizer Programming](#4-introduction-to-differentiable-audio-synthesizer-programming)
 - [Learning with Music Signals: Technology Meets Education](#5-learning-with-music-signals-technology-meets-education)
@@ -45,7 +45,8 @@ With the rise of the attention mechanism and the success of auto-regressive gene
 **Pedro Sarmento** is a PhD researcher at the Centre for Digital Music (C4DM), Queen Mary University of London (QMUL), working under the supervision of Mathieu Barthet within the UKRI Centre for Doctoral Training in Artificial Intelligence and Music (AIM). His research focuses on guitar-focused symbolic music generation with deep learning. This concerns the exploration of techniques for the creation of novel music that is represented in a digital tablature format, in which additional information about how to play specific music passages is provided. He holds an Integrated MSc degree in Electrical Engineering from Faculdade de Engenharia da Universidade do Porto (FEUP), a degree in Classical Guitar from the Conversatory of Music of Porto, and a second MSc degree in Multimedia and Interactive Sound from FEUP. He has an ongoing collaboration with Orquestra de Jazz de Matosinhos (OJM) where he leads sessions that foster an approach to STEM via musical concepts for young students. He volunteers for an online music magazine, writing album reviews and conducting interviews with artists from the Metal scene.
 
 **Sara Adkins** is a music technologist, machine learning engineer, and performer who is enthusiastic about promoting the use of machine learning and AI in the creative arts. Currently, she works as a Generative Music and Audio Developer at Infinite Album, developing a real-time, interactive, and copyright-safe music engine for Twitch streamers. Sara holds a Master of Science in Sound and Music Computing from Queen Mary University of London where she was funded through a US-UK Fulbright grant. Her master's thesis focused on developing a Transformer model capable of generating loopable musical phrases for live coding and algorave performances, and received an Outstanding Student Mention at EvoMUSART 2023. Before moving to London, Sara spent three years in Boston where she worked as a machine learning engineer at Bose and played as a freelance classical guitarist. At Bose, she worked on deep learning models for speech enhancement that were optimized to run live on a hearing aid micro-controller. She also led a research project that developed generative audio algorithms that adapt to biofeedback signals to induce sleep using soothing music. Sara graduated from Carnegie Mellon University with an interdisciplinary bachelor's degree in music technology and computer science. Her senior capstone project, "Creating with the Machine," combined algorithmic and traditional methods of composition into live performances to explore how interactive generative algorithms can influence creativity in musical improvisation. "Creating with the Machine" was premiered by the Carnegie Mellon Exploded Ensemble in the spring of 2018 and was awarded the Henry Armero Memorial Award for Inclusive Creativity.
-
+<br>
+<br>
 
 
 ## 2 Computer-Assisted Music-Making Systems: Taxonomy, Review, and Coding
@@ -68,7 +69,8 @@ Computer-Assisted Music-Making (CAMM) systems, are software-based tools designed
 **Philippe Pasquier** is a professor at Simon Fraser University's School of Interactive Arts and Technology, where he directs the Metacreation Lab for Creative AI. He leads a research-creation program around generative systems for creative tasks. As such, he is a scientist specialized in artificial intelligence, a software designer, a multidisciplinary media artist, an educator, and a community builder. Pursuing a multidisciplinary research-creation program, his contributions bridge fundamental research on generative systems, machine learning, affective computing and computer-assisted creativity, applied research in the creative software industry, and artistic practice in interactive and generative art.
 
 **Zhiyao Duan** is an associate professor in Electrical and Computer Engineering, Computer Science and Data Science at the University of Rochester. He received his B.S. in Automation and M.S. in Control Science and Engineering from Tsinghua University, China, in 2004 and 2008, respectively, and received his Ph.D. in Computer Science from Northwestern University in 2013. His research interest is in computer audition and its connections with computer vision, natural language processing, and augmented and virtual reality. He received a best paper award at the Sound and Music Computing (SMC) conference in 2017, a best paper nomination at the International Society for Music Information Retrieval (ISMIR) conference in 2017, and a CAREER award from the National Science Foundation (NSF). He served as a Scientific Program Co-Chair of ISMIR 2021, and is serving as an associate editor for IEEE Open Journal of Signal Processing, a guest editor for Transactions of the International Society for Music Information Retrieval, and a guest editor for Frontiers in Signal Processing. He is the President-Elect of ISMIR.
-
+<br>
+<br>
 
 
 
@@ -143,7 +145,8 @@ The tutorial will centre around practical demonstrations, which participants can
 **David Südholt** is a first year PhD student in the Artificial Intelligence and Music (AIM) programme based at Queen Mary University of London (QMUL). Supervised by Prof. Joshua Reiss, he is researching parameter estimation for physical modelling synthesis, focussing on the synthesis and expressive transformation of the human voice. He received an MSc degree in Sound and Music Computing from Aalborg University Copenhagen in 2022, where he was supervised by Prof. Stefania Serafin and Assoc. Prof. Cumhur Erkut. His work has been published at the SMC conference and in the IEEE/ACM Transactions on Audio, Speech and Language Processing.
 
 **Rodrigo Diaz** is a PhD candidate in Artificial Intelligence and Music at Queen Mary University in London, under the supervision of Prof. Mark Sandler and Dr. Charalampos Saitis. Rodrigo’s work has been published in leading computer vision and audio conferences, including CVPR, ICASSP, IC3D, and the AES Conference on Headphone Technology. Before starting his PhD studies, he worked as a researcher at the Immersive Communications group at the Fraunhofer HHI Institute in Berlin, where he investigated volumetric reconstruction from images using neural networks. His current research focuses on real-time audio synthesis using neural networks for 3D objects and drums. Rodrigo’s interdisciplinary background includes a Master’s degree in Media Arts and Design from Bauhaus University in Weimar and a Bachelor of Music from Texas Christian University.
-
+<br>
+<br>
 
 ## 5 Learning with Music Signals: Technology Meets Education
 <br>
@@ -175,7 +178,8 @@ Our primary goal is to give an exciting tutorial that builds a bridge from basic
 **Meinard Müller** received the Diploma degree (1997) in mathematics and the Ph.D. degree (2001) in computer science from the University of Bonn, Germany. Since 2012, he has held a professorship for Semantic Audio Signal Processing at the International Audio Laboratories Erlangen, a joint institute of the Friedrich-Alexander-Universität and the Fraunhofer Institute for Integrated Circuits IIS. His recent research interests include music processing, music information retrieval, audio signal processing, and motion processing. He was a member of the IEEE Audio and Acoustic Signal Processing Technical Committee from 2010 to 2015, a member of the Senior Editorial Board of the IEEE Signal Processing Magazine (2018-2022), and a member of the Board of Directors of the International Society for Music Information Retrieval (2009-2021, being its president in 2020/2021). In 2020, he was elevated to IEEE Fellow for contributions to music signal processing.
 
 Besides his scientific research, Meinard Müller has been very active in teaching music and audio processing. He gave numerous tutorials at major conferences, including ISMIR (2007, 2010, 2011, 2014, 2017, 2019), ICASSP (2009, 2011, 2019), Deep Learning IndabaX (2021), GI Jahrestagung (2017), Eurographics (2009, 2023), and ICME (2008). Furthermore, he wrote a monograph titled "Information Retrieval for Music and Motion" (Springer, 2007) as well as a textbook titled "Fundamentals of Music Processing" (Springer, 2015, www.music-processing.de). Recently, he released a comprehensive collection of educational Python notebooks designed for teaching and learning audio signal processing using music as an instructive application domain (https://www.audiolabs-erlangen.de/FMP).
-
+<br>
+<br>
 
 
 ## 6 Kymatio: Deep Learning meets Wavelet Theory for Music Signal Processing
