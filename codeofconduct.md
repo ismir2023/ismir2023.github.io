@@ -47,7 +47,7 @@ Do not share audio or video recordings of ISMIR 2023 besides those released by t
 Do not take or distribute pictures of or copy research posters/presentation materials unless explicitly allowed by the license terms under which these materials are distributed. All ISMIR 2023 presentation videos, posters, and papers are freely available on the conference site.
 Chat logs can be saved for personal use only.
 
-#### Consequences/Enforcement
+### Consequences/Enforcement
 
 If a participant engages in harassing or inappropriate behaviour, the conference organisers may take any action they deem appropriate, including warning the offender or expulsion from the conference venue and virtual platforms with no refund.
 Participants asked to stop any harassing or inappropriate behaviour are expected to comply immediately.
