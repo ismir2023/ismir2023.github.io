@@ -51,17 +51,28 @@ Each accepted paper needs to be covered by at least a student / full in presence
 - For the participants who need a visa, an invitation letter will be sent to the registered email address after completion of the registration process including fee payment. Invitation letters for those registering by Early Bird deadline (Jul 23, 2023) will be sent out by July 31, 2023.
 
 ## General Terms & Conditions
--All prices mentioned above are quoted in Euro (EUR), inclusive of the Value Added Tax (VAT) of **22%** is applied on the fees (as illustrated above) 
--All deadlines mentioned above are in AoE time zone (UTC-12:00, IST-17:30), except on-site registration.
--Approximately, 1 EUR = 1.10 USD, 1 EUR = 80 INR, 1 EUR = 156 JPY, 1 EUR = 7.9 CNY. Money from your account will get deducted at the prevailing rate of exchange at the time of transaction and your card issuer/bank may charge a currency conversion fee.
--Those who wish to attend the tutorials will have to register for tutorials additionally using add-ons.
--If you are registering under the Student category, please upload a copy of your student ID during registration. Please also carry it to the conference if you are attending in-person for verification at the venue while collecting your badge.
--Registration will be only considered as confirmed on receipt of the complete amount.
--You can register online using your Debit, Credit Card, wire transfer or PayPal.
--The registration fee does not include any travel cost, insurance, accommodation, sightseeing tours or airport transfers.
--Login credentials to access the virtual conference platform will be sent to you closer to the conference dates.
--While your safety is of utmost importance, organisers take no responsibility for the loss of belongings/valuables or damage to your property (at the venue or during transit).
--By registering you confirm that the COVID-19 protocols set by the organisers will be adhered by you during the conference.
+
+- All prices mentioned above are quoted in Euro (EUR), inclusive of the Value Added Tax (VAT) of **22%** is applied on the fees (as illustrated above) 
+
+- All deadlines mentioned above are in AoE time zone (UTC-12:00, IST-17:30), except on-site registration.
+
+- Approximately, 1 EUR = 1.10 USD, 1 EUR = 80 INR, 1 EUR = 156 JPY, 1 EUR = 7.9 CNY. Money from your account will get deducted at the prevailing rate of exchange at the time of transaction and your card issuer/bank may charge a currency conversion fee.
+
+- Those who wish to attend the tutorials will have to register for tutorials additionally using add-ons.
+
+- If you are registering under the Student category, please upload a copy of your student ID during registration. Please also carry it to the conference if you are attending in-person for verification at the venue while collecting your badge.
+
+- Registration will be only considered as confirmed on receipt of the complete amount.
+
+- You can register online using your Debit, Credit Card, wire transfer or PayPal.
+
+- The registration fee does not include any travel cost, insurance, accommodation, sightseeing tours or airport transfers.
+
+- Login credentials to access the virtual conference platform will be sent to you closer to the conference dates.
+
+- While your safety is of utmost importance, organisers take no responsibility for the loss of belongings/valuables or damage to your property (at the venue or during transit).
+
+- By registering you confirm that the COVID-19 protocols set by the organisers will be adhered by you during the conference.
 
 
 ## Cancellation Policy 
