@@ -35,12 +35,12 @@ Registration for ISMIR 2023 will open on July 10, 2023! Please be aware that by 
 - Everything included for virtual participants
 - Conference kit/ bag with all the conference material
 - Access to all physical sessions and exhibitions at the venue
-- Welcome reception, banquet, coffee breaks and luncheons during the conference dates (5-9 Nov, 2023)
+- Welcome reception, banquet, coffee breaks and luncheons during the conference dates (6-9 Nov, 2023)
 **Notice that registration for the satellite events is managed by the organizers of the individual satellite events.**
 
 ## Important Note for Authors
 
-Each accepted paper needs to be covered by at least a student / full in presence registrationthe early-bird registration deadline (**Lug 23, 2023**). 
+Each accepted paper needs to be covered by at least a student / full in presence registrationthe early-bird registration deadline (**July 23, 2023**). 
 - A student author registration can cover up to one paper and a full author registration can cover up to two papers.
   It is mandatory for at least one author of an accepted paper to register for the conference and present their work at the conference (in-person or virtually).
 
@@ -56,13 +56,13 @@ Each accepted paper needs to be covered by at least a student / full in presence
 
 - All deadlines mentioned above are in AoE time zone (UTC-12:00, IST-17:30), except on-site registration.
 
-- Approximately, 1 EUR = 1.10 USD, 1 EUR = 80 INR, 1 EUR = 156 JPY, 1 EUR = 7.9 CNY. Money from your account will get deducted at the prevailing rate of exchange at the time of transaction and your card issuer/bank may charge a currency conversion fee.
+- Approximately, 1 EUR = 1.10 USD, 1 EUR = 0.85 GBP, 1 EUR = 156 JPY, 1 EUR = 7.9 CNY, 1 EUR = 80 INR. Money from your account will get deducted at the prevailing rate of exchange at the time of transaction and your card issuer/bank may charge a currency conversion fee.
 
-- Those who wish to attend the [tutorials](https://ismir2023.ismir.net/tutorials/) will have to register for tutorials additionally using add-ons.
+- Those who wish to attend the [tutorials](https://ismir2023.ismir.net/tutorials/) will have to additionally register for tutorials using add-ons in the registration page.
 
 - If you are registering under the Student category, please upload a copy of your student ID during registration. Please also carry it to the conference if you are attending in-person for verification at the venue while collecting your badge.
 
-- Registration will be only considered as confirmed on receipt of the complete amount.
+- Registration will be only considered as confirmed upon receipt of the complete amount.
 
 - You can register online using your Debit, Credit Card, wire transfer or PayPal.
 
