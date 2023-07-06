@@ -4,17 +4,18 @@ permalink: /tutorials/
 title: Tutorials
 ---
 
-# Contents
-Morning session
+## Morning session
 - [Analysing Physiological Data Collected During Music Listening: An Introduction](#1-analysing-physiological-data-collected-during-music-listening-an-introduction)
 - [Introduction to Differentiable Audio Synthesizer Programming](#2-introduction-to-differentiable-audio-synthesizer-programming)
 - [Transformer-based Symbolic Music Generation: Fundamentals to Advanced Concepts, Stylistic Considerations, Conditioning Mechanisms and Large Language Models](#3-transformer-based-symbolic-music-generation-fundamentals-to-advanced-concepts-stylistic-considerations-conditioning-mechanisms-and-large-language-models)
 
-Afternoon session
+## Afternoon session
 - [Computer-Assisted Music-Making Systems: Taxonomy, Review, and Coding](#4-computer-assisted-music-making-systems-taxonomy-review-and-coding)
 - [Learning with Music Signals: Technology Meets Education](#5-learning-with-music-signals-technology-meets-education)
 - [Kymatio: Deep Learning meets Wavelet Theory for Music Signal Processing](#6-kymatio-deep-learning-meets-wavelet-theory-for-music-signal-processing)
 
+<br>
+<br>
 <br>
 
 
