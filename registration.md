@@ -80,13 +80,13 @@ Kindly send the cancellation requests to [ismir2023-registration@ismir.net](ismi
 
 
 ## TERMS OF REGISTRATION AND PAYMENT
-Registration to the ISMIR 2023 conference is confirmed only upon receipt by FONDAZIONE POLITECNICO DI MILANO of the conference fee payment. A regular invoice will be issued by Fondazione Politecnico di Milano upon receipt of payment.
-The registration of participation is binding.
-The participation fees are owed upon registration and are payable within 10 days following submission of the registration (but not later than 7 days before the starting day of the event).
-Participation is not guaranteed until full payment of the registration fee is received.
-The conference program may be subject to changes.
-Payments will be refunded if the conference will be canceled by the organizer. In that case, the organizer will have no further liability to the client. Registrations remain valid if the conference has to be postponed.
-By accepting the terms of registration, you also accept the GDPR Information ([see the privacy policy here](privacy_policy.pdf)).
+- Registration to the ISMIR 2023 conference is confirmed only upon receipt by FONDAZIONE POLITECNICO DI MILANO of the conference fee payment. A regular invoice will be issued by Fondazione Politecnico di Milano upon receipt of payment.
+- The registration of participation is binding.
+- The participation fees are owed upon registration and are payable within 10 days following submission of the registration (but not later than 7 days before the starting day of the event).
+- Participation is not guaranteed until full payment of the registration fee is received.
+- The conference program may be subject to changes.
+- Payments will be refunded if the conference will be canceled by the organizer. In that case, the organizer will have no further liability to the client. Registrations remain valid if the conference has to be postponed.
+-By accepting the terms of registration, you also accept the **GDPR Information** ([see the privacy policy here](privacy_policy.pdf)).
 
 
 
