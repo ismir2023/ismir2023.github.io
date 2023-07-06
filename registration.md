@@ -36,7 +36,7 @@ Registration for ISMIR 2023 will open on July 10, 2023! Please be aware that by 
 - Conference kit/ bag with all the conference material
 - Access to all physical sessions and exhibitions at the venue
 - Welcome reception, banquet, coffee breaks and luncheons during the conference dates (5-9 Nov, 2023)
-- Notice that registration for the satellite events is managed by the organizers of the individual satellite events.
+**Notice that registration for the satellite events is managed by the organizers of the individual satellite events.**
 
 ## Important Note for Authors
 
@@ -52,7 +52,7 @@ Each accepted paper needs to be covered by at least a student / full in presence
 
 ## General Terms & Conditions
 
-- All prices mentioned above are quoted in Euro (EUR), inclusive of the Value Added Tax (VAT) of **22%** is applied on the fees (as illustrated above) 
+- All prices mentioned above are quoted in Euro (EUR), inclusive of the Value Added Tax (VAT) of **22%** applied on the fees (as illustrated above) 
 
 - All deadlines mentioned above are in AoE time zone (UTC-12:00, IST-17:30), except on-site registration.
 
