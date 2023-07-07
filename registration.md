@@ -9,7 +9,9 @@ background_position: 0% 0%
 ## ISMIR 2023 Registration
 
 
-Registration for ISMIR 2023 will open on July 10, 2023! Please be aware that by registering, you agree to abide by the [ISMIR 2023 Code of Conduct](https://ismir2023.ismir.net/codeofconduct/). ISMIR 2023 will be a hybrid conference allowing all registrants to choose to attend the event virtually or in-person in Milan, Italy. We encourage participants to register for the conference early, especially if you plan to attend ISMIR 2023 in-person to allow sufficient time to obtain a visa and make appropriate travel plans.
+Registration for ISMIR 2023 will open on July 10, 2023, 12AM AoE! Please be aware that by registering, you agree to abide by the [ISMIR 2023 Code of Conduct](https://ismir2023.ismir.net/codeofconduct/). ISMIR 2023 will be a hybrid conference allowing all registrants to choose to attend the event virtually or in-person in Milan, Italy. We encourage participants to register for the conference early, especially if you plan to attend ISMIR 2023 in-person to allow sufficient time to obtain a visa and make appropriate travel plans.
+
+Registration website: [https://eventi.fondazionepolitecnico.it/ISMIR2023#/?lang=en](https://eventi.fondazionepolitecnico.it/ISMIR2023#/?lang=en)
 
 
 |   | **Early (July 10 - July 23)**  | **Late (July 23 - Oct. 31)**  | **On site (Nov. 5 - Nov. 9)**  |
