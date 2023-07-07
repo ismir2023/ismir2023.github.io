@@ -25,6 +25,8 @@ Registration for ISMIR 2023 will open on July 10, 2023! Please be aware that by 
 | **Extra banquet**  | € 130  | € 130 (if Pax)  | € 130 (if available)  |
 | **Extra Welcome**  | € 35  | € 35  | - |
 
+Please notice that dates and times are referred to the AoE timezone.
+
 ## Registration benefits (Virtual participation)
 
 - E-version of all conference material - abstract book, program book, etc.
