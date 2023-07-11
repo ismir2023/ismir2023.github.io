@@ -52,7 +52,7 @@ Each accepted paper needs to be covered by at least a student / full in presence
 
 -Before registering, please visit the website [https://vistoperitalia.esteri.it/home/en](https://vistoperitalia.esteri.it/home/en)  to know if you have to apply for a visa and the procedure for obtaining a visa for Italy.
 - The participant is responsible for his/her visa application for attending ISMIR 2023. The conference organizers are not liable for any issue related to the visa application and acceptance procedure. If you will not be able to attend ISMIR 2023, a refund is agreed according to the cancellation policy detailed below. It is warmly suggested to apply for the visa well in advance with respect to the conference dates. 
-- For the participants who need a visa, an invitation letter will be sent to the registered email address after completion of the registration process including fee payment. Invitation letters for those registering by Early Bird deadline (Aug 31, 2023) will be sent out by July 31, 2023.
+- For the participants who need a visa, an invitation letter will be sent to the registered email address after completion of the registration process including fee payment. Invitation letters for those registering by Early Bird deadline (Aug 31, 2023) will be sent out in batches at repeated times during the early-bird registration period.  
 
 ## General Terms & Conditions
 
