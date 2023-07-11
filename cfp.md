@@ -40,7 +40,7 @@ Full paper submission: The full paper must be submitted by the full paper submis
 Supplementary material: For the anonymous review process, in addition to the PDF file of the manuscript, authors may upload supplementary files for their submission, such as audio samples, demonstration videos, code, etc. Submission of PDF files as supplementary material is discouraged. The supplementary materials should comply with the requirements for the double-blind review process.
 Subject area: When submitting the abstracts, authors will be required to choose from the subject areas given. The list of subject areas is the one listed above and it will be available on the submission site.
 
-Presenting authors: At least one author of each accepted paper must register to the conference, before the deadline given for author registration (July 10, 2023). Failure to register before the deadline will result in automatic withdrawal of the paper from the conference proceedings and program.
+Presenting authors: At least one author of each accepted paper must register to the conference, before the deadline given for author registration (August 31, 2023). Failure to register before the deadline will result in automatic withdrawal of the paper from the conference proceedings and program.
 Publication: Accepted papers will be published on the conference website and on an open access repository [TBD] using a Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 # Submission requirements
@@ -58,7 +58,7 @@ Time zone : [Anywhere On Earth (AOE)](https://www.timeanddate.com/time/zones/aoe
 - **Paper submission deadline:** April 14, 2023 (abstract due April 6, 2023)
 - **Paper acceptance:** June 23, 2023
 - **Camera ready paper submission:** July 10, 2023
-- **Early-bird and author registration:** July 10 - 23, 2023
+- **Early-bird and author registration:** July 10 - August 31, 2023
 
 # Online attendance
 
