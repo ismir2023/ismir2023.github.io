@@ -15,9 +15,10 @@ permalink: /dates/
 
 <br>
 
-| [Registration]({{ site.baseurl }}/registration/)			   | **Dates**          |
-| Early Bird Registration                                      | 10 - 23 July 2023       |
-| Author Registration                                          | 10 - 23 July 2023       |
+| [Registration]({{ site.baseurl }}/registration/)			       | **Dates**          |
+| Early Bird Registration                                      | July 10 - August 31, 2023       |
+| Author Registration                                          | July 10 - August 31, 2023       |
+| Late Registration                                            | September 1 - October 31, 2023       |
 
 
 
