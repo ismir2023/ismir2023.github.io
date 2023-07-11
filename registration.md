@@ -14,7 +14,7 @@ Registration for ISMIR 2023 will open on July 10, 2023, 12AM AoE! Please be awar
 Registration website: [https://eventi.fondazionepolitecnico.it/ISMIR2023#/?lang=en](https://eventi.fondazionepolitecnico.it/ISMIR2023#/?lang=en)
 
 
-|   | **Early (July 10 - July 23)**  | **Late (July 23 - Oct. 31)**  | **On site (Nov. 5 - Nov. 9)**  |
+|   | **Early (July 10 - August 31)**  | **Late (Sept. 1 - Oct. 31)**  | **On site (Nov. 5 - Nov. 9)**  |
 |---|---|---|---|
 | **Full / In presence**  | € 800  |  € 900 | € 1000 |
 | **Student / In presence**  |  € 400 |  € 450 | € 550  |
@@ -44,7 +44,7 @@ Please notice that dates and times are referred to the AoE timezone.
 
 ## Important Note for Authors
 
-Each accepted paper needs to be covered by at least a student / full in presence registrationthe early-bird registration deadline (**July 23, 2023**). 
+Each accepted paper needs to be covered by at least a student / full in presence registrationthe early-bird registration deadline (**August 31, 2023**). 
 - A student author registration can cover up to one paper and a full author registration can cover up to two papers.
   It is mandatory for at least one author of an accepted paper to register for the conference and present their work at the conference (in-person or virtually).
 
@@ -52,7 +52,7 @@ Each accepted paper needs to be covered by at least a student / full in presence
 
 -Before registering, please visit the website [https://vistoperitalia.esteri.it/home/en](https://vistoperitalia.esteri.it/home/en)  to know if you have to apply for a visa and the procedure for obtaining a visa for Italy.
 - The participant is responsible for his/her visa application for attending ISMIR 2023. The conference organizers are not liable for any issue related to the visa application and acceptance procedure. If you will not be able to attend ISMIR 2023, a refund is agreed according to the cancellation policy detailed below. It is warmly suggested to apply for the visa well in advance with respect to the conference dates. 
-- For the participants who need a visa, an invitation letter will be sent to the registered email address after completion of the registration process including fee payment. Invitation letters for those registering by Early Bird deadline (Jul 23, 2023) will be sent out by July 31, 2023.
+- For the participants who need a visa, an invitation letter will be sent to the registered email address after completion of the registration process including fee payment. Invitation letters for those registering by Early Bird deadline (Aug 31, 2023) will be sent out by July 31, 2023.
 
 ## General Terms & Conditions
 
