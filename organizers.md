@@ -54,7 +54,7 @@ background_position: 0% 44%
 
 | Sponsorship/Industry |        |  
 |:--------------------|:------------------|
-| Ilaria Manco | ![ Ilaria Manco](assets/img/organizers/)|
+| Ilaria Manco | ![ Ilaria Manco](assets/img/organizers/Ilaria_manco.jpg)|
 |  Luca Andrea Ludovico     | ![Luca Andrea Ludovico  ](assets/img/organizers/luca_andrea_ludovico.jpg)|
 
 | Satellite Events Chair |       |   
