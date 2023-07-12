@@ -88,7 +88,7 @@ background_position: 0% 44%
 
 | Social program & Local Organization       |    |                                                                                             
 |:----------------|:------------------|
-| Alberto Bernardini  |![Alberto Bernardini ](assets/img/organizers/) |
+| Alberto Bernardini  |![Alberto Bernardini ](assets/img/organizers/alberto_bernardini.jpg) |
 
 <!--
 
