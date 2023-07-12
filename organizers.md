@@ -28,14 +28,14 @@ background_position: 0% 44%
 
 
 
-| Tutorials        |      
+| Tutorials        |      |
 |:----------------|:------------------|
 | Johanna Devaney          | ![ Johanna Devaney ](assets/img/organizers/) |
 | Emmanouil Benetos          |![Emmanouil Benetos ](assets/img/organizers/emmanouil_benetos.jpg) |
 
 
 
-| Late-breaking/Demo  |  
+| Late-breaking/Demo  |  |
 |:-------------------|:------------------|
 | Massimiliano Zanoni          | ![ Massimiliano Zanoni ](assets/img/organizers/massimiliano_zanoni.png) |
 | George Fazekas	| ![George Fazekas](assets/img/organizers/)|
