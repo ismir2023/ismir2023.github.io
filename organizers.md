@@ -63,7 +63,7 @@ background_position: 0% 44%
 
 
 
-| Women in MIR / Diversity and inclusion| 
+| Women in MIR / Diversity and inclusion| |
 |:--------------------|:------------------|
 | Claire Arthur  | ![Claire Arthur ](assets/img/organizers/claire_arthur.jpg)|
 | Xiao Hu  |![Xiao Hu](assets/img/organizers/) |
@@ -71,7 +71,7 @@ background_position: 0% 44%
 
 
 
-| Virtual Technology, Social Media and Website  | 
+| Virtual Technology, Social Media and Website  | |
 |:-------------------|:------------------|
 | Marco Olivieri                        | ![ Marco Olivieri  ](assets/img/organizers/marco_olivieri.jpg) |
 | Luca Comanducci                        | ![Luca Comanducci ](assets/img/organizers/)|
