@@ -45,7 +45,7 @@ Please notice that dates and times are referred to the AoE timezone.
 ## Important Note for Authors
 
 Each accepted paper needs to be covered by at least a student / full in presence registrationthe early-bird registration deadline (**August 31, 2023**). 
-- A student author registration can cover up to one paper and a full author registration can cover up to two papers.
+- A student author registration can cover up to two papers and a full author registration can cover up to two papers.
   It is mandatory for at least one author of an accepted paper to register for the conference and present their work at the conference (in-person or virtually).
 
 ## Important Note for in-person participants
