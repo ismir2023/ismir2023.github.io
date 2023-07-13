@@ -42,5 +42,5 @@ Lombardy is the largest region in northern Italy and offers a wide range of tour
 
 ![Bergamo](assets/img/bergamo.jpeg)
 
-- **The Alps**: Lombardy is home to some of the most beautiful mountain ranges in Italy, such as the Bernina Range, the Ortler Range, and the Adamello-Presanella Range. You can go skiing, hiking, or
+- **The Alps**: Lombardy is home to some of the most beautiful mountain ranges in Italy, such as the Bernina Range, the Ortler Range, and the Adamello-Presanella Range. You can go skiing, hiking, or just enjoy the breathtaking views!
 ![Alps](assets/img/alpi.jpeg)
