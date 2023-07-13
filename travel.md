@@ -57,6 +57,8 @@ You can take a taxi from the airport or train station to reach Politecnico di Mi
 ## By Bike
 Milan has an extensive network of bike lanes and bike-sharing services. If you're staying in Milan for a few days, consider renting a bike or using a bike-sharing service to get around the city. From the city center, you can take the subway (Line 2, green line) to reach Politecnico di Milano.
 Milan, Italy has several bike sharing services available for residents and visitors. Here's some brief information about two popular bike sharing services in Milan:
+
+
 **BikeMi:**
 - Milan's official bike sharing service managed by ATM.
 - Website: [BikeMi](https://www.bikemi.com/)
