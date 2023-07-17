@@ -30,7 +30,7 @@ To maximize the number of grants we can support, we will provide:
 
 - 100% or about 50% (pending on availability of funds) waivers to registration fee  
 
-- 100% or about 50% (pending on availability of funds) reimbursements accommodation costs  
+- 100% or about 50% (pending on availability of funds) waivers to accommodation costs  
 
 - Travel and Childcare grants are under consideration 
 
@@ -54,7 +54,9 @@ Travel and childcare grants are under consideration and details will be given so
 
 ### Accommodation Grants 
 
-Accommodation grants include 100% or about 50% (pending on the availability of funds) reimbursements of the accommodation costs to attend ISMIR 2023. Names of Hotels and B&B affiliated with ISMIR 2023 will be indicated when the accommodation grants are awarded. 
+Accommodation grants include 100% or about 50% (pending on the availability of funds) waivers to the accommodation costs to attend ISMIR 2023. Names of Hotels and B&B affiliated with ISMIR 2023 will be indicated when the accommodation grants are awarded.
+
+In case of an accommodation grant, a room will be reserved and paid for the grantee, which should not book any accommodation (if you do so, you will not be reimbursed).
 
 ### Eligibility
 
