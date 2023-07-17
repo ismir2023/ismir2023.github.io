@@ -9,4 +9,3 @@ permalink: /sponsors/
 </div>
 
 
-{% include sponsors.html background_color="transparent" padding="0" margin_top="40px" %}
