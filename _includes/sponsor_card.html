@@ -1,0 +1,21 @@
+{% for tier in site.data.sponsorship %}   
+      <div class="row">
+        <div class="sponsor_tier_pill"> 
+          <h3 class="tier__name tier__{{ tier.Name }}"> {{ tier.Name }} Sponsors </h3>                    
+        </div>        
+          {% for sponsor in tier.Sponsors %}    
+          {% if tier.Name == "Platinum" %}
+            <div class="col-lg-6 sponsor_logo_box">
+          {% elsif tier.Name == "Gold" %}
+            <div class="col-lg-6 sponsor_logo_box">
+          {% else %}
+              <div class="col-lg-4 sponsor_logo_box">
+          {% endif %}
+              <a class="sponsor__url" href="{{ sponsor.url }}">  
+                <img class="sponsor__logo {{ tier.Name }}" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" style="background-image: url({{ sponsor.logo | relative_url }})" />                                         
+
+            </a>
+          </div>
+          {% endfor %}
+      </div>
+{% endfor %}
