@@ -1,0 +1,90 @@
+--- 
+- 
+  Name: Platinum
+  Sponsors:  
+    - 
+      logo: /assets/sponsors/SonyCSL.png
+      name: Sony
+      url: "#"
+    - 
+      logo: /assets/sponsors/Spotify.png
+      name: Spotify
+      url: "https://www.spotify.com"
+- 
+  Name: Gold
+  Sponsors:  
+    -
+      logo: /assets/sponsors/Adobe.png
+      name: Adobe
+      url: "https://research.adobe.com/"
+    -
+      logo: /assets/sponsors/ByteDance.png
+      name: ByteDance 
+      url: "#"
+    - 
+      logo: /assets/sponsors/Pandora.png
+      name: Pandora
+      url: "#"
+    - 
+      logo: /assets/sponsors/Yamaha.png
+      name: Yamaha
+      url: "https://www.yamaha.com/en/"
+
+
+
+- 
+  Name: Silver
+  Sponsors: 
+    -
+      logo: /assets/sponsors/Ableton.png
+      name: Ableton
+      url: "https://www.ableton.com"
+    - 
+      logo: /assets/sponsors/ACRCloud.png
+      name: ACRCloud
+      url: "https://www.acrcloud.com"
+    - 
+      logo: /assets/sponsors/AudibleMagic.png
+      name: Audible Magic 
+      url:  "https://www.audiblemagic.com"
+    - 
+      logo: /assets/sponsors/Avid.png
+      name: Avid
+      url: "https://www.avid.com/"
+    - 
+      logo: /assets/sponsors/Apple.png
+      name: Apple
+      url: "https://www.apple.com/jobs/us/teams/machine-learning-and-ai.html"
+    - 
+      logo: /assets/sponsors/Cochl.png
+      name: Cochlear.ai
+      url: "#"
+    - 
+      logo: /assets/sponsors/Deezer.svg
+      name: Deezer
+      url: "https://research.deezer.com/"   
+    - 
+      logo: /assets/sponsors/Dolby.png
+      name: Dolby
+      url: "https://www.dolby.com"
+    - 
+      logo: /assets/sponsors/iZotope.png
+      name: iZotope
+      url: "https://www.izotope.com/"
+    - 
+      logo: /assets/sponsors/Netflix.png
+      name: Netflix
+      url: "https://www.netflix.com/"
+    - 
+      logo: /assets/sponsors/Orfium.png
+      name: Orfium
+      url: "https://www.orfium.com"
+    - 
+      logo: /assets/sponsors/Steinberg.png
+      name: Steinberg
+      url: "https://www.steinberg.net"   
+    -
+      logo: /assets/sponsors/Utopia.png
+      name: Utopia Music
+      url: "https://utopiamusic.com"
+    
