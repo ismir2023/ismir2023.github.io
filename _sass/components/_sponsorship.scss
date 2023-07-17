@@ -1,0 +1,105 @@
+.sponsor__url { 
+    border-bottom: none;
+
+}
+
+.sponsor__logo { 
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: contain;
+  border: none !important;
+  border-image-width: 0px;
+} 
+
+.tier__name{
+  margin-top: 1em;
+  margin-bottom: 1em;
+  font-weight: bold;
+}
+
+.sponsor_tier_pill{ 
+  width: 100%; 
+  display: flex;
+
+  h3{ 
+    display: inline-block;
+    min-width: 40%;
+    max-width: 40%;    
+    border-radius: 10px; 
+    text-align: left;
+    padding: 5px 10px; 
+  }
+}
+  
+
+.sponsor__name {  
+  margin-bottom: 1em;
+  margin-top: 1em;
+  text-align: left;
+  color: black;
+  font-size: 1.1em;
+}
+
+.tier__Platinum{ 
+  color: #333333;
+  background: -webkit-linear-gradient(top, #d7d7d7, #fdfdfd, #d7d7d7);
+  
+}
+
+
+.tier__Gold{
+  background-color: #c9b037;
+  color: white;
+}
+
+.tier__Silver{ 
+  background-color: #b4b4b4;
+  color: white; 
+}
+
+.sponsor__url:hover{
+  border-bottom: none;
+}
+
+.Platinum{
+  display:inline-flex;
+  min-width: 330px;
+  min-height: 330px; 
+  align-content: center;  
+}
+
+.Patron{
+  display:inline-flex;
+  min-width: 330px;
+  min-height: 330px; 
+  align-content: center;  
+}
+
+.Gold{  
+   min-width: 200px;
+   min-height: 200px; 
+   align-content: center;
+}
+
+.Contributor{  
+  min-width: 200px;
+  min-height: 200px; 
+  align-content: center;
+}
+
+
+.Silver{
+  min-width: 100px;
+  min-height: 100px;
+}
+
+.Supporter{
+  min-width: 100px;
+  min-height: 100px;
+}
+  
+.tz_dropdown{
+      height:200px;
+      overflow-y:auto;
+   }
+    
