@@ -24,29 +24,34 @@ background_position: 0% 44%
 
 
 
-| Tutorials        |      |  | | |
-|:----------------|:------------------| :------------------| :------------------| :------------------|
-|| Johanna Devaney          | ![ Johanna Devaney ](assets/img/organizers/johanna_devaney.jpg) | Emmanouil Benetos          |![Emmanouil Benetos ](assets/img/organizers/emmanouil_benetos.jpg) |
+| Tutorials        |      |  | 
+|:----------------|:------------------| :------------------| 
+|| Johanna Devaney          |George Fazekas	| 
+|| ![ Johanna Devaney ](assets/img/organizers/johanna_devaney.jpg) | ![Emmanouil Benetos ](assets/img/organizers/emmanouil_benetos.jpg) |
 
 
-| Late-breaking/Demo     |      |  | | |
-|:----------------|:------------------| :------------------| :------------------| :------------------|
-||Massimiliano Zanoni          | ![ Massimiliano Zanoni ](assets/img/organizers/massimiliano_zanoni.png) |George Fazekas	| ![George Fazekas](assets/img/organizers/)|
+| Late-breaking/Demo     |      |  | 
+|:----------------|:------------------| :------------------| 
+||Massimiliano Zanoni   | George Fazekas	|
+|| ![ Massimiliano Zanoni ](assets/img/organizers/massimiliano_zanoni.png) | ![George Fazekas](assets/img/organizers/)|
 
 
-| Jam Session	    |      |  | | |
-|:----------------|:------------------| :------------------| :------------------| :------------------|
-||Francois Pachet     | ![Francois Pachet](assets/img/organizers/)|  Mark d’Inverno      | ![Mark d’Inverno ](assets/img/organizers/mark_dinverno.png)|
+| Jam Session	    |      |  | 
+|:----------------|:------------------| :------------------| 
+||Francois Pachet     |Mark d’Inverno      |
+|| ![Francois Pachet](assets/img/organizers/)| ![Mark d’Inverno ](assets/img/organizers/mark_dinverno.png)|
 
 
-|  Music and Tech		    |      |  | | |
-|:----------------|:------------------| :------------------| :------------------| :------------------|
-|Matthew Yee King     | ![Matthew Yee King ](assets/img/organizers/)| Cristina Rottondi      |![ Cristina Rottondi](assets/img/organizers/cristina_rottondi.jpg) |
+|  Music and Tech		     |      |  | 
+|:----------------|:------------------| :------------------| 
+||Matthew Yee King | Cristina Rottondi      |  
+| | ![Matthew Yee King ](assets/img/organizers/)| ![ Cristina Rottondi](assets/img/organizers/cristina_rottondi.jpg) |
 
 
-|  Sponsorship/Industry	    |      |  | | |
-|:----------------|:------------------| :------------------| :------------------| :------------------|
-|Ilaria Manco | ![ Ilaria Manco](assets/img/organizers/Ilaria_manco.jpg)|  Luca Andrea Ludovico     | ![Luca Andrea Ludovico  ](assets/img/organizers/luca_andrea_ludovico.jpg)|
+|  Sponsorship/Industry	  |      |  | 
+|:----------------|:------------------| :------------------| 
+|| Ilaria Manco | Luca Andrea Ludovico     |
+|| ![ Ilaria Manco](assets/img/organizers/Ilaria_manco.jpg)  | ![Luca Andrea Ludovico  ](assets/img/organizers/luca_andrea_ludovico.jpg)|
 
 
 | Satellite Events Chair |       |   
@@ -66,9 +71,10 @@ background_position: 0% 44%
 
 
 
-|  Volunteering & Logistics    |      |  | | |
-|:----------------|:------------------| :------------------| :------------------| :------------------|
-|Riccardo Giampiccolo  | ![Riccardo Giampiccolo ](assets/img/organizers/riccardo_giampiccolo.jpg)|| Francesca Ronchini  | ![Francesca Ronchini ](assets/img/organizers/francesca_ronchini.jpg) |
+|  Volunteering & Logistics    |      |  | 
+|:----------------|:------------------| :------------------|
+|| Riccardo Giampiccolo  |Francesca Ronchini |
+||![Riccardo Giampiccolo ](assets/img/organizers/riccardo_giampiccolo.jpg)| ![Francesca Ronchini ](assets/img/organizers/francesca_ronchini.jpg) |
 
 
 | Social program & Local Organization       |    |                                                                                             
