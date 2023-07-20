@@ -17,6 +17,8 @@ ISMIR is a unique community where music, people, and technologies meet. As a vol
 
 We look forward to hearing from you and working together to make a positive impact in our community. Thank you in advance for your contributions and interest to ISMIR 2023!
 
+**Please, be aware that the submission of the form does not guarantee the participation.**
+
 # Important dates
 
 Time zone : [Anywhere On Earth (AOE)](https://www.timeanddate.com/time/zones/aoe)
