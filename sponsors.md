@@ -8,11 +8,6 @@ permalink: /sponsors/
 	Interested in sponsoring ISMIR 2023? Visit the <a href="{{ '/cfs/' | relative_url }}"> Call for Sponsorship page </a> for more details! 
 </div>
 
-# Platinum Sponsors
+{% include sponsors.html background_color="transparent" padding="0" margin_top="40px" %}
 
-## Gold Sponsors
-
-### Silver Sponsors
-
-"And here's to you, <span style="background-color:green">Mrs. Robinson</span>, Jesus loves you more than you will know."
 
