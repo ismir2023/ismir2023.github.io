@@ -8,4 +8,5 @@ permalink: /sponsors/
 	Interested in sponsoring ISMIR 2023? Visit the <a href="{{ '/cfs/' | relative_url }}"> Call for Sponsorship page </a> for more details! 
 </div>
 
+<span style="color:blue">Platinum Sponsors</span>.
 
