@@ -58,7 +58,7 @@ background_position: 0% 44%
 | Women in MIR / Diversity and inclusion |  |  | | | | |
 |:------------------|:------------------|:------------------|:------------------|:------------------|:------------------|:------------------|
 || Claire Arthur  | ![Claire Arthur ](assets/img/organizers/claire_arthur.jpg)|
-| Xiao Hu  |![Xiao Hu](assets/img/organizers/) | Xiao Hu  |![Xiao Hu](assets/img/organizers/) | Francesca Ronchini |![ Francesca Ronchini](assets/img/organizers/francesca_ronchini.jpg) |
+Xiao Hu  |![Xiao Hu](assets/img/organizers/) | Francesca Ronchini |![ Francesca Ronchini](assets/img/organizers/francesca_ronchini.jpg) |
 
 
 
@@ -68,6 +68,13 @@ background_position: 0% 44%
 | Luca Comanducci                        | ![Luca Comanducci ](assets/img/organizers/)|
 | Mirco Pezzoli                        |![Mirco Pezzoli  ](assets/img/organizers/mirco_pezzoli.png)  |
 | Clara Borrelli                        | ![Clara Borrelli  ](assets/img/organizers/clara_borrelli.jpg)|
+
+| Virtual Technology, Social Media and Website |  |  |  |  |                                                                   
+|:------------------|:------------------|:------------------|:------------------|:------------------|
+|| Marco Olivieri                        | ![ Marco Olivieri  ](assets/img/organizers/marco_olivieri.jpg) || Luca Comanducci  | ![Luca Comanducci ](assets/img/organizers/)|
+||Mirco Pezzoli                        |![Mirco Pezzoli  ](assets/img/organizers/mirco_pezzoli.png)  || Clara Borrelli   | ![Clara Borrelli  ](assets/img/organizers/clara_borrelli.jpg)|
+
+
 
 
 |  Volunteering & Logistics    |      |  | | |
