@@ -20,7 +20,8 @@ background_position: 0% 44%
 
 | Publication      | |
 |:----------------|:------------------|
-| Johan Pauwels          | ![Johan Pauwels](assets/img/organizers/johan_pauwels.jpg)|
+|| Johan Pauwels   |
+|  | ![Johan Pauwels](assets/img/organizers/johan_pauwels.jpg)|
 
 
 
@@ -56,7 +57,8 @@ background_position: 0% 44%
 
 | Satellite Events Chair |       |   
 |:--------------------|:------------------|
-| Federico Avanzini | ![Federico Avanzini](assets/img/organizers/federico_avanzini.jpg)|
+|| Federico Avanzini |
+|| ![Federico Avanzini](assets/img/organizers/federico_avanzini.jpg)|
 
 
 | Women in MIR / Diversity and inclusion |  |  | | 
@@ -80,7 +82,8 @@ background_position: 0% 44%
 
 | Social program & Local Organization       |    |                                                                                             
 |:----------------|:------------------|
-| Alberto Bernardini  |![Alberto Bernardini ](assets/img/organizers/alberto_bernardini.jpg) |
+| |Alberto Bernardini |
+| |![Alberto Bernardini ](assets/img/organizers/alberto_bernardini.jpg) |
 
 <!--
 
