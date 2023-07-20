@@ -11,12 +11,10 @@ background_position: 0% 44%
 
 
 
-| Scientific Program  |    |                                                                                           
+| Scientific Program  |  |  | | | | | | |                                                                             
 |:-------------------|:------------------|
-| Paolo Bestagini       | ![Paolo Bestagini](assets/img/organizers/paolo_bestagini.jpg)|
-| Simon Dixon          | ![Simon Dixon](assets/img/organizers/simon_dixon.jpg)|
-| Beici Liang         | ![Beici Liang](assets/img/organizers/beici_liang.png)|
-| Gaël Richard       |![Gaël Richard](assets/img/organizers/gael_richard.jpg) |
+|| Paolo Bestagini       | ![Paolo Bestagini](assets/img/organizers/paolo_bestagini.jpg)| Simon Dixon          | ![Simon Dixon](assets/img/organizers/simon_dixon.jpg)| Beici Liang         | ![Beici Liang](assets/img/organizers/beici_liang.png)| Gaël Richard       |![Gaël Richard](assets/img/organizers/gael_richard.jpg) |
+
 
 
 
@@ -26,7 +24,7 @@ background_position: 0% 44%
 
 
 
-| Tutorials        |      |
+| Tutorials        |      | 
 |:----------------|:------------------|
 | Johanna Devaney          | ![ Johanna Devaney ](assets/img/organizers/johanna_devaney.jpg) |
 | Emmanouil Benetos          |![Emmanouil Benetos ](assets/img/organizers/emmanouil_benetos.jpg) |
