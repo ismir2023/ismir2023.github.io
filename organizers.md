@@ -57,8 +57,7 @@ background_position: 0% 44%
 
 | Women in MIR / Diversity and inclusion |  |  | | | | |
 |:------------------|:------------------|:------------------|:------------------|:------------------|:------------------|:------------------|
-|| Claire Arthur  | ![Claire Arthur ](assets/img/organizers/claire_arthur.jpg)|
-Xiao Hu  |![Xiao Hu](assets/img/organizers/) | Francesca Ronchini |![ Francesca Ronchini](assets/img/organizers/francesca_ronchini.jpg) |
+|| Claire Arthur  | ![Claire Arthur ](assets/img/organizers/claire_arthur.jpg)| Xiao Hu  |![Xiao Hu](assets/img/organizers/) | Francesca Ronchini |![ Francesca Ronchini](assets/img/organizers/francesca_ronchini.jpg) |
 
 
 |Virtual Technology, Social Media and Website  |  |  |  |  |                                                                   
