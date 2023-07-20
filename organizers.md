@@ -61,19 +61,10 @@ background_position: 0% 44%
 Xiao Hu  |![Xiao Hu](assets/img/organizers/) | Francesca Ronchini |![ Francesca Ronchini](assets/img/organizers/francesca_ronchini.jpg) |
 
 
-
-| Virtual Technology, Social Media and Website  | |
-|:-------------------|:------------------|
-| Marco Olivieri                        | ![ Marco Olivieri  ](assets/img/organizers/marco_olivieri.jpg) |
-| Luca Comanducci                        | ![Luca Comanducci ](assets/img/organizers/)|
-| Mirco Pezzoli                        |![Mirco Pezzoli  ](assets/img/organizers/mirco_pezzoli.png)  |
-| Clara Borrelli                        | ![Clara Borrelli  ](assets/img/organizers/clara_borrelli.jpg)|
-
-| Virtual Technology, Social Media and Website |  |  |  |  |                                                                   
+|Virtual Technology, Social Media and Website  |  |  |  |  |                                                                   
 |:------------------|:------------------|:------------------|:------------------|:------------------|
-|| Marco Olivieri                        | ![ Marco Olivieri  ](assets/img/organizers/marco_olivieri.jpg) || Luca Comanducci  | ![Luca Comanducci ](assets/img/organizers/)|
+||Marco Olivieri                        | ![ Marco Olivieri  ](assets/img/organizers/marco_olivieri.jpg) || Luca Comanducci  | ![Luca Comanducci ](assets/img/organizers/)|
 ||Mirco Pezzoli                        |![Mirco Pezzoli  ](assets/img/organizers/mirco_pezzoli.png)  || Clara Borrelli   | ![Clara Borrelli  ](assets/img/organizers/clara_borrelli.jpg)|
-
 
 
 
