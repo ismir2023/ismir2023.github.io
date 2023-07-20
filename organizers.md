@@ -24,7 +24,6 @@ background_position: 0% 44%
 | Publication      | |
 |:----------------|:------------------|
 | Johan Pauwels          | ![Johan Pauwels](assets/img/organizers/johan_pauwels.jpg)|
-| Emilia Gómez          | ![Emilia Gómez](assets/img/organizers/) |
 
 
 
