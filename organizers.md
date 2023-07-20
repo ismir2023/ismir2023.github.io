@@ -68,8 +68,7 @@ background_position: 0% 44%
 |Virtual Technology, Social Media and Website  |  |  |  |  |                                                                   
 |:------------------|:------------------|:------------------|:------------------|:------------------|
 ||Marco Olivieri  | Luca Comanducci | Mirco Pezzoli | Clara Borrelli|
-||Marco Olivieri                        | ![ Marco Olivieri  ](assets/img/organizers/marco_olivieri.jpg) || Luca Comanducci  | ![Luca Comanducci ](assets/img/organizers/luca_comanducci.jpg)|
-||Mirco Pezzoli                        |![Mirco Pezzoli  ](assets/img/organizers/mirco_pezzoli.png)  || Clara Borrelli   | ![Clara Borrelli  ](assets/img/organizers/clara_borrelli.jpg)|
+| | ![ Marco Olivieri  ](assets/img/organizers/marco_olivieri.jpg) | ![Luca Comanducci ](assets/img/organizers/luca_comanducci.jpg)|![Mirco Pezzoli  ](assets/img/organizers/mirco_pezzoli.png)  | ![Clara Borrelli  ](assets/img/organizers/clara_borrelli.jpg)|
 
 
 
