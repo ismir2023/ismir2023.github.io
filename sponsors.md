@@ -10,3 +10,4 @@ permalink: /sponsors/
 
 <span style="color:blue">Platinum Sponsors</span>.
 
+{% include sponsors.html background_color="transparent" padding="0" margin_top="40px" %}
