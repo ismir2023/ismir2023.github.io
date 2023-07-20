@@ -5,11 +5,10 @@ permalink: /organizers/
 background_position: 0% 44%
 ---
 
-| General chairs  |  |
-|:------------------|:------------------|
-| Augusto Sarti | ![Augusto Sarti](assets/img/organizers/augusto_sarti2.jpeg)    |
-| Fabio Antonacci    | ![Fabio  Antonacci](assets/img/organizers/fabio_antonacci.jpg)|
-| Mark Sandler    | ![Mark Sandler](assets/img/organizers/msandler-128x128.jpg) |
+| General chairs  |  |  | | | | |
+|:------------------|:------------------|:------------------|:------------------|:------------------|:------------------|:------------------|
+|| Augusto Sarti | ![Augusto Sarti](assets/img/organizers/augusto_sarti2.jpeg)    | Fabio Antonacci    | ![Fabio  Antonacci](assets/img/organizers/fabio_antonacci.jpg)| Mark Sandler    | ![Mark Sandler](assets/img/organizers/msandler-128x128.jpg) |
+
 
 
 | Scientific Program  |    |                                                                                           
