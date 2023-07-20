@@ -15,7 +15,7 @@ background_position: 0% 44%
 | Scientific Program  |  |  |  |  |                                                                   
 |:------------------|:------------------|:------------------|:------------------|
 || Paolo Bestagini  | Simon Dixon| Beici Liang |  Gaël Richard |
-| ![Paolo Bestagini](assets/img/organizers/paolo_bestagini.jpg) | ![Simon Dixon](assets/img/organizers/simon_dixon.jpg)|  ![Beici Liang](assets/img/organizers/beici_liang.png)  |![Gaël Richard](assets/img/organizers/gael_richard.jpg) |
+| | ![Paolo Bestagini](assets/img/organizers/paolo_bestagini.jpg) | ![Simon Dixon](assets/img/organizers/simon_dixon.jpg)|  ![Beici Liang](assets/img/organizers/beici_liang.png)  |![Gaël Richard](assets/img/organizers/gael_richard.jpg) |
 
 
 | Publication      | |
