@@ -24,10 +24,9 @@ background_position: 0% 44%
 
 
 
-| Tutorials        |      | 
-|:----------------|:------------------|
-| Johanna Devaney          | ![ Johanna Devaney ](assets/img/organizers/johanna_devaney.jpg) |
-| Emmanouil Benetos          |![Emmanouil Benetos ](assets/img/organizers/emmanouil_benetos.jpg) |
+| Tutorials        |      |  | | |
+|:----------------|:------------------| :------------------| :------------------| :------------------|
+|| Johanna Devaney          | ![ Johanna Devaney ](assets/img/organizers/johanna_devaney.jpg) | Emmanouil Benetos          |![Emmanouil Benetos ](assets/img/organizers/emmanouil_benetos.jpg) |
 
 
 
