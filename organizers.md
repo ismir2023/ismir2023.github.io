@@ -11,9 +11,10 @@ background_position: 0% 44%
 
 
 
-| Scientific Program  |  |  | | | | | | |                                                                             
+| Scientific Program  |  |  |  |  |                                                                   
 |:------------------|:------------------|:------------------|:------------------|:------------------|:------------------|:------------------| :------------------| :------------------|
-|| Paolo Bestagini       | ![Paolo Bestagini](assets/img/organizers/paolo_bestagini.jpg)| Simon Dixon          | ![Simon Dixon](assets/img/organizers/simon_dixon.jpg)| Beici Liang         | ![Beici Liang](assets/img/organizers/beici_liang.png) |  Gaël Richard       |![Gaël Richard](assets/img/organizers/gael_richard.jpg) |
+|| Paolo Bestagini       | ![Paolo Bestagini](assets/img/organizers/paolo_bestagini.jpg)| Simon Dixon          | ![Simon Dixon](assets/img/organizers/simon_dixon.jpg)| 
+|| Beici Liang         | ![Beici Liang](assets/img/organizers/beici_liang.png) |  Gaël Richard       |![Gaël Richard](assets/img/organizers/gael_richard.jpg) |
 
 
 
@@ -29,40 +30,35 @@ background_position: 0% 44%
 || Johanna Devaney          | ![ Johanna Devaney ](assets/img/organizers/johanna_devaney.jpg) | Emmanouil Benetos          |![Emmanouil Benetos ](assets/img/organizers/emmanouil_benetos.jpg) |
 
 
-
-| Late-breaking/Demo  |  |
-|:-------------------|:------------------|
-| Massimiliano Zanoni          | ![ Massimiliano Zanoni ](assets/img/organizers/massimiliano_zanoni.png) |
-| George Fazekas	| ![George Fazekas](assets/img/organizers/)|
+| Late-breaking/Demo     |      |  | | |
+|:----------------|:------------------| :------------------| :------------------| :------------------|
+||Massimiliano Zanoni          | ![ Massimiliano Zanoni ](assets/img/organizers/massimiliano_zanoni.png) |George Fazekas	| ![George Fazekas](assets/img/organizers/)|
 
 
-| Jam Session	   |          |
-|:--------------------|:------------------|
-| Francois Pachet     | ![Francois Pachet](assets/img/organizers/)|
-| Mark d’Inverno      | ![Mark d’Inverno ](assets/img/organizers/mark_dinverno.png)|
+| Jam Session	    |      |  | | |
+|:----------------|:------------------| :------------------| :------------------| :------------------|
+||Francois Pachet     | ![Francois Pachet](assets/img/organizers/)|  Mark d’Inverno      | ![Mark d’Inverno ](assets/img/organizers/mark_dinverno.png)|
 
 
-| Music and Tech	   |       |   
-|:--------------------|:------------------|
-| Matthew Yee King     | ![Matthew Yee King ](assets/img/organizers/)|
-| Cristina Rottondi      |![ Cristina Rottondi](assets/img/organizers/cristina_rottondi.jpg) |
+|  Music and Tech		    |      |  | | |
+|:----------------|:------------------| :------------------| :------------------| :------------------|
+|Matthew Yee King     | ![Matthew Yee King ](assets/img/organizers/)| Cristina Rottondi      |![ Cristina Rottondi](assets/img/organizers/cristina_rottondi.jpg) |
 
-| Sponsorship/Industry |        |  
-|:--------------------|:------------------|
-| Ilaria Manco | ![ Ilaria Manco](assets/img/organizers/Ilaria_manco.jpg)|
-|  Luca Andrea Ludovico     | ![Luca Andrea Ludovico  ](assets/img/organizers/luca_andrea_ludovico.jpg)|
+
+|  Sponsorship/Industry	    |      |  | | |
+|:----------------|:------------------| :------------------| :------------------| :------------------|
+|Ilaria Manco | ![ Ilaria Manco](assets/img/organizers/Ilaria_manco.jpg)|  Luca Andrea Ludovico     | ![Luca Andrea Ludovico  ](assets/img/organizers/luca_andrea_ludovico.jpg)|
+
 
 | Satellite Events Chair |       |   
 |:--------------------|:------------------|
 | Federico Avanzini | ![Federico Avanzini](assets/img/organizers/federico_avanzini.jpg)|
 
 
-
-| Women in MIR / Diversity and inclusion| |
-|:--------------------|:------------------|
-| Claire Arthur  | ![Claire Arthur ](assets/img/organizers/claire_arthur.jpg)|
-| Xiao Hu  |![Xiao Hu](assets/img/organizers/) |
-| Francesca Ronchini |![ Francesca Ronchini](assets/img/organizers/francesca_ronchini.jpg) |
+| Women in MIR / Diversity and inclusion |  |  | | | | |
+|:------------------|:------------------|:------------------|:------------------|:------------------|:------------------|:------------------|
+|| Claire Arthur  | ![Claire Arthur ](assets/img/organizers/claire_arthur.jpg)|
+| Xiao Hu  |![Xiao Hu](assets/img/organizers/) | Xiao Hu  |![Xiao Hu](assets/img/organizers/) | Francesca Ronchini |![ Francesca Ronchini](assets/img/organizers/francesca_ronchini.jpg) |
 
 
 
@@ -74,11 +70,9 @@ background_position: 0% 44%
 | Clara Borrelli                        | ![Clara Borrelli  ](assets/img/organizers/clara_borrelli.jpg)|
 
 
-
-| Volunteering & Logistics   |    |
-|:--------------------|:------------------|
-| Riccardo Giampiccolo  | ![Riccardo Giampiccolo ](assets/img/organizers/riccardo_giampiccolo.jpg)|
-| Francesca Ronchini  | ![Francesca Ronchini ](assets/img/organizers/francesca_ronchini.jpg) |
+|  Volunteering & Logistics    |      |  | | |
+|:----------------|:------------------| :------------------| :------------------| :------------------|
+|Riccardo Giampiccolo  | ![Riccardo Giampiccolo ](assets/img/organizers/riccardo_giampiccolo.jpg)|| Francesca Ronchini  | ![Francesca Ronchini ](assets/img/organizers/francesca_ronchini.jpg) |
 
 
 | Social program & Local Organization       |    |                                                                                             
