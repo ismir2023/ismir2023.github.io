@@ -12,6 +12,7 @@ We need your help before and during the conference (primarily between October 16
 **Link to the form:** [https://forms.office.com/e/JjWib4Fs5P](https://forms.office.com/e/JjWib4Fs5P)
 
 **The call for volunteers is currently closed as we have collected a significant amount of applications.**
+
 **Thank you all for showing such an interest in ISMIR!**
 
 To show our appreciation for your support, volunteers will be featured on our organization [team webpage](https://ismir2023.ismir.net/team) with a photo and short bio, and get free access to the conference.
