@@ -11,6 +11,9 @@ We are looking for volunteers for ISMIR 2023, which will be held in a hybrid for
 We need your help before and during the conference (primarily between October 16 and November 3, 2023). If you are interested in volunteering for ISMIR 2023, **please fill out the form below by August 25**. We will allocate the best task and dates for you based on your availability and timezone. We will also make sure that volunteers can enjoy the conference as participants by asking them for only a reasonable amount of time. In particular, each volunteer will cover three 4-hour shifts, both for remote and on-site tasks.
 **Link to the form:** [https://forms.office.com/e/JjWib4Fs5P](https://forms.office.com/e/JjWib4Fs5P)
 
+**The call for volunteers is currently closed as we have collected a significant amount of applications.**
+**Thank you all for showing such an interest in ISMIR!**
+
 To show our appreciation for your support, volunteers will be featured on our organization [team webpage](https://ismir2023.ismir.net/team) with a photo and short bio, and get free access to the conference.
 
 ISMIR is a unique community where music, people, and technologies meet. As a volunteer, you can have an opportunity to join the community and get to know like-minded people. Also, your contribution is essential to build a thriving research community.
