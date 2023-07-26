@@ -6,7 +6,7 @@ permalink: /keynote/
 summary: Keynote Speakers of the 24th International Society for Music Information Retrieval Conference
 ---
 
-# Christine Bauers
+# Christine Bauer
 
 ### <ins>Bio</ins>
 Christine Bauer is EXDIGIT Professor of Interactive Intelligent Systems at the Department of Artificial Intelligence and Human Interfaces (AIHI) at the Paris Lodron University Salzburg, Austria.
