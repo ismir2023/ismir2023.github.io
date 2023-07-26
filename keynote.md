@@ -41,4 +41,7 @@ Joey Stuckey is the Official Music Ambassador of his hometown of Macon, Georgia.
 ![Joey Stuckey](/assets/img/keynote/joey_stuckey.jpg) 
 
 
+For more information visit  [www.joeystuckey.com](www.joeystuckey.com)
+Facebook: [www.facebook.com/joeystuckey](www.facebook.com/joeystuckey) Twitter: [@jstuckeymusic](https://twitter.com/Jstuckeymusic)
+Instagram: [@jstuckeymusic](https://www.instagram.com/jstuckeymusic/)
  
