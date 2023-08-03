@@ -46,6 +46,7 @@ navigation: # Navigation links
      - {name: 'Code of Conduct', link: '/codeofconduct'}
 
   - {name: 'Organizing committee', link: '/organizers'}
+  - {name: 'Sponsors', link: '/sponsors'}
   - {name: 'Contact', link: '/contact'}
   - name: "Diversity & Inclusion"
     subitems:
