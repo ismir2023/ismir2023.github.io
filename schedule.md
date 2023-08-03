@@ -1,6 +1,6 @@
 ---
 layout: page
-title: schedule
+title: ISMIR'23 Schedule
 permalink: /schedule/
 background_position: 0% 44%
 ---
