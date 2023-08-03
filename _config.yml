@@ -30,6 +30,7 @@ navigation: # Navigation links
 
   - name: "Program"
     subitems:
+     - {name: 'Schedule', link: '/schedule'}
      - {name: 'Satellite Events', link: '/satellites'}
      - {name: 'Tutorials', link: '/tutorials'}
      - {name: 'Keynote Speakers', link: '/keynote'}
