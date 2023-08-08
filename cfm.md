@@ -68,6 +68,6 @@ In order to apply to the grants, please fill out this [form](https://forms.offic
  
  **We request grant applicants to wait until the notification deadline before registering for the conference.**
   
-You will be considered for all the grants that you qualify for, based on the information you provide in the application. All grant applications shall be processed with utmost confidentiality and any information provided on the application shall only be used for assessment of grant eligibility and not for any other purpose. The information will not be shared beyond the members of the ISMIR 2023 grants committee. 
+All grant applications shall be processed with utmost confidentiality and any information provided on the application shall only be used for assessment of grant eligibility and not for any other purpose. The information will not be shared beyond the members of the ISMIR 2023 grants committee. 
 
 
