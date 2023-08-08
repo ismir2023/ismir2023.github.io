@@ -60,7 +60,7 @@ Each accepted music submission needs to be covered by an in-person registration 
 
 Grant applications for ISMIR 2023 will open on August 15, 2023.
 
-**The deadline for Grant application is August 21, 2023.**. 
+**The deadline for Grant application is August 21, 2023.**
 
 Grant notifications will be announced on September 5, 2023 (as specified above)
 
