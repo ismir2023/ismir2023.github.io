@@ -64,7 +64,7 @@ Grant applications for ISMIR 2023 will open on August 15, 2023.
 
 Grant notifications will be announced on September 5, 2023 (as specified above)
 
-In order to apply to the grants, please fill out this [form]((https://forms.office.com/e/HZQpmY9pgh ) (from August 15, 2023)
+In order to apply to the grants, please fill out this [form](https://forms.office.com/e/HZQpmY9pgh) (from August 15, 2023)
  
  **We request grant applicants to wait until the notification deadline before registering for the conference.**
   
