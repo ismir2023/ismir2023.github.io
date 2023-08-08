@@ -55,6 +55,7 @@ Only one submission per participant will be accepted. Pieces have to be shorter 
 Each accepted music submission needs to be covered by an in-person registration (student or full, as appropriate) by the early bird deadline (Sept. 15, 2023). If the authors of the music submission are already ISMIR paper authors and have registered for the conference, their music submission can be covered with the same registration. Kindly indicate in the submission form if the first author of a submission is a student author.
 
 
+
 ### Grant Procedure
 
 Grant applications for ISMIR 2023 will open on August 15, 2023.
@@ -66,8 +67,7 @@ Grant notifications will be announced on September 5, 2023 (as specified above)
 In order to apply to the grants, please fill out this [form]((https://forms.office.com/e/HZQpmY9pgh ) (from August 15, 2023)
  
  **We request grant applicants to wait until the notification deadline before registering for the conference.**
- 
- 
- You will be considered for all the grants that you qualify for, based on the information you provide in the application. All grant applications shall be processed with utmost confidentiality and any information provided on the application shall only be used for assessment of grant eligibility and not for any other purpose. The information will not be shared beyond the members of the ISMIR 2023 grants committee. 
+  
+You will be considered for all the grants that you qualify for, based on the information you provide in the application. All grant applications shall be processed with utmost confidentiality and any information provided on the application shall only be used for assessment of grant eligibility and not for any other purpose. The information will not be shared beyond the members of the ISMIR 2023 grants committee. 
 
 
