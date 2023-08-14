@@ -41,6 +41,7 @@ navigation: # Navigation links
     subitems:
      - {name: 'Financial Support', link: '/support'}
      - {name: 'Venue', link: '/venue'}
+     - {name: 'Accomodation', link: '/accomodation'}
      - {name: 'Travel', link: '/travel'}
      - {name: 'Registration', link: '/registration'}
      - {name: 'Tourist Information', link: '/tourist'}
