@@ -8,7 +8,7 @@ summary: Accommodation Info of the 24th International Society for Music Informat
 
 # Accommodation
 
-Here follows a table containing a partial list of accomodation options suggested by us.
+Here follows a table containing a partial list of accommodation options suggested by us.
 
 | No.  | HOTEL  | ADDRESS | CATEGORY |                                     
 |:------------------|:------------------|:------------------|:------------------|
@@ -21,4 +21,4 @@ Here follows a table containing a partial list of accomodation options suggested
 |7| [MEININGER Hotel Lambrate](https://www.meininger-hotels.com/en/hotels/milan/hotel-milan-lambrate/?utm_source=gmb&utm_medium=referral&utm_campaign=MIL-MT&utm_content=website) | Piazza Monte Titano, 10   | hostel   | 
 
 Please be aware that the city of Milan will host several events during the ISMIR week. 
-We therefore suggest that you book your accomodation as far in advance as possible.
+We therefore suggest that you book your accommodation as far in advance as possible.
