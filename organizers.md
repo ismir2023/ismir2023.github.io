@@ -27,7 +27,7 @@ background_position: 0% 44%
 
 | Tutorials        |      |  | 
 |:----------------|:------------------| :------------------| 
-|| Johanna Devaney          |George Fazekas	| 
+|| Johanna Devaney          |Emmanouil Benetos	| 
 || ![ Johanna Devaney ](assets/img/organizers/johanna_devaney.jpg) | ![Emmanouil Benetos ](assets/img/organizers/emmanouil_benetos.jpg) |
 
 
