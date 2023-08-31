@@ -19,7 +19,7 @@ permalink: /dates/
 | Submission opening                                     | ~~July 2023~~         |
 | Submission                                             | ~~July 31, 2023~~      |
 | Notification of Acceptance                             | ~~August 15, 2023~~       |
-| Camera-ready upload                                    | October 31, 2023       |
+| Final version upload                                    | October 31, 2023       |
 
 <br>
 
