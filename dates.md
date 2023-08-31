@@ -7,11 +7,19 @@ permalink: /dates/
 ## Deadlines
 
 | [Call for Papers]({{ site.baseurl }}/cfp/)             | **Dates**          |
-| Submission opening                                     | March 2023         |
+| Submission opening                                     | ~~March 2023~~         |
 | Abstract submission                                    | ~~6 April 2023~~      |
 | Final submission                                       | ~~14 April 2023~~      |
 | Notification of Acceptance                             | ~~23 June 2023~~       |
 | Camera-ready upload                                    | ~~10 July 2023~~       |
+
+<br>
+
+| [Music Submissions]({{ site.baseurl }}/cfm/)           | **Dates**          |
+| Submission opening                                     | ~~July 2023~~         |
+| Submission                                             | ~~July 31, 2023~~      |
+| Notification of Acceptance                             | ~~August 15, 2023~~       |
+| Camera-ready upload                                    | ~~October 31, 2023~~       |
 
 <br>
 
