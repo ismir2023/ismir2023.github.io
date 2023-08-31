@@ -11,14 +11,14 @@ permalink: /dates/
 | Abstract submission                                    | ~~6 April 2023~~      |
 | Final submission                                       | ~~14 April 2023~~      |
 | Notification of Acceptance                             | ~~23 June 2023~~       |
-| Camera-ready upload                                    | 10 July 2023       |
+| Camera-ready upload                                    | ~~10 July 2023~~       |
 
 <br>
 
 | [Registration]({{ site.baseurl }}/registration/)			       | **Dates**          |
-| Early Bird Registration                                      | July 10 - August 31, 2023       |
-| Author Registration                                          | July 10 - August 31, 2023       |
-| Late Registration                                            | September 1 - October 31, 2023       |
+| Early Bird Registration                                      | July 10 - September 7, 2023       |
+| Author Registration                                          | July 10 - September 7, 2023       |
+| Late Registration                                            | September 7 - October 31, 2023       |
 
 
 
