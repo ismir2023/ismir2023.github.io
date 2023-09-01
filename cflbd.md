@@ -36,9 +36,9 @@ All submissions must comply with the following requirements:
 
 - Length (2+1): two pages (maximum) of content plus one optional page for bibliography only.
 
-- Templates: make sure to use the latest templates for LBD (LINK). Submissions must be in PDF format.
+- Templates: make sure to use the latest templates for LBD [latex/word](https://github.com/ismir/paper_templates/releases/tag/2023LBD). Submissions must be in PDF format.
 
-- Submission system: please submit the LBD extended abstract to https://cmt3.research.microsoft.com/ISMIR2023/ 
+- Submission system: please submit the LBD extended abstract to [https://cmt3.research.microsoft.com/ISMIR2023/](https://cmt3.research.microsoft.com/ISMIR2023/) 
 - Note that we allow authors to edit their submissions until the camera-ready deadline.
 - Supplementary material (optional): authors are encouraged to submit a demo video (5 minutes or less, mp4, h264 codec, 100MB or less, with closed captions).00
 - Final poster size: no larger than A0 or 36 x 48 inch
