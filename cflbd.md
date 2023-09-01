@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Call for Late Breaking Demo
+title: Call for Late-Breaking Demo
 background_position: 0% 70%
 permalink: /cflbd/
 summary: The Call for the Late-Breaking Demo of the 24th International Society for Music Information Retrieval Conference
@@ -22,13 +22,13 @@ Submissions will be accepted on a first-come first-served basis. The organizing 
 
 - Time zone: Anywhere On Earth (AOE)
 
-- Submission open: 25 Sept. 2023
+- Submission open: Sept. 25, 2023
 
-- Submission deadline: 30. Oct. 2023.
+- Submission deadline: Oct. 30, 2023.
 
 - Notification of acceptance: On a rolling basis. We will close submissions once we receive the maximum number.
 
-- Camera-ready & final video/poster upload: 3 Nov. 2023
+- Camera-ready & final video/poster upload: Nov. 3, 2023
 
 **Submission Guidelines**
 
