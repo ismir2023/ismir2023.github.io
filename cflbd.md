@@ -15,7 +15,7 @@ Those interested should follow the submission guidelines (see below) and submit 
 
 Due to organizational constraints we limit the submissions to 15 in-presence presenters and 5 remote presenters. 
 
-Submissions will be accepted on a first-come first-served basis. The organizing committee reserves the possibility of rejecting papers that fall below the standards of ISMIR, poorly formatted or lack relevance to the conference
+Submissions will be accepted on a first-come first-served basis. The organizing committee reserves the possibility of rejecting papers that fall below the standards of ISMIR, poorly formatted or lack relevance to the conference.
 
 
 **Important Dates**
@@ -40,7 +40,7 @@ All submissions must comply with the following requirements:
 
 - Submission system: please submit the LBD extended abstract to [https://cmt3.research.microsoft.com/ISMIR2023/](https://cmt3.research.microsoft.com/ISMIR2023/) 
 - Note that we allow authors to edit their submissions until the camera-ready deadline.
-- Supplementary material (optional): authors are encouraged to submit a demo video (5 minutes or less, mp4, h264 codec, 100MB or less, with closed captions).00
+- Supplementary material (optional): authors are encouraged to submit a demo video (5 minutes or less, mp4, h264 codec, 100MB or less, with closed captions).
 - Final poster size: no larger than A0 or 36 x 48 inch
 
 All submissions will be screened for the following criteria:
