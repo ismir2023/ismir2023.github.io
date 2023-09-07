@@ -8,6 +8,35 @@ summary: Satellite Events of the 24th International Society for Music Informatio
 
 ISMIR 2023 will be accompanied by several satellite events around the conference.
 
+# Sound Demixing Workshop
+## November, 4th, 2023
+
+The Sound Demixing Workshop is the official academic follow-up of the Sound Demixing Challenge 2023, sponsored by Sony, Moises.AI and Mitsubishi Electric Research Labs.
+The event offers a focused forum for researchers, scholars, and practitioners to discuss and share advancements in the field of audio signal processing. It features peer-reviewed presentations and panel discussions that cover a range of topics, from machine learning-based approaches to real-world applications in fields such as music production and entertainment. By facilitating interdisciplinary dialogue, the workshop aims to advance the state of the art in sound source separation techniques and encourage their practical implementation.
+
+The relevant topics for the workshop include, but are not limited to:
+- music and movie demixing / source separation
+- representation learning for musical instruments and mixtures
+- Generative models for music and movie sound
+- applications of music demixing and filtering
+- self-supervised music and movie processing
+- deep neural networks for very long waveforms
+- machine learning with applications on music stems and mixture signals
+
+More info on the workshop webpage: [https://sdx-workshop.github.io](https://sdx-workshop.github.io).
+
+Important dates
+Deadline for submission: October 2nd, 2023
+Notification of acceptance: October 20th, 2023
+Deadline for camera-ready version: October 27th, 2023
+Workshop: November 4th, 2023
+
+Organizer Chairs
+Chair: Yuki Mitsufuji (Sony)
+Stefan Uhlich (Sony)
+Giorgio Fabbro (Sony)
+Fabian-Robert Stöter (Audioshake)
+
 # Workshop on Reading Music Systems (WoRMS) 
 ## November, 4th, 2023
 
@@ -27,10 +56,10 @@ The Workshop on Reading Music Systems (WoRMS) is an event that tries to connect 
 
 IMPORTANT DATES
 
-- Deadline for submission: 22nd September 2023
-- Notification of acceptance: 20th October 2023
-- Camera-ready: 27th October 2023
-- Workshop: 4th November 2023
+- Deadline for submission: September 22nd, 2023
+- Notification of acceptance: October 20th, 2023
+- Camera-ready: October 27th, 2023
+- Workshop: November 4th, 2023
 
 - More Information: [info](https://sites.google.com/view/worms2023)
 
