@@ -26,10 +26,11 @@ The relevant topics for the workshop include, but are not limited to:
 More info on the workshop webpage: [https://sdx-workshop.github.io](https://sdx-workshop.github.io).
 
 Important dates
-Deadline for submission: October 2nd, 2023
-Notification of acceptance: October 20th, 2023
-Deadline for camera-ready version: October 27th, 2023
-Workshop: November 4th, 2023
+
+- Deadline for submission: October 2nd, 2023
+- Notification of acceptance: October 20th, 2023
+- Deadline for camera-ready version: October 27th, 2023
+- Workshop: November 4th, 2023
 
 Organizer Chairs
 Chair: Yuki Mitsufuji (Sony)
