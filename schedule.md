@@ -6,5 +6,4 @@ background_position: 0% 44%
 ---
 Please find below an almost final version of the schedule.
 
-
-![Schedule](/assets/img/program.png)
+<img src="/assets/img/program.png" width="100%"/>
