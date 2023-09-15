@@ -8,82 +8,82 @@ background_position: 0% 44%
 | General chairs  |  |  |  |                                     
 |:------------------|:------------------|:------------------|:------------------|
 || Augusto Sarti | Fabio Antonacci   | Mark Sandler   | 
-|| ![Augusto Sarti](assets/img/organizers/augusto_sarti2.jpeg) | ![Fabio  Antonacci](assets/img/organizers/fabio_antonacci.jpg) | ![Mark Sandler](assets/img/organizers/msandler-128x128.jpg) |
+|| ![Augusto Sarti](/assets/img/organizers/augusto_sarti2.jpeg) | ![Fabio  Antonacci](/assets/img/organizers/fabio_antonacci.jpg) | ![Mark Sandler](/assets/img/organizers/msandler-128x128.jpg) |
 
 
 
 | Scientific Program  |  |  |  |   |                                                                  
 |:------------------|:------------------|:------------------|:------------------| :------------------|
 || Paolo Bestagini  | Simon Dixon| Beici Liang |  Gaël Richard |
-| | ![Paolo Bestagini](assets/img/organizers/paolo_bestagini.jpg) | ![Simon Dixon](assets/img/organizers/simon_dixon.jpg)|  ![Beici Liang](assets/img/organizers/beici_liang.png)  |![Gaël Richard](assets/img/organizers/gael_richard.jpg) |
+| | ![Paolo Bestagini](/assets/img/organizers/paolo_bestagini.jpg) | ![Simon Dixon](/assets/img/organizers/simon_dixon.jpg)|  ![Beici Liang](/assets/img/organizers/beici_liang.png)  |![Gaël Richard](/assets/img/organizers/gael_richard.jpg) |
 
 
 | Publication      | |
 |:----------------|:------------------|
 || Johan Pauwels   |
-|  | ![Johan Pauwels](assets/img/organizers/johan_pauwels.jpg)|
+|  | ![Johan Pauwels](/assets/img/organizers/johan_pauwels.jpg)|
 
 
 
 | Tutorials        |      |  | 
 |:----------------|:------------------| :------------------| 
 || Johanna Devaney          |Emmanouil Benetos	| 
-|| ![ Johanna Devaney ](assets/img/organizers/johanna_devaney.jpg) | ![Emmanouil Benetos ](assets/img/organizers/emmanouil_benetos.jpg) |
+|| ![ Johanna Devaney ](/assets/img/organizers/johanna_devaney.jpg) | ![Emmanouil Benetos ](/assets/img/organizers/emmanouil_benetos.jpg) |
 
 
 | Late-breaking/Demo     |      |  | 
 |:----------------|:------------------| :------------------| 
 ||Massimiliano Zanoni   | George Fazekas	|
-|| ![ Massimiliano Zanoni ](assets/img/organizers/massimiliano_zanoni.png) | ![George Fazekas](assets/img/organizers/)|
+|| ![ Massimiliano Zanoni ](/assets/img/organizers/massimiliano_zanoni.png) | ![George Fazekas](/assets/img/organizers/)|
 
 
 | Jam Session	    |      |  | 
 |:----------------|:------------------| :------------------| 
 ||Francois Pachet     |Mark d’Inverno      |
-|| ![Francois Pachet](assets/img/organizers/)| ![Mark d’Inverno ](assets/img/organizers/mark_dinverno.png)|
+|| ![Francois Pachet](/assets/img/organizers/)| ![Mark d’Inverno ](/assets/img/organizers/mark_dinverno.png)|
 
 
 |  Music and Tech		     |      |  | 
 |:----------------|:------------------| :------------------| 
 ||Matthew Yee King | Cristina Rottondi      |  
-| | ![Matthew Yee King ](assets/img/organizers/)| ![ Cristina Rottondi](assets/img/organizers/cristina_rottondi.jpg) |
+| | ![Matthew Yee King ](/assets/img/organizers/)| ![ Cristina Rottondi](/assets/img/organizers/cristina_rottondi.jpg) |
 
 
 |  Sponsorship/Industry	  |      |  | 
 |:----------------|:------------------| :------------------| 
 || Ilaria Manco | Luca Andrea Ludovico     |
-|| ![ Ilaria Manco](assets/img/organizers/Ilaria_manco.jpg)  | ![Luca Andrea Ludovico  ](assets/img/organizers/luca_andrea_ludovico.jpg)|
+|| ![ Ilaria Manco](/assets/img/organizers/Ilaria_manco.jpg)  | ![Luca Andrea Ludovico  ](/assets/img/organizers/luca_andrea_ludovico.jpg)|
 
 
 | Satellite Events Chair |       |   
 |:--------------------|:------------------|
 || Federico Avanzini |
-|| ![Federico Avanzini](assets/img/organizers/federico_avanzini.jpg)|
+|| ![Federico Avanzini](/assets/img/organizers/federico_avanzini.jpg)|
 
 
 | Women in MIR / Diversity and inclusion |  |  | | 
 |:------------------|:------------------|:------------------|:------------------|
 || Claire Arthur  |Xiao Hu  | Francesca Ronchini|
-|| ![Claire Arthur ](assets/img/organizers/claire_arthur.jpg)  |![Xiao Hu](assets/img/organizers/) | ![ Francesca Ronchini](assets/img/organizers/francesca_ronchini.jpg) |
+|| ![Claire Arthur ](/assets/img/organizers/claire_arthur.jpg)  |![Xiao Hu](assets/img/organizers/) | ![ Francesca Ronchini](/assets/img/organizers/francesca_ronchini.jpg) |
 
 
 |Virtual Technology, Social Media and Website  |  |  |  |  |                                                                   
 |:------------------|:------------------|:------------------|:------------------|:------------------|
 ||Marco Olivieri  | Luca Comanducci | Mirco Pezzoli | Clara Borrelli|
-| | ![ Marco Olivieri  ](assets/img/organizers/marco_olivieri.jpg) | ![Luca Comanducci ](assets/img/organizers/luca_comanducci.jpg)|![Mirco Pezzoli  ](assets/img/organizers/mirco_pezzoli.png)  | ![Clara Borrelli  ](assets/img/organizers/clara_borrelli.jpg)|
+| | ![ Marco Olivieri  ](/assets/img/organizers/marco_olivieri.jpg) | ![Luca Comanducci ](/assets/img/organizers/luca_comanducci.jpg)|![Mirco Pezzoli  ](/assets/img/organizers/mirco_pezzoli.png)  | ![Clara Borrelli  ](/assets/img/organizers/clara_borrelli.jpg)|
 
 
 
 |  Volunteering & Logistics    |      |  | 
 |:----------------|:------------------| :------------------|
 || Riccardo Giampiccolo  |Francesca Ronchini |
-||![Riccardo Giampiccolo ](assets/img/organizers/riccardo_giampiccolo.jpg)| ![Francesca Ronchini ](assets/img/organizers/francesca_ronchini.jpg) |
+||![Riccardo Giampiccolo ](/assets/img/organizers/riccardo_giampiccolo.jpg)| ![Francesca Ronchini ](/assets/img/organizers/francesca_ronchini.jpg) |
 
 
 | Social program & Local Organization       |    |                                                                                             
 |:----------------|:------------------|
 | |Alberto Bernardini |
-| |![Alberto Bernardini ](assets/img/organizers/alberto_bernardini.jpg) |
+| |![Alberto Bernardini ](/assets/img/organizers/alberto_bernardini.jpg) |
 
 <!--
 
