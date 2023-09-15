@@ -14,6 +14,8 @@ ISMIR 2023 offers sponsorship opportunities at the Platinum, Gold, and Silver le
 
 In addition to the main conference sponsorship, we offer the opportunity to ***support WiMIR*** (Women in Music Information Retrieval) initiatives and we also welcome ***sponsorship contributions for specific initiatives***, including student travel awards, best paper and presentation awards, and social events.
 
+The deadline for expressing your interest to sponsor ISMIR 2023 and/or WiMIR will be on **October 16, 2023**.
+
 Please find the benefits for Conference Sponsorship and WiMIR  Sponsorship below.
 
 ## ISMIR 2023 Sponsorship Packages
