@@ -6,4 +6,4 @@ background_position: 0% 44%
 ---
 Please find below an almost final version of the schedule.
 
-![Draft of the schedule for ISMIR 2023](assets/img/schedule.png)
+<img src="assets/img/schedule.png" width = "100%" alt = "Schedule">
