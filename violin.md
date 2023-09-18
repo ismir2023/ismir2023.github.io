@@ -29,6 +29,9 @@ In 2012 the "Traditional violin craftsmanship in Cremona" has been recognized as
 ## Violin Museum
 ![Violin Museum](/assets/img/violin_museum.png "The treasure box")
 Founded in 2013, the Violin Museum has rapidly evolved in one of the most lively spots in the city. At the violin museum you can look at the most valuable instruments built by the Cremonese masters. What makes the Violin Museum unique is the fact that these instruments are played on a regular basis by the resident musicians. 
+
+More information on the [Museo del Violino website](https://museodelviolino.org/en/)
+
 ![Auditorium](/assets/img/auditorium.png "The auditorium at the Violin Museum")
 ## How to reach Cremona
 Cremona is located 90 km south-east from Milano. A train connection links the two cities. More info on how to reach Cremona and on the logistics on the visit will be published soon.
