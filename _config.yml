@@ -56,7 +56,7 @@ navigation: # Navigation links
   - name: "Diversity & Inclusion"
     subitems:
     - {name: 'Mentoring', link: '/diversity/mentoring'}
-    - {name: 'Mentoring', link: '/diversity/wimir'}
+    - {name: 'WiMIR', link: '/diversity/wimir'}
 
 
 tagline: >
