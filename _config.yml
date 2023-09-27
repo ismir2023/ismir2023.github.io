@@ -56,6 +56,8 @@ navigation: # Navigation links
   - name: "Diversity & Inclusion"
     subitems:
     - {name: 'Mentoring', link: '/diversity/mentoring'}
+    - {name: 'Mentoring', link: '/diversity/wimir'}
+
 
 tagline: >
   Milan, Italy
