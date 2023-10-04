@@ -49,6 +49,7 @@ navigation: # Navigation links
      - {name: 'Tourist Information', link: '/tourist'}
      - {name: 'Visit to the Violin Museum', link: '/violinMuseum'}
      - {name: 'Code of Conduct', link: '/codeofconduct'}
+     - {name: 'Instruction for Presenters', link='/presenters'}
 
   - {name: 'Organizing committee', link: '/organizers'}
   - {name: 'Sponsors', link: '/sponsors'}
