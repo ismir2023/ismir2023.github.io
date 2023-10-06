@@ -33,6 +33,7 @@ navigation: # Navigation links
   - name: "Program"
     subitems:
      - {name: 'Schedule', link: '/schedule'}
+     - {name: 'Detailed Schedule', link: '/assets/img/detailed_schedule.pdf'}
      - {name: 'Accepted papers', link: '/papers'}
      - {name: 'Keynote Speakers', link: '/keynote'}
      - {name: 'Tutorials', link: '/tutorials'}
