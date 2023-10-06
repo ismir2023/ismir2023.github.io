@@ -10,4 +10,4 @@ Please find below an almost final version of the schedule.
 
 
 ## Detailed Schedule
-<embed src="/assets/img/detailed_schedule.pdf" width="160%" type="application/pdf">
+<embed src="/assets/img/detailed_schedule.pdf" width="160%" height="160%" type="application/pdf">
