@@ -10,4 +10,4 @@ Please find below an almost final version of the schedule.
 
 
 ## Detailed Schedule
-<img src="/assets/img/detailed_schedule" width="160%"/>
+<img src="/assets/img/detailed_schedule.png" width="160%"/>
