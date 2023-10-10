@@ -87,7 +87,8 @@ background_position: 0% 44%
 
 | Unconference |                                                                                                |
 |:----------------:|:-----------------------------------------------------------------------------------------------|
-| Geoffroy Peeters  | ![Geoffroy Peeters's picture](/assets/img/organizers/geoffroy_peeters.jpg "Geoffroy Peeters") |
+| |Geoffroy Peeters| 
+| |![Geoffroy Peeters's picture](/assets/img/organizers/geoffroy_peeters.jpg "Geoffroy Peeters") |
 
 <!--
 
