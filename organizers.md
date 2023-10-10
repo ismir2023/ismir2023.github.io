@@ -85,6 +85,10 @@ background_position: 0% 44%
 | |Alberto Bernardini |
 | |![Alberto Bernardini ](/assets/img/organizers/alberto_bernardini.jpg) |
 
+| Unconference |                                                                                                |
+|:----------------:|:-----------------------------------------------------------------------------------------------|
+| Geoffroy Peeters  | ![Geoffroy Peeters's picture](/ismir2023/assets/img/organizers/geoffroy_peeters.jpg "Geoffroy Peeters") |
+
 <!--
 
 | General chairs  |                                                                                                |
@@ -152,5 +156,9 @@ background_position: 0% 44%
 | Social program & Local Organization       |                                                                                                |
 |:----------------:|:-----------------------------------------------------------------------------------------------|
 | Alberto Bernardini  | ![Alberto Bernardini's picture](/ismir2023/assets/img/organizers/abernardini-100x100.jpg "Alberto Bernardini") |
+
+| Unconference |                                                                                                |
+|:----------------:|:-----------------------------------------------------------------------------------------------|
+| Geoffroy Peeters  | ![Geoffroy Peeters's picture](/ismir2023/assets/img/organizers/geoffroy_peeters.jpg "Geoffroy Peeters") |
 
 -->
