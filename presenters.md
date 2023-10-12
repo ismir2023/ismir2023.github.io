@@ -58,11 +58,17 @@ We recommend recording voice overs to a slide show or slides with embedded video
 **Format**
 
 Duration: up to 4 minutes (strict)
+
 File size: 300 MB max
+
 Video format: mp4
+
 Video codec: H.264
+
 Dimension: minimum height 720px, aspect ratio 16:9
+
 Resolution: 1080p (1920px x 1080px) or 720p (1280px x 720px)
+
 Filename: Please name the file as video_<submission_id>_<lastname>.mp4. <submission_id> is the paper submission number and <lastname> is the presenting author’s family name (ex: video_118_Goto.mp4)
 
 **Slides for in-person presenters**
