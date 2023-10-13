@@ -7,8 +7,6 @@ summary: Jam Session
 ---
 
 # ISMIR Jam Session – Milano 2023 - Wednesday 8th November 
-On November 10 we are pleased to invite you for a visit to the Violin Museum in Cremona and a recital with a historical violin in the fascinating "Giovanni Arvedi" auditorium, purposely designed for the violin acoustics.
-
 Calling all Musicians. Calling all Musicians.  The ISMIR Jam Session will take place after the main dinner at the “Museo della Scienza e della Tecnica” on Wednesday, November 8th. 
 The jam session will last about an hour – from 9.30 to 10.30 pm
 
