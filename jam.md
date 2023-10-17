@@ -43,3 +43,8 @@ After the Jam session, which is centred on Standards so that people can play tog
 This might be a little bit more of a free-for-all all! 
 
 _Mark d’Inverno and Francois Pachet_
+
+To participate to the Jam Session please fill the following [form](https://forms.gle/6Fp9AdZTaHHXxoaWA)
+
+Contact email: [jamsession@ismir.net](jamsession@ismir.net)
+
