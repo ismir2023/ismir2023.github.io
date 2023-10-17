@@ -31,6 +31,9 @@ Rachel is a Research Manager at Spotify in Paris. Before Spotify, she worked at 
 ![Rachel Bittner](/assets/img/keynote/rachel_bittner.jpg) 
 
 
+### Title: Building & Launching MIR systems at industry scale
+### Abstract: 
+There is a considerable gap in the research and engineering methods we use to build MIR systems for academic research and the way we build them for industry-scale systems. This keynote covers some of the many differences and challenges faced when building MIR systems for industry applications. We first discuss the way we define problems in the first place, and why the academic definition of problems is often ill-suited for a particular application. There are also substantial differences in engineering workflows – in particular when multiple researchers and engineers build a single system. We explore differences in academic datasets which are usually "small and clean" to real-world datasets which are "large and noisy". Academic metrics are useful for us scientists, but they often either don't match a product use case or mean nothing to product teams. Finally, we dig into deployment considerations including how to run inference flexibly, considering cost and speed, and where the system needs to run. We will explore numerous real-world examples throughout and provide insight into how to build MIR systems within industry.
 
 # Joey Stuckey
 
