@@ -46,5 +46,5 @@ _Mark d’Inverno and Francois Pachet_
 
 To participate to the Jam Session please fill the following [form](https://forms.gle/6Fp9AdZTaHHXxoaWA)
 
-Contact email: [jamsession@ismir.net](jamsession@ismir.net)
+Contact email: [ismir2023-jamsession@ismir.net](ismir2023-jamsession@ismir.net)
 
