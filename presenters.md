@@ -90,3 +90,14 @@ The materials must be uploaded following the instructions below by **October 13t
 Authors will receive an email with a link to upload their materials. Only in case of access restrictions or complications, participants may also share URL links to uploads of their material with ismir2023-tech@ismir.net using their own dropbox service or weTransfer.
 
 If you have any questions concerning uploading materials please contact  [ismir2023-tech@ismir.net](ismir2023-tech@ismir.net). If you have any questions regarding the presentation materials themselves, please reach out to [ismir2023-papers@ismir.net](ismir2023-papers@ismir.net).
+
+## Poster printing services
+
+The printing of the posters is the responsibility of the authors. The local organization team will not directly provide poster printing and delivery services.
+However, below we list some print shops that are close to the venue:
+
+- "CENTRO STAMPA VIRUS S.n.c.", Via Alfonso Corti, 30, 20133 Milano MI, [maps](https://maps.app.goo.gl/vTABZ8q2dqx455UEA);
+- "Eliocenter Centro Stampa", Via Averardo Buschi, Via Antonio Grossich, 20, 20131 Milano MI, [maps](https://maps.app.goo.gl/cJ38mc9UsP1TX2hG6);
+- "INKSTAMPA", Via Giovanni Pacini, 50, 20131 Milano MI, [maps](https://maps.app.goo.gl/1vc3nHyG7P3D55sy7);
+- "PoliPrint", Via Edoardo Bonardi, 9, floor G, 20133 Milano MI, [maps](https://maps.app.goo.gl/xmwdqKCM27FHfUmG8);
+
