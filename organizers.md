@@ -298,5 +298,5 @@ Hello, I'm Dario Sorce. I have obtained a bachelor's degree in Mechanical Engine
 
 ## Xenofon Karakonstantis
 Xenofon Karakonstantis is a PhD student at the Technical University of Denmark, with research focused in data-driven, large scale acoustic holography.  He has a strong background in acoustics, signal processing, and machine learning. He has a passion for exploring music, audio and acoustics and is dedicated to researching immersive audio experiences and mixed reality technologies.
-![image](https://github.com/ismir2023/ismir2023.github.io/assets/16526703/e6e76d83-d6ef-4ea5-9c7a-a37097a4691c)
+
 
