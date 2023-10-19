@@ -74,7 +74,7 @@ background_position: 0% 44%
 
 
 
-|  Volunteering & Logistics    |      |  | 
+|  Volunteering & Logistics    |      |  
 |:----------------|:------------------|
 || Riccardo Giampiccolo  |
 ||![Riccardo Giampiccolo ](/assets/img/organizers/riccardo_giampiccolo.jpg)|
