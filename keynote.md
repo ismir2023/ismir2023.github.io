@@ -21,6 +21,10 @@ Further information can be found at [https://christinebauer.eu](https://christin
 
  ![Christine Bauer](/assets/img/keynote/christine_bauer.jpg) 
 
+### Title: Help! - Bridging the Gap Between Music Technology and Diverse Stakeholder Needs
+### Abstract: 
+Music information retrieval (MIR) has become an indispensable asset in the music industry. It powers music recommendations for listeners and supports artists in mastering their crafts. While MIR has made remarkable progress, we need to improve in serving the multifaceted needs of stakeholders who rely on these technologies. Taking examples from music recommender systems, I will demonstrate the potential risks of neglecting artists' needs and provide strategies for mitigation.
+
 
 # Rachel Bittner
 
@@ -43,6 +47,17 @@ Joey Stuckey is the Official Music Ambassador of his hometown of Macon, Georgia.
 
 ![Joey Stuckey](/assets/img/keynote/joey_stuckey.jpg) 
 
+### Title: Seeing the light through music, a blind man’s journey of discovery through audio and how to navigate making music that speaks to the world in the age of the Screen Driven universe.
+### Abstract: 
+This presentation will encompass:
+- Diversity, Equity, Inclusion and Accessibility issues and best practices for a truly vibrant and equitable community in the audio industry and music business.
+  
+- Getting back to fundamentals, critical listening in the age of the “Screen Driven Universe”.
+  
+- Important elements of music making and the recording sciences
+  
+- How to live a successful life of intention despite obstacles
+  
 
 For more information visit  [www.joeystuckey.com](www.joeystuckey.com)
 
