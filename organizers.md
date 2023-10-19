@@ -75,10 +75,9 @@ background_position: 0% 44%
 
 
 |  Volunteering & Logistics    |      |  | 
-|:----------------|:------------------| :------------------|
-|| Riccardo Giampiccolo  |Francesca Ronchini |
-||![Riccardo Giampiccolo ](/assets/img/organizers/riccardo_giampiccolo.jpg)| ![Francesca Ronchini ](/assets/img/organizers/francesca_ronchini.jpg) |
-
+|:----------------|:------------------|
+|| Riccardo Giampiccolo  |
+||![Riccardo Giampiccolo ](/assets/img/organizers/riccardo_giampiccolo.jpg)|
 
 | Social program & Local Organization       |    |                                                                                             
 |:----------------|:------------------|
