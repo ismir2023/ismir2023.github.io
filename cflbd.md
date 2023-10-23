@@ -41,7 +41,7 @@ All submissions must comply with the following requirements:
 - Submission system: please submit the LBD extended abstract to [https://cmt3.research.microsoft.com/ISMIR2023/](https://cmt3.research.microsoft.com/ISMIR2023/) 
 - Note that we allow authors to edit their submissions until the camera-ready deadline.
 - Supplementary material (optional): authors are encouraged to submit a demo video (5 minutes or less, mp4, h264 codec, 100MB or less, with closed captions).
-- Final poster size: no larger than A0 or 36 x 48 inch
+- Final poster size: no larger than A1 or 70 x 100 cm (portrait)
 
 All submissions will be screened for the following criteria:
 
