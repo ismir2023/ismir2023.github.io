@@ -96,8 +96,8 @@ If you have any questions concerning uploading materials please contact  [ismir2
 The printing of the posters is the responsibility of the authors. The local organization team will not directly provide poster printing and delivery services.
 However, below we list some print shops that are close to the venue:
 
-- "CENTRO STAMPA VIRUS S.n.c.", Via Alfonso Corti, 30, 20133 Milano MI, [maps](https://maps.app.goo.gl/vTABZ8q2dqx455UEA) </br> mail: stampameglio(at)gmail.com;
-- "Eliocenter Centro Stampa", Via Averardo Buschi, Via Antonio Grossich, 20, 20131 Milano MI, [maps](https://maps.app.goo.gl/cJ38mc9UsP1TX2hG6) </br> mail: stampa(at)eliocenter.it;
-- "INKSTAMPA", Via Giovanni Pacini, 50, 20131 Milano MI, [maps](https://maps.app.goo.gl/1vc3nHyG7P3D55sy7) </br> mail: inkstampa.milano(at)gmail.com;
+- "CENTRO STAMPA VIRUS S.n.c.", Via Alfonso Corti, 30, 20133 Milano MI, [maps](https://maps.app.goo.gl/vTABZ8q2dqx455UEA), mail: stampameglio(at)gmail.com;
+- "Eliocenter Centro Stampa", Via Averardo Buschi, Via Antonio Grossich, 20, 20131 Milano MI, [maps](https://maps.app.goo.gl/cJ38mc9UsP1TX2hG6), mail: stampa(at)eliocenter.it;
+- "INKSTAMPA", Via Giovanni Pacini, 50, 20131 Milano MI, [maps](https://maps.app.goo.gl/1vc3nHyG7P3D55sy7), mail: inkstampa.milano(at)gmail.com;
 - "PoliPrint", Via Edoardo Bonardi, 9, floor G, 20133 Milano MI, [maps](https://maps.app.goo.gl/xmwdqKCM27FHfUmG8);
 
