@@ -34,4 +34,4 @@ More information on the [Museo del Violino website](https://museodelviolino.org/
 
 ![Auditorium](/assets/img/auditorium.png "The auditorium at the Violin Museum")
 ## How to reach Cremona
-Cremona is located 90 km south-east from Milano. A train connection links the two cities. More info on how to reach Cremona and on the logistics on the visit will be published soon.
+Cremona is located 90 km south-east from Milano. We will travel from Milano to Cremona by bus. Exact timing and meeting point will be communicated during the conference.
