@@ -9,7 +9,7 @@ background_position: 0% 44%
 
 
 ## Saturday, November 4
-<img src="/assets/img/Nov_4.png" width="160%"/>
+<img src="/assets/img/Nov_4.png" width="100%"/>
 
 
 ## Sunday, November 5
