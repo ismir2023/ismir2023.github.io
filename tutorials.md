@@ -160,7 +160,7 @@ Our primary goal is to give an exciting tutorial that builds a bridge from basic
 #### Links:
 
 **Textbook: Fundamentals of Music Processing**
-[www.music-processing.de](www.music-processing.de)
+[https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP](https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP)
 
 **FMP Notebooks**
 [https://www.audiolabs-erlangen.de/FMP](https://www.audiolabs-erlangen.de/FMP)
