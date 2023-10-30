@@ -203,7 +203,7 @@ I am a Music Technology Masters student at Georgia Tech, with a strong research 
 I am a Computer Science graduate with a Bachelor of Science degree from New York University, Abu Dhabi with minors in Applied Math and Interactive Media. My research focuses on studying the evolution of musical styles. I am also particularly fascinated by cross-cultural research especially in music systems outside of the Western tradition, including Carnatic and Maqam traditions.
 
 ### Surabhi Shinde
-![ Picture](/assets/img/volunteers/jacopo_fantin.jpeg)  
+<!--![ Picture](/assets/img/volunteers/jacopo_fantin.jpeg) -->
 Surabhi Shinde, currently pursuing MSc in data science from symbiosis skills and professional university, working on a paper related to music information retrieval , passionate about music and data associated with it.
  
 ### I-Chieh Wei
