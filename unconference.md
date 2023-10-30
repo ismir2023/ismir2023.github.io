@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Registration
-permalink: /registration/
+title: Unconference
+permalink: /unconference/
 hero_background: polimi.jpg
 background_position: 0% 0%
 ---
