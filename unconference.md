@@ -15,6 +15,7 @@ The overall success will depend on
 <ul>
   <li>good topics</li>
 <li>enthusiastic participation</li>
+</ul>
 **Proposing discussion topics**: In order to launch the process, we set up a brainstorming page were you can already start proposing discussion topics, comment them and vote for them:
 <https://dotstorming.com/b/653b7381bbcf8b05c4746d92>
 **Selecting discussion topics**: To vote, you should simply click at the bottom of the card. You will of course be able to propose/ select/ vote-for other discussion topics during the whole Unconference session, on the 9th.
