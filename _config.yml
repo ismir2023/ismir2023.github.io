@@ -48,8 +48,9 @@ navigation: # Navigation links
      - {name: 'Travel', link: '/travel'}
      - {name: 'Registration', link: '/registration'}
      - {name: 'Tourist Information', link: '/tourist'}
-     - {name: 'Visit to the Violin Museum', link: '/violinMuseum'}
      - {name: 'Jam Session', link: '/jam'}
+     - {name: 'Unconference', link: '/unconference'}
+     - {name: 'Visit to the Violin Museum', link: '/violinMuseum'}
      - {name: 'Code of Conduct', link: '/codeofconduct'}
      - {name: 'Instruction for Presenters', link: '/presenters'} 
 
