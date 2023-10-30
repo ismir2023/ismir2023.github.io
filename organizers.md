@@ -95,8 +95,12 @@ background_position: 0% 44%
                                                                                               
 |:----------------:|:-----------------------------------------------------------------------------------------------|
 | Jacopo Fantin| | 
-|![Jacopo Fantin](/assets/img/volunteers/jacopo_fantin.jpeg) | Music and Acoustic Engineering student at PoliMi, part-time project manager at Wins s.r.l. in Milan, conservatory 8th-year (old system) classical guitar player.|
+|![Jacopo Fantin's Picture](/assets/img/volunteers/jacopo_fantin.jpeg) | Music and Acoustic Engineering student at PoliMi, part-time project manager at Wins s.r.l. in Milan, conservatory 8th-year (old system) classical guitar player.|
 
+
+|:----------------|:------------------|
+|| Jacopo Fantin   |
+| Music and Acoustic Engineering student at PoliMi, part-time project manager at Wins s.r.l. in Milan, conservatory 8th-year (old system) classical guitar player. | ![Johan Pauwels](/assets/img/volunteers/jacopo_fantin.jpeg)|
 
 
 
