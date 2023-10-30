@@ -95,6 +95,14 @@ background_position: 0% 44%
 ### Jacopo Fantin
 Music and Acoustic Engineering student at PoliMi, part-time project manager at Wins s.r.l. in Milan, conservatory 8th-year (old system) classical guitar player.
 
+                                                                                              |
+|:----------------:|:-----------------------------------------------------------------------------------------------|
+| |Jacopo Fantin | 
+|![Jacopo Fantin](/assets/img/volunteers/jacopo_fantin.jpg) | Music and Acoustic Engineering student at PoliMi, part-time project manager at Wins s.r.l. in Milan, conservatory 8th-year (old system) classical guitar player.
+|
+
+
+
 ## Riccardo Passoni
 Riccardo Passoni is a Master's student in Music Engineering at Politecnico di Milano, with a particular interest in microtonality and ethnomusicology.
 
