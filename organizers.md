@@ -240,7 +240,7 @@ Data scientist who are passionate on music.
 Having obtained both a Bachelor's and a Master's degree in Music, specializing in Piano Performance, I’m currently studying in MIR at KAIST, where I focus my research on the quantification of motion in piano performance.
 
 ## Teng Ma
-I am an incoming music technology masters student at Georgia Technology in fall 2023, with research interest in cover song identification and audio classification.
+I am a Music Technology Masters student at Georgia Tech, with a strong research interest in music auto-tagging system. I come from a data science and statistics background, and worked as an analytics consultant prior to my Master’s degree.
 
 ## Gopika Krishnan
 I am a Computer Science graduate with a Bachelor of Science degree from New York University, Abu Dhabi with minors in Applied Math and Interactive Media. My research focuses on studying the evolution of musical styles. I am also particularly fascinated by cross-cultural research especially in music systems outside of the Western tradition, including Carnatic and Maqam traditions.
