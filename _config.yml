@@ -20,6 +20,7 @@ social:
 # THEME SETTINGS
 # - {name: 'Home', link: '/'}
 navigation: # Navigation links
+# - {name: Virtual Platform, link: 'http://ismir2023program.ismir.net/calendar.html'}
   - name: "Calls"
     subitems:
      - {name: 'Call for Papers', link: '/cfp'}
