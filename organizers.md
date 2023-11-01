@@ -162,7 +162,7 @@ I am a master's student in Music and Acoustic Engineering at Politecnico di Mila
 Haokun Song is a Master student at Politecnico di Milano, with research interests in Interactive Arts, Spatial Audio.
 
 ### Eray Özgünay
-![ Picture](/assets/img/volunteers/Eray_Özgünay.jpeg)  
+![ Picture](/assets/img/volunteers/Eray_Ozgunay.jpeg)  
 Eray Özgünay is an MsC student at Politecnico di Milano, with interests in machine learning in audio, and audio signal processing.
 
 ### Emanuele Greco
@@ -227,7 +227,7 @@ A PhD candidate of Music Technology Group, Universitat Pompeu Fabra.
 PhD student at Univ. Lille, I research computer assisted orchestration. I have done my bachelor and master at POLIMI.
 
 ### André Santos
-![ Picture](/assets/img/volunteers/André_Santos.jpg)  
+![ Picture](/assets/img/volunteers/Andre_Santos.jpg)  
 Having been passionate all my life about music, I plan on trying to combine my electrical and software engineering background with my passion for music. My master's thesis in the field of Computational Creativity consisted in a program that generated musical artifacts inspired by images. I also love teaching and helping others, having tutored other students at a tutoring center in different subjects (Artificial Intelligence, Machine Learning, Signals and Systems, etc.) as well as having been a Graduate Teaching Assistant teaching Digital Systems at Instituto Superior Técnico (IST). I have also worked as a Software Engineer at DocDigitizer. Currently I am a PhD Candidate in Informatics Engineering - more specifically in the fields of Music Information Retrieval (MIR) and Computational Creativity (CC) - at CISUC from the University of Coimbra where I'm studying tapped rhythm interactions and developing a co-creative tool that will help users leverage these interactions.
 
 ### Raísa Farias Silveira
@@ -263,7 +263,7 @@ My name is Alice Lenoci. I earned a bachelor's degree in Physics from the Univer
 My name is Chiara Auriemma, I am 21 years old and I was born on 04/2/2002 in Milan. I have a bachelor’s degree in Computer Science Engineering and now I am attending the master's course in Music and Acoustics Engineering at Politecnico di Milano. I am passionate about everything related to music and I play the electric guitar.
 
 ### Carlo Macrí
-![ Picture](/assets/img/volunteers/Carlo_Macrí.jpg)  
+![ Picture](/assets/img/volunteers/Carlo_Macri.jpg)  
 I am Carlo Macrí, born on 20/06/1998 in Perugia (PG). I graduated from the Galeazzo Alessi Scientific High School in Perugia and earned a bachelor's degree in Computer Science from the Department of Mathematics and Computer Science at the University of Perugia in 2020. In the same year, I began attending the Civica School of Violin Making in Milan and moved to the city. I obtained my diploma as a luthier in the current year, 2023. Finally, also this year, I enrolled in the Music and Acoustic Engineering program at Polimi.
 
 ### Dario Sorce
