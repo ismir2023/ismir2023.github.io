@@ -76,6 +76,7 @@ Filename: Please name the file as video_<submission_id>_<lastname>.mp4. <submiss
 In person presenters will need to upload the slides they will present ahead of time in either PDF or as a link to a google slides presentation. For upload instructions see the uploading section below.
 
 **Poster PDFs**
+
 The conference venue provides poster boards with a dimension of 700 x 1000 mm portrait, which is suitable for A1 paper. Poster should be in A1 portrait (594 x 841 mm) format. All posters will be available on MiniConf. Physical posters will be printed and displayed in the conference venue. More information about local poster printing services will be provided soon.
 
 **Thumbnail image**
