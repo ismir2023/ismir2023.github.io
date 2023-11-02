@@ -187,7 +187,7 @@ Julien Guinot is a first year PhD student at queen Mary university of London, hi
 
 ### Yuchen Zhang
 <!--![ Picture](/assets/img/volunteers/jacopo_fantin.jpeg)  -->
-Data scientist who are passionate on music.
+Yuchen Zhang, with a Bachelor's Degree in Statistics and a Master's Degree in Data Science, is very intrigued by music production and has composed some music! Yuchen hopes to use the power of cutting-edge technology to make a breakthrough in music creation.
 
 
 ### Hyeyoon Cho
