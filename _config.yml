@@ -62,7 +62,7 @@ navigation: # Navigation links
     subitems:
     - {name: 'Mentoring', link: '/diversity/mentoring'}
     - {name: 'WiMIR', link: '/diversity/wimir'}
-
+ - {name: 'Photos', link: '/photos'}
 
 tagline: >
   Milan, Italy
