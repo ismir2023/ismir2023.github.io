@@ -30,7 +30,7 @@ navigation: # Navigation links
      - {name: 'Call for Music', link: '/cfm'}
      - {name: 'Call for Late-Breaking Demo', link: '/cflbd'}
 
-
+  - {name: 'Photos', link: '/photos'}
   - name: "Program"
     subitems:
      - {name: 'Schedule', link: '/schedule'}
@@ -62,7 +62,7 @@ navigation: # Navigation links
     subitems:
     - {name: 'Mentoring', link: '/diversity/mentoring'}
     - {name: 'WiMIR', link: '/diversity/wimir'}
- - {name: 'Photos', link: '/photos'}
+
  
 
 tagline: >
