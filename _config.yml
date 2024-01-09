@@ -1,4 +1,4 @@
-# SITE CONFIGURATION
+:# SITE CONFIGURATION
 title: ISMIR 2023  # your site title
 author: Marco Olivieri # You :P
 description: > # Meta description of Homepage
@@ -30,7 +30,11 @@ navigation: # Navigation links
      - {name: 'Call for Music', link: '/cfm'}
      - {name: 'Call for Late-Breaking Demo', link: '/cflbd'}
 
-  - {name: 'Photos', link: '/photos'}
+  - name: "Media"
+    subitems: 
+    - {name: 'Informal photos and videos', link: '/photos'}
+    - {name: 'Paper, keynote and panel videos', link: '/videos'}
+    
   - name: "Program"
     subitems:
      - {name: 'Schedule', link: '/schedule'}
