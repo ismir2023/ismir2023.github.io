@@ -23,6 +23,7 @@ In this page you can find the official photos of the 2023 ISMIR conference, both
 ## 8 November
 - [Link to Dinner Photos](https://www.dropbox.com/sh/2k6zt5fc0auf27u/AADEjllmj-eHKdee5zZpIfB0a/8-Nov/Foto/Cena/high?dl=0&subfolder_nav_tracking=1)
 - [Link to Keynote Photos](https://www.dropbox.com/sh/2k6zt5fc0auf27u/AABinxIOyBJRgQXvVofKxhVoa/8-Nov/Foto/Keynote?dl=0&subfolder_nav_tracking=1)
+- [Link to Social Dinner Video](https://www.dropbox.com/sh/2k6zt5fc0auf27u/AABloNOEdItNN82YG0DGb5Aka/8-Nov/Video?dl=0&subfolder_nav_tracking=1)
 
 
 ## 9 November
